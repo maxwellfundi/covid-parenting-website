@@ -25,4 +25,4 @@ jobs:
     - id: upload-files
       name: Upload tip sheets to Google Cloud Storage (rsync)
       timeout-minutes: 30
-      run: gsutil rsync -d -R -c ./tip_sheets gs://covid-website-pdfs1
+      run: gsutil rsync -d -R -c ./tip_sheets gs://covid-website-pdfs1/assets/tip_sheets
