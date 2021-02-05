@@ -66,6 +66,9 @@ In its new podcast series, the End Violence Partnership explores the answer to t
       <p>        
         Our Faith-Based Resources promotes positive parenting to families and communities.
       </p>
+      <div>
+        <img src="assets/resources/faithbased/leaders_thumbnail.png" /> 
+      </div>
       <a routerLink="/faithleaders">Read more</a>
     </div>
     <div class="nav-card-item-content">
@@ -117,7 +120,15 @@ In its new podcast series, the End Violence Partnership explores the answer to t
       <div class="nav-cards">
         <div class="nav-card-item">
              <div class="nav-card-item-content tipsheets-item-content" data-aos="zoom-in" data-aos-duration="1000" data-aos-anchor-placement="top-bottom">
-              <a style="font-size: 18px;" href="assets/resources/psas/Top-6-Tips-English.pdf" target="_blank">Top 6 Parenting Tips</a>
+              <div>
+                <div>
+                  <img style="display: block;
+                  margin-left: auto;
+                  margin-right: auto;
+                  width: 50%;" src="assets/resources/tipsheet_thumbnail.png" /> 
+                </div>
+              </div>
+               <a style="font-size: 18px;" href="assets/resources/psas/Top-6-Tips-English.pdf" target="_blank">Top 6 Parenting Tips</a>
               <hr/>
                  <div *ngFor="let tipSheet of arrVisibleTipSheets">
                     <a href="{{ tipSheet.pdfSrc}}" target="_blank">
