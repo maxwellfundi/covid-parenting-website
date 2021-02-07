@@ -84,6 +84,7 @@ const MENU_ITEMS: MenuItem[] = [
 export class MenuComponent implements OnInit {
 
   menuDropdownOpen: boolean = false;
+  searchDropdownOpen: boolean = false;
   menuItems = MENU_ITEMS;
 
   constructor(private viewportScroller: ViewportScroller) { }
