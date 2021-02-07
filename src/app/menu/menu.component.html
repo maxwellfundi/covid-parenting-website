@@ -1,35 +1,48 @@
 <nav class="navbar fixed-top">
   <div class="content header-contents">
-    <div class="google-translate-control"><div id="google_translate_element"></div></div>
+      
+    <div class="google-controls">
+      <div class="google-translate-control">
+        <div id="google_translate_element"></div>
+      </div>
+      <div class="search-text" (click)="searchDropdownOpen = true">Search</div>
+    </div>
+
     <div class="toolbar">
       <div class="website-title">
         <h2>COVID-19 Parenting</h2>
       </div>
-    
+
       <div class="desktop-menu">
         <div class="desktop-menu-items">
           <div *ngFor="let item of menuItems" class="menu-item">
             <a [routerLink]="item.href"> {{ item.name }} </a>
             <div class="dropdown-content">
-              <div *ngFor="let subItem of item.subMenuItems" class="dropdown-item">
-                <a [routerLink]="subItem.href" fragment="{{subItem.fragment}}"
-                  (click)="scrollToFragment(subItem.fragment)">{{ subItem.name }}</a>
-              </div> 
+              <div
+                *ngFor="let subItem of item.subMenuItems"
+                class="dropdown-item"
+              >
+                <a
+                  [routerLink]="subItem.href"
+                  fragment="{{ subItem.fragment }}"
+                  (click)="scrollToFragment(subItem.fragment)"
+                  >{{ subItem.name }}</a
+                >
+              </div>
             </div>
-          </div> 
+          </div>
         </div>
       </div>
-      
-     
+
       <div class="menu-icon" (click)="menuDropdownOpen = true">
         <div></div>
         <div></div>
-        <div></div> 
+        <div></div>
       </div>
     </div>
 
     <!--for the mobile menu-->
-    <div id="mobileMenu" class="mobile-menu-overlay" [ngStyle]="{'height': menuDropdownOpen ? '100%' : '0%' }">
+    <div id="mobileMenu" class="mobile-menu-overlay" [ngStyle]="{ height: menuDropdownOpen ? '100%' : '0%' }">
       <!-- button to close the overlay navigation -->
       <a href="#" class="closebtn" (click)="menuDropdownOpen = false">&times;</a>
       <!-- menu nav links content -->
@@ -37,6 +50,21 @@
         <a *ngFor="let item of menuItems" [routerLink]="item.href" (click)="menuDropdownOpen = false">{{ item.name }}</a>
       </div>
     </div>
-  </div>
+     <!--/for the mobile menu-->
 
+
+      <!--for the mobile menu-->
+      <div id="searchMenu" class="search-overlay" [ngStyle]="{ height: searchDropdownOpen ? '100%' : '0%' }">
+        <!-- button to close the overlay navigation -->
+        <a href="#" class="closebtn" (click)="searchDropdownOpen = false">&times;</a>
+        <!-- menu nav links content -->
+        <div class="search-overlay-content">
+          <div><div class="gcse-search"></div> </div>
+           
+        </div>
+      </div>
+       <!--/for the mobile menu-->
+
+
+  </div>
 </nav>
