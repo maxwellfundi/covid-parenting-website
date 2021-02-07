@@ -16,22 +16,6 @@
   border-color: #75c5ca;
 }
 
-.news-letter-content {
-  display: flex;
-  flex-direction: row;
-}
 
-.news-letter-content img {
-  margin-right: 20px;
-}
 
-@media only screen and (max-width: 450px) {
-  .news-letter-content { 
-    flex-direction: column;
-  }
-
-  .news-letter-content img {
-    margin-right: 0px;
-    margin-bottom: 10px;
-  }
-}
+ 

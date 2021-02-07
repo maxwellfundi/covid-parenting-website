@@ -60,7 +60,7 @@ export class ResourcesService {
           arr.push(row);
         }
       } catch (ex) {
-        console.log("Error in fetching resources by language: " +(ex as Error).message);
+        //console.log("Error in fetching resources by language: " +(ex as Error).message);
       }
 
     });

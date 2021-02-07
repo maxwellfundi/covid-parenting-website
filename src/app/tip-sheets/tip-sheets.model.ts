@@ -1,4 +1,5 @@
 export type LanguageCSVRow = {
+    languageType: number;
     languageCode: string;
     languageName: string;
     tipSheetNumber: number;
@@ -6,8 +7,9 @@ export type LanguageCSVRow = {
 };
 
 export type Language = {
-    name: string;
+    type: number;
     code: string;
+    name: string;    
 };
 
 export type TipSheet = {

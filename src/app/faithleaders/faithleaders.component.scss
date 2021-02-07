@@ -1,27 +1,22 @@
+.nav-card-item-header {
+  background: #75c5ca;
+}
 
- .nav-card-item-header {
-    background: #75c5ca;
-  }
-  
- .nav-card-item-content h5 {
-    color: #75c5ca;
-  }
-  
- .nav-card-item-content a {
-    color: #75c5ca;
-    font-weight: 500;
-    font-size: medium;
-  }
-  
- .nav-card-item-content hr {
-    border-color: #75c5ca; 
-  }
-  .slow-down-video-content {
-    margin-top: 60px;
-    display: block;
-  
-    .youtube-container {
-      max-width: 99%;
-      overflow: hidden;
-    }
-  }
+.nav-card-item-content h5 {
+  color: #75c5ca;
+}
+
+.nav-card-item-content a {
+  color: #75c5ca;
+  font-weight: 500;
+  font-size: medium;
+}
+
+.nav-card-item-content hr {
+  border-color: #75c5ca;
+}
+
+.leaders-tips-text p {
+  margin-bottom: 10px;
+}
+

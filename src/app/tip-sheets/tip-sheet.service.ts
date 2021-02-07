@@ -20,9 +20,7 @@ export class TipSheetService {
 
   private fetchTipSheets(): Observable<{ [langCode: string]: TipSheet[] }> {
     return this.spreadsheetService.getCSVObjects("assets/tip_sheets/tipSheetNames.csv")
-      .pipe(
-        shareReplay(1),
-        map((rows: LanguageCSVRow[]) => {
+      .pipe(  shareReplay(1), map((rows: LanguageCSVRow[]) => {
           this.languagesByCode = {};
           this.tipSheetsByLanguage = {};
           rows.forEach((row) => {
@@ -31,23 +29,31 @@ export class TipSheetService {
               if (!this.tipSheetsByLanguage[langCode]) {
                 this.tipSheetsByLanguage[langCode] = [];
                 let lang: Language = {
+                  type: row.languageType,
                   code: langCode,
                   name: row.languageName
                 };
                 this.languagesByCode[langCode] = lang;
               }
+
               this.tipSheetsByLanguage[langCode].push({
                 title: row.title,
                 thumnailSrc: `assets/images/tip_sheet_thumbnails/${row.tipSheetNumber}.webp`,
                 pdfSrc: `${environment.pdfBaseUrl}${langCode}/${row.tipSheetNumber}.pdf`
               });
+
             }
           });
+
+
+          //set sorted languages
           this.sortedLanguages = Object.keys(this.languagesByCode)
             .map((code) => this.languagesByCode[code])
             .sort((a, b) => a.name.toLowerCase().localeCompare(b.name.toLowerCase()));
+
           return this.tipSheetsByLanguage;
         })
+
       );
   }
 

@@ -14,15 +14,18 @@ import { TipSheetService } from '../tip-sheets/tip-sheet.service';
 export class TipsComponent {
 
   tipSheetLang: Language = {
+    type: 1,
     code: "en",
     name: "English"
   };
   languages: Language[] = [];
 
   constructor(private route: ActivatedRoute, private tipSheetService: TipSheetService, private router: Router) {
+   
     this.tipSheetService.getLanguages().subscribe((languages) => {
       this.languages = languages;
     });
+
     this.route.params.subscribe((paramMap) => {
       if (paramMap["langCode"]) {
         this.tipSheetService.getLanguageByCode(paramMap["langCode"])
@@ -31,6 +34,7 @@ export class TipsComponent {
               this.tipSheetLang = lang;
             } else {
               this.tipSheetLang = {
+                type: 1,
                 code: "en",
                 name: "English"
               };

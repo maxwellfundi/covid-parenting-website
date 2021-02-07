@@ -11,9 +11,9 @@ export class TipsLangSelectComponent implements OnInit, OnChanges {
   @Input() currentLanguage: Language;
   @Output() onLanguageChange: EventEmitter<Language> = new EventEmitter();
 
-  @Input() languages: Language[] = [{ code: "en", name: "English" }];
+  @Input() languages: Language[] = [{ type: 1, code: "en", name: "English" }];
   selectedRange: string[] = ["C", "F"];
-  letterRanges: string[][] = [["A", "B"], ["C", "F"], ["G", "J"], ["K", "L"], ["M", "P"], ["R", "S"], ["T", "Z"]];
+  letterRanges: string[][] = [["A", "B"], ["C", "F"], ["G", "J"], ["K", "L"], ["M", "P"], ["R", "S"], ["T", "Z"], ["OTHERS", ""]];
   dropdownLanguages: Language[] = [];
 
   constructor() { }
@@ -29,23 +29,39 @@ export class TipsLangSelectComponent implements OnInit, OnChanges {
   }
 
   onLetterRangeClick(range: string[], changeLang: boolean = true) {
-    let lowerLetter = range[0].toLowerCase();
-    let higherLetter = range[1].toLowerCase();
+    //for "others" do differently
+    let bType2: boolean = (range[0] === "OTHERS");
+    let lowerLetter: string;
+    let higherLetter: string;
     this.selectedRange = range;
+
+    if (!bType2) {
+      lowerLetter = range[0].toLowerCase();
+      higherLetter = range[1].toLowerCase();
+    }
+
+    let firstLetter: string;
     this.dropdownLanguages = this.languages.filter((lang) => {
-      let firstLetter = lang.name.toLowerCase()[0];
-      return firstLetter >= lowerLetter && firstLetter <= higherLetter;
+      if (bType2) {
+        return lang.type === 2;
+      } else {
+        firstLetter = lang.name.toLowerCase()[0];
+        return firstLetter >= lowerLetter && firstLetter <= higherLetter;
+      }
+
     });
+
     if (changeLang && this.dropdownLanguages.length > 0) {
       this.currentLanguage = this.dropdownLanguages[0];
-      this.onLanguageChange.emit(this.dropdownLanguages[0]);
+      //this.onLanguageChange.emit(this.dropdownLanguages[0]);
     }
-  }
+
+  }//end method
 
   onLanguageClick(language: Language) {
     this.currentLanguage = language;
     this.onLanguageChange.emit(language);
   }
-  
+
 
 }

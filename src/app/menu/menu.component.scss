@@ -137,6 +137,11 @@
   display: none;
 }
 
+.google-translate-control {
+  display: flex;
+  justify-content: flex-end;
+}
+
 @media only screen and (max-width: 900px) {
   .toolbar {
     justify-content: space-between;

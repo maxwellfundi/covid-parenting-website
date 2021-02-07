@@ -1,4 +1,4 @@
-name: Sync Tip Sheets from GDrive
+name: Sync Tip Sheets
 on:
   workflow_dispatch
 
@@ -9,18 +9,15 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-    - name: Cache Google Drive Assets
-      id: cache-drive-assets
-      uses: actions/cache@v2
+    - name: Install crcmod
+      run: |
+        sudo apt-get install gcc python-dev python-setuptools
+        sudo pip install -I --no-cache-dir -U crcmod
+    - uses: actions/checkout@v1
       with:
-        path: ./tip_sheets
-        key: ${{ runner.os }}-tip-sheets  
-    - name: rclone - Download tip sheets from Google Drive
-      uses: wei/rclone@v1
-      env:
-        RCLONE_CONF: ${{ secrets.RCLONE_CONF }}
-      with:
-        args: copy -v gdrive:Covid19Parenting_Website_Tip_Sheets ./tip_sheets
+        lfs: true
+    - name: Checkout LFS objects
+      run: git lfs checkout
     - name: Setup GCloud
       uses: GoogleCloudPlatform/github-actions/setup-gcloud@master
       with:
@@ -32,4 +29,4 @@ jobs:
     - id: upload-files
       name: Upload tip sheets to Google Cloud Storage (rsync)
       timeout-minutes: 30
-      run: gsutil rsync -d -R -c ./tip_sheets gs://covid-website-pdfs1
+      run: gsutil rsync -R -c ./tip_sheets gs://covid-website-pdfs1/assets/tip_sheets
