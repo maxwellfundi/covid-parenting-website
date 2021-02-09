@@ -62,11 +62,11 @@ export class MapComponent implements OnInit {
     .openPopup();
 
     L.marker([32, 71.10], {icon: myIcon}).addTo(this.map)
-    .bindPopup('<b>Pakistan:</b> National television broadcasts')
+    .bindPopup('<img style="max-width: -webkit-fill-available;" src="assets/impacts/map/Pakistan.png"/></br><b>Pakistan:</b> National television broadcasts')
     .openPopup();
 
     L.marker([40, 73.10], {icon: myIcon}).addTo(this.map)
-    .bindPopup('<b>Kyrgyzstan:</b> Cartoon videos on national television reaching over 2 million people')
+    .bindPopup('<img style="max-width: -webkit-fill-available;" src="assets/impacts/map/Kyrgyzstan.png"/></br><b>Kyrgyzstan:</b> Cartoon videos on national television reaching over 2 million people')
     .openPopup();
 
     L.marker([20, 103.10], {icon: myIcon}).addTo(this.map)
@@ -74,7 +74,7 @@ export class MapComponent implements OnInit {
     .openPopup();
 
     L.marker([16, 103.10], {icon: myIcon}).addTo(this.map)
-    .bindPopup('<b>Thailand:</b> Government distributed leaflets in Health Promotion hospitals throughout the country')
+    .bindPopup('<img style="max-width: -webkit-fill-available;" src="assets/impacts/map/Thailand.png"/></br><b>Thailand:</b> Government distributed leaflets in Health Promotion hospitals throughout the country')
     .openPopup();
 
     L.marker([42, 10.10], {icon: myIcon}).addTo(this.map)
