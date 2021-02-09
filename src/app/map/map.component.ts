@@ -23,8 +23,8 @@ export class MapComponent implements OnInit {
       zoomDelta:0.25,
       zoomSnap:0.5,
       minZoom: 2,
-      maxZoom:2,
-      dragging: false
+      maxZoom:4,
+      dragging: true
     }).setView([0.0, 0], 2);
 
     const tiles = L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png',{
