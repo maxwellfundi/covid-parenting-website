@@ -81,7 +81,7 @@ export class MapComponent implements OnInit {
     .bindPopup('Montenegro: Emergency phone lines, webinars, food parcels')
     .openPopup();
 
-    L.marker([-28, 19.10], {icon: myIcon}).addTo(this.map)
+    L.marker([-31.5, 19.10], {icon: myIcon}).addTo(this.map)
     .bindPopup('South Africa: National radio broadcasts in 7 languages')
     .openPopup();
 
