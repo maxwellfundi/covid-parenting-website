@@ -21,7 +21,7 @@ export class MapComponent implements OnInit {
   private initMap() {
     this.map = L.map('map',{
       zoomDelta:0.25,
-      zoomSnap:0.5,
+      zoomSnap:0.25,
       minZoom: 2,
       maxZoom:4,
       dragging: true
