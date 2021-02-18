@@ -46,7 +46,7 @@ const MENU_ITEMS: MenuItem[] = [
     name: "IMPACT",
     href: "/impact",
     subMenuItems: [
-      { name: "Reach by Region", href: "/impact", fragment: "reach-by-region" },
+      { name: "Global Impact", href: "/impact", fragment: "reach-by-region" },
       { name: "Reach by Dissemination Method", href: "/impact", fragment: "reach-by-dissemination" },
       { name: "Impact Stories", href: "/impactstories" },
       { name: "Champions of Children", href: "/impactchampions" },
@@ -84,6 +84,7 @@ const MENU_ITEMS: MenuItem[] = [
 export class MenuComponent implements OnInit {
 
   menuDropdownOpen: boolean = false;
+  searchDropdownOpen: boolean = false;
   menuItems = MENU_ITEMS;
 
   constructor(private viewportScroller: ViewportScroller) { }

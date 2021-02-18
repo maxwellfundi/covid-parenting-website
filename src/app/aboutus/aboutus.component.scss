@@ -20,6 +20,16 @@
   flex-wrap: wrap;
 }
 
+.red-more-buttons{
+  min-height: 40px;  
+  border-style: none;
+  border-radius: 30px; 
+  background: #5d61ac;
+  font-weight: 500;
+  font-size: 16px;
+  color:whitesmoke;
+
+}
 @media only screen and (max-width: 450px) {
   .nav-images {
     flex-wrap: nowrap;
