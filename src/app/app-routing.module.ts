@@ -22,6 +22,8 @@ import { BlogPostComponent } from './blog/blog-post/blog-post.component';
 import { FaithleadersComponent } from './faithleaders/faithleaders.component';
 import { NewsMainComponent } from './news-main/news-main.component';
 import { MapComponent } from './map/map.component';
+import { ImpactbriefsComponent } from './impactbriefs/impactbriefs.component';
+
 
 
 const routes: Routes = [
@@ -47,6 +49,8 @@ const routes: Routes = [
   { path: "impactstories", component: ImpactStoriesComponent },
   { path: "impactchampions", component: ImpactChampionsComponent },
   { path: "impactmap", component: MapComponent },
+  {path: "impactbriefs", component: ImpactbriefsComponent},
+  
 
   {
     path: "blog",
