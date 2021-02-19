@@ -52,6 +52,7 @@ import { ImpactComponent } from './impact/impact.component';
 import { ImpactChampionsComponent } from './impact-champions/impact-champions.component';
 import { TipsLangSelectComponent } from './tips-lang-select/tips-lang-select.component';
 import { MapComponent } from './map/map.component';
+import { ImpactbriefsComponent } from './impactbriefs/impactbriefs.component';
 
 @NgModule({
   declarations: [
@@ -96,7 +97,8 @@ import { MapComponent } from './map/map.component';
     ImpactComponent,
     ImpactChampionsComponent,
     TipsLangSelectComponent,
-    MapComponent
+    MapComponent,
+    ImpactbriefsComponent
   ],
   imports: [
     BrowserModule,
