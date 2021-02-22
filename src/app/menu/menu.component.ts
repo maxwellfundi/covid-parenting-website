@@ -56,7 +56,7 @@ const MENU_ITEMS: MenuItem[] = [
   },
 
   {
-    name: "NEWS",
+    name: "NEWS & MEDIA",
     href: "/news-main",
     subMenuItems: [
       { name: "Updates", href: "/news" },
