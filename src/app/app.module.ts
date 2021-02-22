@@ -53,6 +53,9 @@ import { ImpactChampionsComponent } from './impact-champions/impact-champions.co
 import { TipsLangSelectComponent } from './tips-lang-select/tips-lang-select.component';
 import { MapComponent } from './map/map.component';
 import { ImpactbriefsComponent } from './impactbriefs/impactbriefs.component';
+import { PressComponent } from './press/press.component';
+import { PublicationsComponent } from './publications/publications.component';
+import { PodcastsComponent } from './podcasts/podcasts.component';
 
 @NgModule({
   declarations: [
@@ -98,7 +101,10 @@ import { ImpactbriefsComponent } from './impactbriefs/impactbriefs.component';
     ImpactChampionsComponent,
     TipsLangSelectComponent,
     MapComponent,
-    ImpactbriefsComponent
+    ImpactbriefsComponent,
+    PressComponent,
+    PublicationsComponent,
+    PodcastsComponent
   ],
   imports: [
     BrowserModule,
