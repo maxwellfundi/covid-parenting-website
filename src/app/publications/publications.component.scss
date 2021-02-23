@@ -1,3 +1,26 @@
 .nav-card-item-header {
     background: #75c5ca;
 }
+
+.pub-container {
+    display: flex;
+    flex-direction: row;
+    p {
+        font-size: 26px;
+
+        a {
+            font-size: 26px;
+        }
+    }
+
+    .pub-thumbnail {
+        height: 300px;
+        margin: 20px;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .pub-container {
+        display: block;
+    }
+}
