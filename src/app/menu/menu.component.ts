@@ -24,7 +24,7 @@ const MENU_ITEMS: MenuItem[] = [
   },
 
   {
-    name: "RESOURCES",
+    name: "PARENTING",
     href: "/resources",
     subMenuItems: [
       { name: "Parenting Tips", href: "/tips" },
