@@ -7,20 +7,20 @@
   flex: 65%;
 }
 
-.red-more-buttons{
-  width: 25%; 
-  min-height: 30px;  
-   border-style: none;
+.red-more-buttons{  
+  border-style: none;
   border-radius: 30px; 
-   background: #75c5ca;
+  background: #75c5ca;
+  width: fit-content;
+  cursor: pointer;
+ 
 }
 
 .more-buttons-tips{
-  width: 40%; 
   min-height: 30px;  
-   border-style: none;
+  border-style: none;
   border-radius: 30px; 
-   background: #75c5ca;
+  background: #75c5ca;
 }
 
 .about-image {
