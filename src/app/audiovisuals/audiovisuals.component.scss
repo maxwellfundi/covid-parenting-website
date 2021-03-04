@@ -26,3 +26,17 @@
   width: 200px;
   height: 200px;
 }
+
+.red-more-buttons{
+  min-height: 30px;  
+  color: #0b4061;
+  border-style: none;
+  border-radius: 30px; 
+  background: #75c5ca;
+  width: fit-content;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
