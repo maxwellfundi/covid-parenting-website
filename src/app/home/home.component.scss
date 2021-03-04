@@ -7,12 +7,13 @@
   flex: 65%;
 }
 
-.red-more-buttons{
-  min-height: 30px;  
-  min-height: 40px;  
+.red-more-buttons{  
   border-style: none;
   border-radius: 30px; 
   background: #75c5ca;
+  width: fit-content;
+  cursor: pointer;
+ 
 }
 
 .more-buttons-tips{
