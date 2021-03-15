@@ -1,0 +1,13 @@
+<br><br><br>
+<p>search works!</p>
+<input type="text" [(ngModel)]="searchterm" (keydown)="search($event)"/>
+
+<ul *ngFor="let webpage of webpages">
+    <li>{{webpage.name}}</li>
+    <li>{{webpage.content}}</li>
+
+</ul>
+
+<div *ngIf="webpages?.length < 1">
+    <p> Sorry no results found</p>
+</div>

@@ -3,7 +3,6 @@ import { Router, NavigationEnd, ActivatedRoute } from '@angular/router';
 import { ResourcesService } from './resources.service';
 import * as AOS from 'aos';
 import { ViewportScroller } from '@angular/common';
-import { AngularFirestore } from '@angular/fire/firestore'
 declare let gtag: Function;
 @Component({
   selector: 'app-root',

@@ -61,8 +61,10 @@ import { environment } from '../environments/environment'
 //Angular Firetore modules
 
 import { AngularFireModule} from '@angular/fire'
-import { AngularFirestore, AngularFirestoreModule } from '@angular/fire/firestore'
+import { AngularFirestore, AngularFirestoreModule } from '@angular/fire/firestore';
+import { SearchComponent } from './search/search.component'
 
+import { FormsModule } from '@angular/forms'
 @NgModule({
   declarations: [
     AppComponent,
@@ -110,7 +112,8 @@ import { AngularFirestore, AngularFirestoreModule } from '@angular/fire/firestor
     ImpactbriefsComponent,
     PressComponent,
     PublicationsComponent,
-    PodcastsComponent
+    PodcastsComponent,
+    SearchComponent
   ],
   imports: [
     BrowserModule,
@@ -120,6 +123,7 @@ import { AngularFirestore, AngularFirestoreModule } from '@angular/fire/firestor
     NgbModule,
     ScullyLibModule,
     LeafletModule,
+    FormsModule,
     AngularFireModule.initializeApp(environment.firebase),
     AngularFirestoreModule.enablePersistence()
   ],

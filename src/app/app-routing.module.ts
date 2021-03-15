@@ -26,6 +26,7 @@ import { ImpactbriefsComponent } from './impactbriefs/impactbriefs.component';
 import { PressComponent } from './press/press.component';
 import { PublicationsComponent } from './publications/publications.component';
 import { PodcastsComponent } from './podcasts/podcasts.component';
+import { SearchComponent } from './search/search.component'
 
 
 
@@ -56,6 +57,8 @@ const routes: Routes = [
   { path: "press", component: PressComponent },
   { path: "publications", component: PublicationsComponent },
   { path: "podcasts", component: PodcastsComponent },
+  { path: "search", component: SearchComponent },
+
   {
     path: "blog",
     component: BlogComponent,
