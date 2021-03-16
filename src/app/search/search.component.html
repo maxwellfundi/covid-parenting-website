@@ -1,13 +1,16 @@
 <br><br><br>
 <p>search works!</p>
-<input type="text" [(ngModel)]="searchterm" (keydown)="search($event)"/>
+<input type="text" [(ngModel)]="searchterm" (keydown)="filterList($event)"/>
 
-<ul *ngFor="let webpage of webpages">
-    <li>{{webpage.name}}</li>
-    <li>{{webpage.content}}</li>
+<div *ngIf="searchterm">
+    <ul *ngFor="let webpage of contentList">
+        <li><a [href]="webpage.url">{{webpage.name}}</a></li>
+        <li>{{webpage.content}}</li>
+    
+    </ul>
+</div>
 
-</ul>
 
-<div *ngIf="webpages?.length < 1">
+<div *ngIf="contentList?.length < 1">
     <p> Sorry no results found</p>
 </div>

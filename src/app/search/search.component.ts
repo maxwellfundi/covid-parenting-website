@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { AngularFirestore } from '@angular/fire/firestore'
 import { Observable, Subject, combineLatest } from 'rxjs'
+import { first } from 'rxjs/operators'
 
 
 @Component({
@@ -12,38 +13,38 @@ export class SearchComponent implements OnInit {
 
   searchterm: string;
 
-  startAt = new Subject();
-  endAt = new Subject();
+  public contentList: any[];
+  public contentListBackup: any[];
 
-  webpages;
-
-  startobs = this.startAt.asObservable();
-  endobs = this.endAt.asObservable();
-
-  lastKeypress: number = 0;
 
   constructor(private afs: AngularFirestore) { }
 
-  ngOnInit(): void {
-    combineLatest([this.startobs, this.endobs]).subscribe((value)=>{
-       this.firequery(value[0], value[1]).subscribe((webpages)=>{
-        this.webpages = webpages;
-       })
+  async ngOnInit(){
+
+    this.contentList = await this.initializeItems();
+
+  }
+
+  async initializeItems(): Promise<any>{
+    const contentList = await this.afs.collection('pages').valueChanges().pipe(first()).toPromise();
+    this.contentListBackup = contentList;
+    return contentList;
+  }
+
+  async filterList($event){
+    this.contentList = this.contentListBackup;
+    const searchTerm = $event.target.value;
+
+    if(!searchTerm){
+      return;
+    }
+
+    this.contentList = this.contentList.filter(currentContent => {
+      console.log("current content", currentContent)
+      if(currentContent.name && searchTerm){
+        return (currentContent.name.toLowerCase().indexOf(searchTerm.toLowerCase()) > -1 || currentContent.content.toLowerCase().indexOf(searchTerm.toLowerCase()) > -1);
+      }
     })
   }
 
-  search($event){
-    if($event.timeStamp - this.lastKeypress > 200){
-      let q = $event.target.value;
-      this.startAt.next(q);
-      this.endAt.next(q + '\uf8ff')
-    }
-
-    this.lastKeypress = $event.timeStamp
-
-  }
-
-  firequery(start, end){
-    return this.afs.collection('pages', ref => ref.limit(4).orderBy('name').startAt(start).endAt(end)).valueChanges();
-  }
 }
