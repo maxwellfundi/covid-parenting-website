@@ -17,3 +17,23 @@
  .nav-card-item-content hr {
     border-color: #75c5ca; 
   }
+
+  .news-container {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .news-resource {
+    flex: 40%;
+  }
+  
+  .news-text {
+    flex: 60%;
+    padding-left: 10px;
+  }
+  
+  .news-resource img {
+    width: 100%;
+    height: 150px;
+  }
+  
