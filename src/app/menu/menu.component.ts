@@ -76,6 +76,10 @@ const MENU_ITEMS: MenuItem[] = [
       { name: "Champions of Children Survey", href: "/contactus" , fragment: "champions-of-children-survey"},
       { name: "Teens App Survey", href: "/contactus" , fragment: "teen-app-survey"},
     ]
+  },
+  {
+    name: "Search",
+    href: "/search"
   }
 ];
 

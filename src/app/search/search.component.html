@@ -1,16 +1,36 @@
 <br><br><br>
-<p>search works!</p>
-<input type="text" [(ngModel)]="searchterm" (keydown)="filterList($event)"/>
+<p> Search the Website</p><br>
 
-<div *ngIf="searchterm">
-    <ul *ngFor="let webpage of contentList">
-        <li><a [href]="webpage.url">{{webpage.name}}</a></li>
-        <li>{{webpage.content}}</li>
+<div class="wrap">
+    <div class="search">
+       <input type="text" [(ngModel)]="searchterm" (keydown)="filterList($event)" class="searchTerm" placeholder="What are you looking for?">
+       <button type="submit" class="searchButton">
+         <i class="fa fa-search"></i>
+      </button>
+    </div>
     
-    </ul>
-</div>
+ </div>
+ 
 
+<p> Website</p>
+<section class="d-block">
+    <div *ngIf="searchterm">
+        <ul *ngFor="let webpage of contentList">
+            <li>
+                <a class="none" [href]="webpage.url">
+                    <span class="name"></span>{{webpage.name}}
+                    <p class="normal" >{{webpage.content}}</p>
+                </a>
+           
+            </li>
+            
+        
+        </ul>
+    </div>
+    
+    
+    <div *ngIf="contentList?.length < 1">
+        <p> Sorry no results found</p>
+    </div>
+</section>
 
-<div *ngIf="contentList?.length < 1">
-    <p> Sorry no results found</p>
-</div>
