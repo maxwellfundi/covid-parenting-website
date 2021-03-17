@@ -1,9 +1,8 @@
-<br><br><br>
-<p> Search the Website</p><br>
+<h3> Search the Website</h3>
 
 <div class="wrap">
     <div class="search">
-       <input type="text" [(ngModel)]="searchterm" (keydown)="filterList($event)" class="searchTerm" placeholder="What are you looking for?">
+       <input type="text" [(ngModel)]="searchterm" (keydown)="filterList($event)" class="searchTerm" placeholder="Looking for something? Search the Website">
        <button type="submit" class="searchButton">
          <i class="fa fa-search"></i>
       </button>
@@ -12,14 +11,17 @@
  </div>
  
 
-<p> Website</p>
 <section class="d-block">
-    <div *ngIf="searchterm">
+    <h5> Website</h5>
+
+    <!--<div *ngIf="searchterm"> -->
+      <div>
         <ul *ngFor="let webpage of contentList">
             <li>
                 <a class="none" [href]="webpage.url">
-                    <span class="name"></span>{{webpage.name}}
-                    <p class="normal" >{{webpage.content}}</p>
+                    <span class="name">{{webpage.name}}</span>
+                   <!--<p class="normal" >{{webpage.content}}</p>--> 
+                   <p class="normal" [innerHTML]="webpage.content | highlightSearch:searchterm "></p>
                 </a>
            
             </li>

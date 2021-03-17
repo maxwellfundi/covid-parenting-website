@@ -64,6 +64,9 @@ import { AngularFireModule} from '@angular/fire'
 import { AngularFirestore, AngularFirestoreModule } from '@angular/fire/firestore';
 import { SearchComponent } from './search/search.component'
 
+//Search highlight pipe
+import { HighlightSearchPipe} from './pipes/highlight-search.pipe'
+
 import { FormsModule } from '@angular/forms'
 @NgModule({
   declarations: [
@@ -113,7 +116,8 @@ import { FormsModule } from '@angular/forms'
     PressComponent,
     PublicationsComponent,
     PodcastsComponent,
-    SearchComponent
+    SearchComponent,
+    HighlightSearchPipe
   ],
   imports: [
     BrowserModule,
