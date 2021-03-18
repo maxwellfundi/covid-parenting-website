@@ -39,13 +39,22 @@
     left: 50%;
     transform: translate(-50%, -50%);
   }
+ 
 
 
 
-  .d-block{
-      display: block;
-      margin-top: 17%;
+  @media (min-width:320px){ 
+    .d-block{
+      margin-top: 40%;
+    }
   }
+
+  @media(min-width: 600px){
+    .d-block{
+      margin-top: 17%;
+    }
+  }
+
   .none{
       text-decoration: none;
       color: #00B4CC;
