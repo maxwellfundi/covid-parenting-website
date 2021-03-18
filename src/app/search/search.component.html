@@ -7,7 +7,6 @@
          <i class="fa fa-search"></i>
       </button>
     </div>
-    
  </div>
  
 
@@ -16,14 +15,14 @@
 
     <!--<div *ngIf="searchterm"> -->
       <div>
+        <span *ngIf="filterMetadata">{{filterMetadata.count}} Results</span> 
         <ul *ngFor="let webpage of contentList">
             <li>
                 <a class="none" [href]="webpage.url">
                     <span class="name">{{webpage.name}}</span>
                    <!--<p class="normal" >{{webpage.content}}</p>--> 
-                   <p class="normal" [innerHTML]="webpage.content | highlightSearch:searchterm "></p>
+                   <p class="normal" [innerHTML]="(webpage.content | highlightSearch:searchterm:filterMetadata )"></p>
                 </a>
-           
             </li>
             
         

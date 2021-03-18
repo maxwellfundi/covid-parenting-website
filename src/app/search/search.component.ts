@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { AngularFirestore } from '@angular/fire/firestore'
-import { Observable, Subject, combineLatest } from 'rxjs'
 import { first } from 'rxjs/operators'
+import { pageList} from "src/app/search/index"
 
 
 @Component({
@@ -12,8 +12,8 @@ import { first } from 'rxjs/operators'
 export class SearchComponent implements OnInit {
 
   searchterm: string;
-
-  public contentList: any[];
+  filterMetadata = {count: 0}
+  public contentList;
   public contentListBackup: any[];
 
 
@@ -26,7 +26,9 @@ export class SearchComponent implements OnInit {
   }
 
   async initializeItems(): Promise<any>{
-    const contentList = await this.afs.collection('pages').valueChanges().pipe(first()).toPromise();
+    // const contentList = await this.afs.collection('pages').valueChanges().pipe(first()).toPromise();
+   const contentList = pageList;
+    console.log("contentlist", contentList)
     this.contentListBackup = contentList;
     return contentList;
   }
@@ -40,7 +42,6 @@ export class SearchComponent implements OnInit {
     }
 
     this.contentList = this.contentList.filter(currentContent => {
-      console.log("current content", currentContent)
       if(currentContent.name && searchTerm){
         return (currentContent.name.toLowerCase().indexOf(searchTerm.toLowerCase()) > -1 || currentContent.content.toLowerCase().indexOf(searchTerm.toLowerCase()) > -1);
       }
