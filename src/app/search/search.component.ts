@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
-import { AngularFirestore } from '@angular/fire/firestore'
-import { first } from 'rxjs/operators'
+//import { AngularFirestore } from '@angular/fire/firestore'
+//import { first } from 'rxjs/operators'
 import { pageList} from "src/app/search/index"
 
 
@@ -17,7 +17,7 @@ export class SearchComponent implements OnInit {
   public contentListBackup: any[];
 
 
-  constructor(private afs: AngularFirestore) { }
+  // constructor(private afs: AngularFirestore) { }
 
   async ngOnInit(){
 
@@ -26,9 +26,9 @@ export class SearchComponent implements OnInit {
   }
 
   async initializeItems(): Promise<any>{
+    //Make query to firestore
     // const contentList = await this.afs.collection('pages').valueChanges().pipe(first()).toPromise();
    const contentList = pageList;
-    console.log("contentlist", contentList)
     this.contentListBackup = contentList;
     return contentList;
   }
@@ -46,6 +46,7 @@ export class SearchComponent implements OnInit {
         return (currentContent.name.toLowerCase().indexOf(searchTerm.toLowerCase()) > -1 || currentContent.content.toLowerCase().indexOf(searchTerm.toLowerCase()) > -1);
       }
     })
+    
   }
 
 }

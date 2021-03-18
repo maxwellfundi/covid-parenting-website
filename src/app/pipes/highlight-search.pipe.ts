@@ -7,7 +7,10 @@ import { filter } from 'rxjs/operators';
 })
 
 export class HighlightSearchPipe implements PipeTransform {
+
+
     constructor(private sanitizer: DomSanitizer){}
+  
     transform( value: any, args: any, filterMetadata: any): any {
         if (!args) {
           return value;
@@ -16,16 +19,22 @@ export class HighlightSearchPipe implements PipeTransform {
         
         const regex = new RegExp(args, 'gi');
         const match = value.match(regex);
-    
+       
         if (!match) {
           return value;
         }
 
         const replacedValue = value.replace(regex, `<span class='highlight'>${match[0]}</span>`);
 
+        
         const count = (replacedValue.match(/highlight/g) || []).length;
         filterMetadata.count = count;
-       // console.log("Count", count, "replaced", replacedValue)
+
+       
+        
+
         return this.sanitizer.bypassSecurityTrustHtml(replacedValue)
       }
+
+     
 }

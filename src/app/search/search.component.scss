@@ -34,8 +34,8 @@
   /*Resize the wrap to see the search bar change!*/
   .wrap{
     width: 75%;
-    position: absolute;
-    top: 17%;
+    position: fixed;
+  //  top: 17%;
     left: 50%;
     transform: translate(-50%, -50%);
   }
@@ -47,11 +47,17 @@
     .d-block{
       margin-top: 40%;
     }
+    .wrap{
+      top: 20%
+    }
   }
 
   @media(min-width: 600px){
     .d-block{
       margin-top: 17%;
+    }
+    .wrap{
+      top: 20%
     }
   }
 
