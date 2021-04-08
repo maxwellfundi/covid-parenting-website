@@ -1,0 +1,37 @@
+<h3> Search the Website</h3>
+
+<div class="wrap">
+    <div class="search">
+       <input type="text" [(ngModel)]="searchterm" (keydown)="filterList($event)" class="searchTerm" placeholder="Looking for something? Search the Website">
+       <button type="submit" class="searchButton">
+         <i class="fa fa-search"></i>
+      </button>
+    </div>
+ </div>
+ 
+
+<section class="d-block">
+    <h5> Website</h5>
+
+    <!--<div *ngIf="searchterm"> -->
+      <div>
+        <span *ngIf="filterMetadata">{{filterMetadata.count}} <span>{{filterMetadata.count === 1 ? "Result": "Results"}}</span></span> 
+        <ul *ngFor="let webpage of contentList">
+            <li>
+                <a class="none" [href]="webpage.url">
+                    <span class="name">{{webpage.name}}</span>
+                   <!--<p class="normal" >{{webpage.content}}</p>--> 
+                   <p class="normal" [innerHTML]="(webpage.content | highlightSearch:searchterm:filterMetadata )"></p>
+                </a>
+            </li>
+            
+        
+        </ul>
+    </div>
+    
+    
+    <div *ngIf="contentList?.length < 1">
+        <p> Sorry no results found</p>
+    </div>
+</section>
+

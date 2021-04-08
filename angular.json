@@ -27,7 +27,11 @@
               "src/favicon.ico",
               "src/assets",
               "src/admin",
-              { "glob": "tipSheetNames.csv", "input": "./tip_sheets", "output": "./assets/tip_sheets/"}
+              {
+                "glob": "tipSheetNames.csv",
+                "input": "./tip_sheets",
+                "output": "./assets/tip_sheets/"
+              }
             ],
             "styles": [
               "src/styles.scss",
@@ -124,6 +128,10 @@
               "devServerTarget": "covid-parenting-website:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {}
         }
       }
     }

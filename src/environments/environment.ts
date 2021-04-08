@@ -4,7 +4,16 @@
 
 export const environment = {
   production: false,
-  pdfBaseUrl: 'http://storage.googleapis.com/covid-website-pdfs1/assets/tip_sheets/'
+  pdfBaseUrl: 'http://storage.googleapis.com/covid-website-pdfs1/assets/tip_sheets/',
+  firebase:{
+    apiKey: "",
+    authDomain: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: "",
+    measurementId: ""
+  }
 };
 
 /*
