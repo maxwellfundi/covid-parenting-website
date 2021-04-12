@@ -56,12 +56,8 @@ import { ImpactbriefsComponent } from './impactbriefs/impactbriefs.component';
 import { PressComponent } from './press/press.component';
 import { PublicationsComponent } from './publications/publications.component';
 import { PodcastsComponent } from './podcasts/podcasts.component';
-import { environment } from '../environments/environment'
 
-//Angular Firetore modules
 
-import { AngularFireModule} from '@angular/fire'
-import { AngularFirestore, AngularFirestoreModule } from '@angular/fire/firestore';
 import { SearchComponent } from './search/search.component'
 
 //Search highlight pipe
@@ -128,8 +124,6 @@ import { FormsModule } from '@angular/forms'
     ScullyLibModule,
     LeafletModule,
     FormsModule,
-    AngularFireModule.initializeApp(environment.firebase),
-    AngularFirestoreModule.enablePersistence()
   ],
   providers: [
     SpreadsheetService,

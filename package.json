@@ -26,7 +26,6 @@
     "@angular/common": "~11.0.5",
     "@angular/compiler": "~11.0.5",
     "@angular/core": "~11.0.5",
-    "@angular/fire": "^6.1.4",
     "@angular/forms": "~11.0.5",
     "@angular/localize": "~11.0.5",
     "@angular/platform-browser": "~11.0.5",
@@ -40,7 +39,6 @@
     "@scullyio/scully": "^1.0.0-beta.2",
     "aos": "^2.3.4",
     "bootstrap": "^4.4.0",
-    "firebase": "^8.3.0",
     "leaflet": "^1.7.1",
     "rxjs": "~6.5.4",
     "tslib": "^2.0.0",
@@ -68,12 +66,6 @@
     "ts-node": "~8.3.0",
     "tslint": "~6.1.0",
     "typescript": "~4.0.5",
-    "xlsx": "^0.16.8",
-    "@angular-devkit/architect": ">= 0.900 < 0.1200",
-    "firebase-tools": "^8.0.0",
-    "fuzzy": "^0.1.3",
-    "inquirer": "^6.2.2",
-    "inquirer-autocomplete-prompt": "^1.0.1",
-    "open": "^7.0.3"
+    "xlsx": "^0.16.8"
   }
 }
