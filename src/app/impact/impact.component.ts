@@ -1,12 +1,13 @@
 import { Component, ElementRef, OnInit } from '@angular/core';
 import { ImpactService, ImpactSummary } from './impact.service';
+import { AnimateHelper} from '../../app/utils/animateHelper'
 
 @Component({
   selector: 'app-impact',
   templateUrl: './impact.component.html',
   styleUrls: ['./impact.component.scss']
 })
-export class ImpactComponent implements OnInit {
+export class ImpactComponent extends AnimateHelper implements OnInit{
 
   public strCurrentDate: string = "";
   public arrRegionSummaries: ImpactSummary[] = [];
@@ -15,6 +16,7 @@ export class ImpactComponent implements OnInit {
   public totalDisseminationSummary: number = 0;
 
   constructor(private elem: ElementRef, private impactStoriesService: ImpactService) {
+    super();
     this.strCurrentDate = new Date().toLocaleDateString();
 
     impactStoriesService.fetchImpactSummaries().subscribe((impactsummaries) => {
@@ -29,8 +31,8 @@ export class ImpactComponent implements OnInit {
       });
 
 
-      this.setAndAnimateNumberCounts(this.elem.nativeElement.querySelectorAll('.total-dissemination'), this.totalDisseminationSummary);
-      this.setAndAnimateNumberCounts(this.elem.nativeElement.querySelectorAll('.total-region'), this.totalRegionSummary);
+      ImpactComponent.setAndAnimateNumberCounts(this.elem.nativeElement.querySelectorAll('.total-dissemination'), this.totalDisseminationSummary);
+      ImpactComponent.setAndAnimateNumberCounts(this.elem.nativeElement.querySelectorAll('.total-region'), this.totalRegionSummary);
 
     });
 
@@ -44,7 +46,7 @@ export class ImpactComponent implements OnInit {
   ngAfterViewInit() {
   }//end method
 
- 
+ /*
 
   private setAndAnimateNumberCounts(htmlTag: any, innerHtmlValue: number){
     for (let i: number = 0; i < htmlTag.length; i++) {
@@ -73,6 +75,6 @@ export class ImpactComponent implements OnInit {
     };
     window.requestAnimationFrame(step);
   }//end method
-
+*/
 
 }

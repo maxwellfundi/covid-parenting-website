@@ -143,7 +143,7 @@
   font-size: 30px;
   color: chocolate;
 }
-
+/*
 @property --num {
   syntax: "<integer>";
   initial-value: 150721568;
@@ -151,7 +151,7 @@
 }
 
 .numbers-reach {
-  animation: counter 7s infinite alternate ease-in-out;
+  animation: counter 5s infinite alternate ease-in-out;
   animation-iteration-count: 1;
  counter-reset: num var(--num);
   font: 800 40px system-ui;
@@ -170,3 +170,4 @@
     --num: 15072;
   }
 }
+*/
