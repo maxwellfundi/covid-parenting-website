@@ -21,69 +21,12 @@ languageType,languageCode,languageName,tipSheetNumber,title
 1,af,Afrikaans,4,Slegte Gedrag
 1,af,Afrikaans,5,Bly Kalm en Beheer Stres
 1,af,Afrikaans,6,Praat oor COVID-19
-1,al,Shqip,1,Koha individuale me secilin femije
-1,al,Shqip,2,Te qenit pozitiv (optimist)
-1,al,Shqip,3,Organizohuni!
-1,al,Shqip,4,Sjelljet e keqija
-1,al,Shqip,5,Ruani qetesine dhe menaxhoni stresin
-1,al,Shqip,6,Te flasim rreth COVID-19
-1,al,Shqip,7,Si t’ i mbani fëmijët të sigurt online
-1,al,Shqip,8,Buxhetimi familijar gjatë periudhës së stresit financiar
-1,al,Shqip,9,Harmonia familijare në shtëpi
-1,al,Shqip,10,Të nx ënit përmes lojërave
-1,al,Shqip,11,Kur ndihemi të inatosur
-1,al,Shqip,12,Prindërimi në dhe në komunitete me shumë anëtarë
-1,al,Shqip,13,Këshilla për fëmijët me aftësi të kufizuara Të
-1,al,Shqip,14,Këshilla për prindërimin e adoleshentëve
-1,al,Shqip,15,Prindërimi i një foshnje të re?
-1,et,Eesti,1,Üks ühele aeg
-1,et,Eesti,2,Hoia tuju üleval
-1,et,Eesti,3,Loo struktuur!
-1,et,Eesti,4,Halb käitumine
-1,et,Eesti,5,Ole rahulik ja tegele stressi maandamisega
-1,et,Eesti,6,COVID-19st rääkimine
-1,et,Eesti,7,Laste turvalisuse tagamine internetis
-1,et,Eesti,8,Pere eelarve majanduslikult kitsal ajal
-1,et,Eesti,9,Kodurahu
-1,et,Eesti,10,Mängu kaudu õppimine
-1,et,Eesti,11,Kui vihastume
-1,et,Eesti,12,Vanemlus kitsastes tingimustes
-1,et,Eesti,13,Nõuanded puuetega laste vanematele
-1,et,Eesti,14,Mõned vihjed teismeliste vanematele
-1,et,Eesti,15,Sul on taas beebi?
-1,fr,Français,1,Du Temps en Tête-à-tête
-1,fr,Français,2,Restez Positif
-1,fr,Français,3,Instaurez un Cadre
-1,fr,Français,4,Les Mauvais Comportements
-1,fr,Français,5,Gardez le Calme et Gérez le Stress
-1,fr,Français,6,Parler du COVID-19
-1,fr,Français,7,Assurer la sécurité des enfants sur le ne
-1,fr,Français,8,Le budget familial en période de difficulté financière
-1,fr,Français,9,L'harmonie familiale à la maison
-1,fr,Français,10,Apprendre en s'amusant
-1,fr,Français,11,Quand Nous Sommes en Colère
-1,fr,Français,12,Être parent dans les foyers et les communautés surpeuplées
-1,fr,Français,13,Conseils pour les enfants en situation de handicap
-1,fr,Français,14,Conseils pour les parents d'adolescents
-1,fr,Français,15,Vous êtes parent d'un nouveau-né ?
 2,gu,ગુજરાતી,1,ગણવત્તાસભર સમય
 2,gu,ગુજરાતી,2,સકારાત્મક રહવે ં ુ
 2,gu,ગુજરાતી,3,રોજિંદા કાર્યોની નવેસરથી યાદી બનાવો!
 2,gu,ગુજરાતી,4,ખરાબ વર્તન
 2,gu,ગુજરાતી,5,શાંત રહો અને તણાવનં સં ુ ચાલન કરો
 2,gu,ગુજરાતી,6,COVID-19 વિશે વાત કરવી
-1,hu,Magyar,1,Időtöltés együtt
-1,hu,Magyar,2,Maradjon pozitív
-1,hu,Magyar,3,Tervezze meg a napját!
-1,hu,Magyar,4,Rossz Viselkedés
-1,hu,Magyar,5,Maradjon Nyugodt és Uralja a Stresszt
-1,hu,Magyar,6,Beszélgetés a COVID-19-ról
-1,id,Bahasa Indonesia,1,Waktunya Berbicara Berdua
-1,id,Bahasa Indonesia,2,Tetap Positif
-1,id,Bahasa Indonesia,3,Membuat Struktur
-1,id,Bahasa Indonesia,4,Perilaku yang Buruk
-1,id,Bahasa Indonesia,5,Tetap Tenang dan Kelola Stres
-1,id,Bahasa Indonesia,6,Berbicara tentang
 2,jp,日本語,1,子どもと一対一の時間
 2,jp,日本語,2,いつも前向きに
 2,jp,日本語,3,ルーティンを作る
@@ -102,42 +45,123 @@ languageType,languageCode,languageName,tipSheetNumber,title
 2,ka,ქართული,10,თამაშით სწავლა
 2,ka,ქართული,11,როდესაც ვბრაზობთ
 2,ka,ქართული,12,მშობლობა ხალხმრავალ სახლებში და თემებში
-1,kk,Қазақ Tілі,1,Баламен жеке уақыт өткізу
-1,kk,Қазақ Tілі,2,Позитивті көңіл-күйді ұстаныңыз
-1,kk,Қазақ Tілі,3,Структура жасаңыз
-1,kk,Қазақ Tілі,4,COVID-19 жайлы әңгіме
-1,kk,Қазақ Tілі,5,Сабырлы болыңыз және Стрессті қолда ұстаңыз
-1,kk,Қазақ Tілі,6,Жаман мінез-құлық
-1,ku,Kurmancî,1,Demên taybet yên xwe û zarokê xwe
-1,ku,Kurmancî,2,Bi pozatîvî bimîne
-1,ku,Kurmancî,3,Karan li hev bîne!
-1,ku,Kurmancî,4,Tevgerên nebaş
-1,ku,Kurmancî,5,Aram be û bi ser stres û astengiyan de zal be
-1,ku,Kurmancî,6,Axaftin li ser Coronayê
+1,al,Albanian,1,Koha individuale me secilin femije
+1,al,Albanian,2,Te qenit pozitiv (optimist)
+1,al,Albanian,3,Organizohuni!
+1,al,Albanian,4,Sjelljet e keqija
+1,al,Albanian,5,Ruani qetesine dhe menaxhoni stresin
+1,al,Albanian,6,Te flasim rreth COVID-19
+1,al,Albanian,7,Si t’ i mbani fëmijët të sigurt online
+1,al,Albanian,8,Buxhetimi familijar gjatë periudhës së stresit financiar
+1,al,Albanian,9,Harmonia familijare në shtëpi
+1,al,Albanian,10,Të nx ënit përmes lojërave
+1,al,Albanian,11,Kur ndihemi të inatosur
+1,al,Albanian,12,Prindërimi në dhe në komunitete me shumë anëtarë
+1,al,Albanian,13,Këshilla për fëmijët me aftësi të kufizuara Të
+1,al,Albanian,14,Këshilla për prindërimin e adoleshentëve
+1,al,Albanian,15,Prindërimi i një foshnje të re?
+1,et,Estonian,1,Üks ühele aeg
+1,et,Estonian,2,Hoia tuju üleval
+1,et,Estonian,3,Loo struktuur!
+1,et,Estonian,4,Halb käitumine
+1,et,Estonian,5,Ole rahulik ja tegele stressi maandamisega
+1,et,Estonian,6,COVID-19st rääkimine
+1,et,Estonian,7,Laste turvalisuse tagamine internetis
+1,et,Estonian,8,Pere eelarve majanduslikult kitsal ajal
+1,et,Estonian,9,Kodurahu
+1,et,Estonian,10,Mängu kaudu õppimine
+1,et,Estonian,11,Kui vihastume
+1,et,Estonian,12,Vanemlus kitsastes tingimustes
+1,et,Estonian,13,Nõuanded puuetega laste vanematele
+1,et,Estonian,14,Mõned vihjed teismeliste vanematele
+1,et,Estonian,15,Sul on taas beebi?
+1,fr,French,1,Du Temps en Tête-à-tête
+1,fr,French,2,Restez Positif
+1,fr,French,3,Instaurez un Cadre
+1,fr,French,4,Les Mauvais Comportements
+1,fr,French,5,Gardez le Calme et Gérez le Stress
+1,fr,French,6,Parler du COVID-19
+1,fr,French,7,Assurer la sécurité des enfants sur le ne
+1,fr,French,8,Le budget familial en période de difficulté financière
+1,fr,French,9,L'harmonie familiale à la maison
+1,fr,French,10,Apprendre en s'amusant
+1,fr,French,11,Quand Nous Sommes en Colère
+1,fr,French,12,Être parent dans les foyers et les communautés surpeuplées
+1,fr,French,13,Conseils pour les enfants en situation de handicap
+1,fr,French,14,Conseils pour les parents d'adolescents
+1,fr,French,15,Vous êtes parent d'un nouveau-né ?
+1,gu,Gujarati,1,ગણવત્તાસભર સમય
+1,gu,Gujarati,2,સકારાત્મક રહવે ં ુ
+1,gu,Gujarati,3,રોજિંદા કાર્યોની નવેસરથી યાદી બનાવો!
+1,gu,Gujarati,4,ખરાબ વર્તન
+1,gu,Gujarati,5,શાંત રહો અને તણાવનં સં ુ ચાલન કરો
+1,gu,Gujarati,6,COVID-19 વિશે વાત કરવી
+1,hu,Hungarian,1,Időtöltés együtt
+1,hu,Hungarian,2,Maradjon pozitív
+1,hu,Hungarian,3,Tervezze meg a napját!
+1,hu,Hungarian,4,Rossz Viselkedés
+1,hu,Hungarian,5,Maradjon Nyugodt és Uralja a Stresszt
+1,hu,Hungarian,6,Beszélgetés a COVID-19-ról
+1,id,Bahasa Indonesia,1,Waktunya Berbicara Berdua
+1,id,Bahasa Indonesia,2,Tetap Positif
+1,id,Bahasa Indonesia,3,Membuat Struktur
+1,id,Bahasa Indonesia,4,Perilaku yang Buruk
+1,id,Bahasa Indonesia,5,Tetap Tenang dan Kelola Stres
+1,id,Bahasa Indonesia,6,Berbicara tentang
+1,jp,Japanese,1,子どもと一対一の時間
+1,jp,Japanese,2,いつも前向きに
+1,jp,Japanese,3,ルーティンを作る
+1,jp,Japanese,4,もし「悪い子になったら」
+1,jp,Japanese,5,落ち着いて、ストレスと向き合おう
+1,jp,Japanese,6,新型コロナウィルス感染症について話そう
+1,ka,Georgian,1,ერთად ყოფნის დრო
+1,ka,Georgian,2,შეინარჩუნეთ პოზიტიურობა!
+1,ka,Georgian,3,დაგეგმეთ!
+1,ka,Georgian,4,ცუდი ქცევა
+1,ka,Georgian,5,იყავით მშვიდად და მართეთ სტრესი
+1,ka,Georgian,6,საუბრები COVID 19-ის შესახებ
+1,ka,Georgian,7,დავიცვათ ბავშვების უსაფრთხოება ონლაინ სივრცეში
+1,ka,Georgian,8,ოჯახის ბიუჯეტის შედგენა ფინანსური კრიზისის დროს
+1,ka,Georgian,9,ოჯახური ჰარმონია სახლში
+1,ka,Georgian,10,თამაშით სწავლა
+1,ka,Georgian,11,როდესაც ვბრაზობთ
+1,ka,Georgian,12,მშობლობა ხალხმრავალ სახლებში და თემებში
+1,kk,Kazakh,1,Баламен жеке уақыт өткізу
+1,kk,Kazakh,2,Позитивті көңіл-күйді ұстаныңыз
+1,kk,Kazakh,3,Структура жасаңыз
+1,kk,Kazakh,4,COVID-19 жайлы әңгіме
+1,kk,Kazakh,5,Сабырлы болыңыз және Стрессті қолда ұстаңыз
+1,kk,Kazakh,6,Жаман мінез-құлық
+1,ku,Kurmanji,1,Demên taybet yên xwe û zarokê xwe
+1,ku,Kurmanji,2,Bi pozatîvî bimîne
+1,ku,Kurmanji,3,Karan li hev bîne!
+1,ku,Kurmanji,4,Tevgerên nebaş
+1,ku,Kurmanji,5,Aram be û bi ser stres û astengiyan de zal be
+1,ku,Kurmanji,6,Axaftin li ser Coronayê
 1,lg,Luganda,1,Obudde bw'okubeera n'omwana nga oli naye mwekanamweka
 1,lg,Luganda,2,Okusigala nga olina esubi
 1,lg,Luganda,3,Kikole wagulu
 1,lg,Luganda,4,Eneyisa embi
 1,lg,Luganda,5,Sigala ngoli mukakamu era osobole okufuga ebirowoozo ebingi
 1,lg,Luganda,6,Okwogera ku COVID-19
-2,lo,ພາສາລາວ,1,ເວ ລາ ຢ່ ູ ນ ໍ າກ ັ ນແບບ ຕ ົ ວ ຕ ໍ ່ 1 ຕ ົ ວ
-2,lo,ພາສາລາວ,2,ຄ ິດໃນ ທາງບວກ
-2,lo,ພາສາລາວ,3,ສາງ ໂຄງ ສ ້ າງ ຂ ້ ຶ ້ 3 ນ ມາ
-2,lo,ພາສາລາວ,4,ພ ຶ ດ ຕ ິ ກ ໍ າທ ີ ່ ບ ໍ 4 ່ ດ
-2,lo,ພາສາລາວ,5,ໃຫໃຈເຢ ້ ັ ນໆ ແລະ ຄວາມຄຸມຄວາມຕ ຶ ງຄຽດ
-2,lo,ພາສາລາວ,6,ໂອລ ້ ົ ມ ກ ັ ນກ ່ ຽວ ກ ັບ ໂຄວິ ດ - 19
-1,mk,Mакедонски,1,Време поминато еден-на-еден
-1,mk,Mакедонски,2,Oстанете позитивни
-1,mk,Mакедонски,3,Структурирајте се
-1,mk,Mакедонски,4,Лошо однесување
-1,mk,Mакедонски,5,Останете смирени и совладајте го стресот
-1,mk,Mакедонски,6,Разговор за КОВИД-19
-2,ml,മലയാളം,1,സമയം ഫലപ്രദമായി വിനിയോഗിക്കുക
-2,ml,മലയാളം,2,പോസിറ്റീവായി ഇരിക്കൂ
-2,ml,മലയാളം,3,ഒരു ദിനചര്യ രൂപപ്പെടുത്താം!
-2,ml,മലയാളം,4,മോശം പെരുമാറ്റം
-2,ml,മലയാളം,5,ശാന്തത പാലിക്കൂ  മാനസിക സമ്മർദ്ദം നിയന്ത്രിക്കൂ
-2,ml,മലയാളം,6,കോവിഡ്-19 നെ കുറിച്ചുള്ള ആശയവിനിമയം
+1,lo,Kurmanji,1,ເວ ລາ ຢ່ ູ ນ ໍ າກ ັ ນແບບ ຕ ົ ວ ຕ ໍ ່ 1 ຕ ົ ວ
+1,lo,Kurmanji,2,ຄ ິດໃນ ທາງບວກ
+1,lo,Kurmanji,3,ສາງ ໂຄງ ສ ້ າງ ຂ ້ ຶ ້ 3 ນ ມາ
+1,lo,Kurmanji,4,ພ ຶ ດ ຕ ິ ກ ໍ າທ ີ ່ ບ ໍ 4 ່ ດ
+1,lo,Kurmanji,5,ໃຫໃຈເຢ ້ ັ ນໆ ແລະ ຄວາມຄຸມຄວາມຕ ຶ ງຄຽດ
+1,lo,Kurmanji,6,ໂອລ ້ ົ ມ ກ ັ ນກ ່ ຽວ ກ ັບ ໂຄວິ ດ - 19
+1,mk,Macedonian,1,Време поминато еден-на-еден
+1,mk,Macedonian,2,Oстанете позитивни
+1,mk,Macedonian,3,Структурирајте се
+1,mk,Macedonian,4,Лошо однесување
+1,mk,Macedonian,5,Останете смирени и совладајте го стресот
+1,mk,Macedonian,6,Разговор за КОВИД-19
+1,ml,Malayalam,1,സമയം ഫലപ്രദമായി വിനിയോഗിക്കുക
+1,ml,Malayalam,2,പോസിറ്റീവായി ഇരിക്കൂ
+1,ml,Malayalam,3,ഒരു ദിനചര്യ രൂപപ്പെടുത്താം!
+1,ml,Malayalam,4,മോശം പെരുമാറ്റം
+1,ml,Malayalam,5,ശാന്തത പാലിക്കൂ  മാനസിക സമ്മർദ്ദം നിയന്ത്രിക്കൂ
+1,ml,Malayalam,6,കോവിഡ്-19 നെ കുറിച്ചുള്ള ആശയവിനിമയം
 1,ms,Bahasa Melayu,1,Masa bersama anak-anak
 1,ms,Bahasa Melayu,2,Kekal positif
 1,ms,Bahasa Melayu,3,Tetapkan rutin
@@ -153,18 +177,18 @@ languageType,languageCode,languageName,tipSheetNumber,title
 1,ms,Bahasa Melayu,13,Tip Sheet Number 13
 1,ms,Bahasa Melayu,14,Tip Sheet Number 14
 1,ms,Bahasa Melayu,15,Tip Sheet Number 15
-1,nb,Norsk,1,En-til-en tid
-1,nb,Norsk,2,Hold en positiv tone
-1,nb,Norsk,3,Lag en struktur for hverdagen!
-1,nb,Norsk,4,Vanskelig oppførsel
-1,nb,Norsk,5,Hold deg rolig og takle stress
-1,nb,Norsk,6,Snakk om COVID-19
-1,nd,isiNdebele,1,Isikhathi sokuxoxisana libabili
-1,nd,isiNdebele,2,Cabanga okuhle ngaso sonke isikhathi
-1,nd,isiNdebele,3,Hlelani okokwenza
-1,nd,isiNdebele,4,Ukungaziphathi okuhle
-1,nd,isiNdebele,5,Uzithobe unanzelele okukukhathazayo / istress
-1,nd,isiNdebele,6,Ukuxoxisana ngeCOVID-19
+1,nb,Norwegian,1,En-til-en tid
+1,nb,Norwegian,2,Hold en positiv tone
+1,nb,Norwegian,3,Lag en struktur for hverdagen!
+1,nb,Norwegian,4,Vanskelig oppførsel
+1,nb,Norwegian,5,Hold deg rolig og takle stress
+1,nb,Norwegian,6,Snakk om COVID-19
+1,nd,Ndebele,1,Isikhathi sokuxoxisana libabili
+1,nd,Ndebele,2,Cabanga okuhle ngaso sonke isikhathi
+1,nd,Ndebele,3,Hlelani okokwenza
+1,nd,Ndebele,4,Ukungaziphathi okuhle
+1,nd,Ndebele,5,Uzithobe unanzelele okukukhathazayo / istress
+1,nd,Ndebele,6,Ukuxoxisana ngeCOVID-19
 1,pt,Portuguese,1,tempo de qualidade
 1,pt,Portuguese,2,Manter uma atitude positive
 1,pt,Portuguese,3,Organização total!
@@ -181,24 +205,24 @@ languageType,languageCode,languageName,tipSheetNumber,title
 1,pt,Portuguese,14,Dicas para pais de adolescentes
 1,pt,Portuguese,15,É Pai/Mãe de um Novo Bebé
 1,pt,Portuguese,16,Educação e aprendizagem remota
-1,rw,Ikinyarwanda,1,Igihe cy'umubyeyi n'Umwna
-1,rw,Ikinyarwanda,2,Gumana Intumbero nziza
-1,rw,Ikinyarwanda,3,Shyiraho umuteguro!
-1,rw,Ikinyarwanda,4,Imyitwarire mibi
-1,rw,Ikinyarwanda,5,Tuza kandi Ugenzure Guhangayika
-1,rw,Ikinyarwanda,6,Kuvuga ibijyanye na COVID-19
-1,rw,Ikinyarwanda,7,Rinda abana ku imbuga nkoranyambaga!
-1,rw,Ikinyarwanda,8,Bije y'umuryango
-1,rw,Ikinyarwanda,9,Imigenderanire mu muryango
-1,rw,Ikinyarwanda,10,Igira mu gukina
-1,rw,Ikinyarwanda,11,Iyo turakeye…
-1,rw,Ikinyarwanda,12,Kurere mu gihe urugo rwuzuye abantu?
-1,sl,Slovenščina,1,Čas “ena na ena”
-1,sl,Slovenščina,2,Bodite pozitivni
-1,sl,Slovenščina,3,Načrtujte
-1,sl,Slovenščina,4,Neprimerno vedenje
-1,sl,Slovenščina,5,Ostanite mirni in upravljajte s stresom
-1,sl,Slovenščina,6,Pogovor o COVID-19
+1,rw,kinyarwanda,1,Igihe cy'umubyeyi n'Umwna
+1,rw,kinyarwanda,2,Gumana Intumbero nziza
+1,rw,kinyarwanda,3,Shyiraho umuteguro!
+1,rw,kinyarwanda,4,Imyitwarire mibi
+1,rw,kinyarwanda,5,Tuza kandi Ugenzure Guhangayika
+1,rw,kinyarwanda,6,Kuvuga ibijyanye na COVID-19
+1,rw,kinyarwanda,7,Rinda abana ku imbuga nkoranyambaga!
+1,rw,kinyarwanda,8,Bije y'umuryango
+1,rw,kinyarwanda,9,Imigenderanire mu muryango
+1,rw,kinyarwanda,10,Igira mu gukina
+1,rw,kinyarwanda,11,Iyo turakeye…
+1,rw,kinyarwanda,12,Kurere mu gihe urugo rwuzuye abantu?
+1,sl,Slovenian,1,Čas “ena na ena”
+1,sl,Slovenian,2,Bodite pozitivni
+1,sl,Slovenian,3,Načrtujte
+1,sl,Slovenian,4,Neprimerno vedenje
+1,sl,Slovenian,5,Ostanite mirni in upravljajte s stresom
+1,sl,Slovenian,6,Pogovor o COVID-19
 1,sn,Shona,1,Nguva yakaringana neumwe neumwe mumhuri
 1,sn,Shona,2,Kuchengetedza tariro
 1,sn,Shona,3,Ivai nehurongwa wakajeka
@@ -216,42 +240,42 @@ languageType,languageCode,languageName,tipSheetNumber,title
 1,sw-tz,Kiswahili (Tanzania),4,Tabia mbaya
 1,sw-tz,Kiswahili (Tanzania),5,Tulia ili ukabiliane na msongo
 1,sw-tz,Kiswahili (Tanzania),6,Mazungumzo kuhusu COVID-19
-2,uk,українська мова,1,Час один на один
-2,uk,українська мова,2,Тримайтесь позитиву
-2,uk,українська мова,3,Складіть розклад!
-2,uk,українська мова,4,Погана поведінка
-2,uk,українська мова,5,Зберігайте спокій та керуйте стресом
-2,uk,українська мова,6,Як говорити про COVID-19
-2,uz,Ўзбек,1,Бола билан шахсий вақт ўтказинг
-2,uz,Ўзбек,2,Кўтаринки руҳни сақланг
-2,uz,Ўзбек,3,Режа қилинг!
-2,uz,Ўзбек,4,Ёмон хулқ–атвор
-2,uz,Ўзбек,5,Хотиржам бўлинг  стрессга енгилманг
-2,uz,Ўзбек,6,COVID-19 ҳақида cyҳБатлap
-1,vi,Tiếng Việt Nam,1,Dành thời gian với con trẻ
-1,vi,Tiếng Việt Nam,2,Luôn tạo cảm xúc tích cực
-1,vi,Tiếng Việt Nam,3,Lên lịch trình nào!
-1,vi,Tiếng Việt Nam,4,Ứng phó với những hành vi không đúng đắn của trẻ
-1,vi,Tiếng Việt Nam,5,Giữ bình tĩnh và kiểm soát sự căng thẳng
-1,vi,Tiếng Việt Nam,6,Cùng nhau nói chuyện về chủ đề COVID-19
-1,vi,Tiếng Việt Nam,7,Bảo đảm an toàn cho trẻ trên mạng
-1,vi,Tiếng Việt Nam,8,Cân đối ngân sách gia đình trong giai đoạn khó khăn về tài chính
-1,vi,Tiếng Việt Nam,9,Gia đình hòa thuận
-1,vi,Tiếng Việt Nam,10,Học thông qua vui chơi
-1,vi,Tiếng Việt Nam,11,Làm gì khi nóng giận
-1,vi,Tiếng Việt Nam,12,Chăm sóc con trong môi truống nhà ờ và cộng đông đông đúc
-1,xh,isiXhosa,1,Ixesha Lomnye Nomnye
-1,xh,isiXhosa,2,Yigcine ilungilee
-1,xh,isiXhosa,3,Ulwakhiwo PheisiZulu
-1,xh,isiXhosa,4,Isimilo esingalunganga
-1,xh,isiXhosa,5,Hlala uzolile kwaye ululawule uxinzelelo
-1,xh,isiXhosa,6,Ukuthetha malunga ne COVID-19
-1,pt-mz,Moçambique África Oriental Portuguesa,1,Tempo para pasar juntos com os miudos
-1,pt-mz,Moçambique África Oriental Portuguesa,2,Mantendo-o positivo
-1,pt-mz,Moçambique África Oriental Portuguesa,3,Estructurar
-1,pt-mz,Moçambique África Oriental Portuguesa,4,Mau comportamento
-1,pt-mz,Moçambique África Oriental Portuguesa,5,Fica com calma y gestiona o estress
-1,pt-mz,Moçambique África Oriental Portuguesa,6,Falar sobre COVID-19
+1,uk,Ukrainian,1,Час один на один
+1,uk,Ukrainian,2,Тримайтесь позитиву
+1,uk,Ukrainian,3,Складіть розклад!
+1,uk,Ukrainian,4,Погана поведінка
+1,uk,Ukrainian,5,Зберігайте спокій та керуйте стресом
+1,uk,Ukrainian,6,Як говорити про COVID-19
+1,uz,Uzbek,1,Бола билан шахсий вақт ўтказинг
+1,uz,Uzbek,2,Кўтаринки руҳни сақланг
+1,uz,Uzbek,3,Режа қилинг!
+1,uz,Uzbek,4,Ёмон хулқ–атвор
+1,uz,Uzbek,5,Хотиржам бўлинг  стрессга енгилманг
+1,uz,Uzbek,6,COVID-19 ҳақида cyҳБатлap
+1,vi,Vietnamese Nam,1,Dành thời gian với con trẻ
+1,vi,Vietnamese Nam,2,Luôn tạo cảm xúc tích cực
+1,vi,Vietnamese Nam,3,Lên lịch trình nào!
+1,vi,Vietnamese Nam,4,Ứng phó với những hành vi không đúng đắn của trẻ
+1,vi,Vietnamese Nam,5,Giữ bình tĩnh và kiểm soát sự căng thẳng
+1,vi,Vietnamese Nam,6,Cùng nhau nói chuyện về chủ đề COVID-19
+1,vi,Vietnamese Nam,7,Bảo đảm an toàn cho trẻ trên mạng
+1,vi,Vietnamese Nam,8,Cân đối ngân sách gia đình trong giai đoạn khó khăn về tài chính
+1,vi,Vietnamese Nam,9,Gia đình hòa thuận
+1,vi,Vietnamese Nam,10,Học thông qua vui chơi
+1,vi,Vietnamese Nam,11,Làm gì khi nóng giận
+1,vi,Vietnamese Nam,12,Chăm sóc con trong môi truống nhà ờ và cộng đông đông đúc
+1,xh,Xhosa,1,Ixesha Lomnye Nomnye
+1,xh,Xhosa,2,Yigcine ilungilee
+1,xh,Xhosa,3,Ulwakhiwo PheZulu
+1,xh,Xhosa,4,Isimilo esingalunganga
+1,xh,Xhosa,5,Hlala uzolile kwaye ululawule uxinzelelo
+1,xh,Xhosa,6,Ukuthetha malunga ne COVID-19
+1,pt-mz,Portuguese Mozambique,1,Tempo para pasar juntos com os miudos
+1,pt-mz,Portuguese Mozambique,2,Mantendo-o positivo
+1,pt-mz,Portuguese Mozambique,3,Estructurar
+1,pt-mz,Portuguese Mozambique,4,Mau comportamento
+1,pt-mz,Portuguese Mozambique,5,Fica com calma y gestiona o estress
+1,pt-mz,Portuguese Mozambique,6,Falar sobre COVID-19
 1,kdj,Nyakarimojong,1,Aŋolo saa daadaŋ kaapei aŋipeipei
 1,kdj,Nyakarimojong,2,Kitojoikinite
 1,kdj,Nyakarimojong,3,Kinapanak etic ejok!
@@ -264,57 +288,57 @@ languageType,languageCode,languageName,tipSheetNumber,title
 1,jmn,Makury Naga,4,Amëtsüg leilabala
 1,jmn,Makury Naga,5,Kengsügzë leng khëlë lengtüt o she a loknüng ney
 1,jmn,Makury Naga,6,COVID-19 leila shügthëngëtdei
-1,kac,Jinghpaw,1,Ma langai hkrai hpe laksan aten jaw u
-1,kac,Jinghpaw,2,Mai kaja ai hku mu ya u
-1,kac,Jinghpaw,3,Lani mi hpe tup hkrak hparn u
-1,kac,Jinghpaw,4,N kaja ai sat lawat
-1,kac,Jinghpaw,5,Myit hpe zim sha tawn u. Myit tsinyam hpe hkang u
-1,kac,Jinghpaw,6,COVID-19 a lam tsun dan ai lam
+1,kac,Jingpho,1,Ma langai hkrai hpe laksan aten jaw u
+1,kac,Jingpho,2,Mai kaja ai hku mu ya u
+1,kac,Jingpho,3,Lani mi hpe tup hkrak hparn u
+1,kac,Jingpho,4,N kaja ai sat lawat
+1,kac,Jingpho,5,Myit hpe zim sha tawn u. Myit tsinyam hpe hkang u
+1,kac,Jingpho,6,COVID-19 a lam tsun dan ai lam
 1,hil,Hiligaynon (Ilonggo),1,One-on-One Time
 1,hil,Hiligaynon (Ilonggo),2,Ang paghambal sang mga positibo nga bagay
 1,hil,Hiligaynon (Ilonggo),3,Pagtukod sang kahimusan
 1,hil,Hiligaynon (Ilonggo),4,Ang pagpasawy sang bata
 1,hil,Hiligaynon (Ilonggo),5,Pagpakalma kag pagdumala sang stress
 1,hil,Hiligaynon (Ilonggo),6,Ang pagsugilanon parte sa COVID 19
-1,az,Azərbaycan dili,1,Baş-başa qaldığınız vaxtın keçirilməsi
-1,az,Azərbaycan dili,2,Müsbət əhval-ruhiyyənin saxlanılması
-1,az,Azərbaycan dili,3,Vaxtın təşkil edilməsi
-1,az,Azərbaycan dili,4,İntizama əməl edilməsi
-1,az,Azərbaycan dili,5,Sakitliyin saxlanılması və vaxtın idarə edilməsi
-1,az,Azərbaycan dili,6,Uşaqlara COVID 19 haqqında danışın
-1,it,Italiano,1,Tempo Insieme
-1,it,Italiano,2,Restare Positivi
-1,it,Italiano,3,Ci Vuole Organizzazione
-1,it,Italiano,4,Cattivo Comportamento
-1,it,Italiano,5,State Calmi e Controllate lo Stress
-1,it,Italiano,6,Parlare di COVID-19
-1,it,Italiano,7,Tenere i figli al sicuro quando sono online
-1,it,Italiano,8,Pianificare la spesa famigliare in tempi di difficoltà finanziarie
-1,it,Italiano,9,Armonia famigliare nella casa
-1,it,Italiano,10,Imparare attraverso il gioco
-1,it,Italiano,11,Quando ci arrabbiamo
-1,it,Italiano,12,Essere genitori in case e comunità affollate
-1,es,Español,1,Tiempo Uno-a-Uno
-1,es,Español,2,Manteniendo un ambiente positivo
-1,es,Español,3,¡Establece una base segura!
-1,es,Español,4,Mal Comportamiento
-1,es,Español,5,Mantén la calma y maneja el estrés
-1,es,Español,6,Conversando acerca del COVID-19
-1,es,Español,7,Mantener Seguros a los Niños en Internet
-1,es,Español,8,Presupuesto Familiar en Tiempos de Estrés Financiero
-1,es,Español,9,Armonía familiar en el hogar
-1,es,Español,10,Aprendiendo a través del juego
-1,es,Español,11,Cuando nos Enojamos
-1,es,Español,12,Crianza de hijos en viviendas y comunidades sobrepobladas
-1,es,Español,13,"Consejos para niños, niñas y adolescentes con discapacidad"
-1,es,Español,14,Consejos para padres de adolescentes
-1,es,Español,15,¿Eres madre o padre de un nuevo bebé?
-1,es,Español,16,Educación y aprendizaje a distancia
+1,az,Azeri,1,Baş-başa qaldığınız vaxtın keçirilməsi
+1,az,Azeri,2,Müsbət əhval-ruhiyyənin saxlanılması
+1,az,Azeri,3,Vaxtın təşkil edilməsi
+1,az,Azeri,4,İntizama əməl edilməsi
+1,az,Azeri,5,Sakitliyin saxlanılması və vaxtın idarə edilməsi
+1,az,Azeri,6,Uşaqlara COVID 19 haqqında danışın
+1,it,Italian,1,Tempo Insieme
+1,it,Italian,2,Restare Positivi
+1,it,Italian,3,Ci Vuole Organizzazione
+1,it,Italian,4,Cattivo Comportamento
+1,it,Italian,5,State Calmi e Controllate lo Stress
+1,it,Italian,6,Parlare di COVID-19
+1,it,Italian,7,Tenere i figli al sicuro quando sono online
+1,it,Italian,8,Pianificare la spesa famigliare in tempi di difficoltà finanziarie
+1,it,Italian,9,Armonia famigliare nella casa
+1,it,Italian,10,Imparare attraverso il gioco
+1,it,Italian,11,Quando ci arrabbiamo
+1,it,Italian,12,Essere genitori in case e comunità affollate
+1,es,Spanish,1,Tiempo Uno-a-Uno
+1,es,Spanish,2,Manteniendo un ambiente positivo
+1,es,Spanish,3,¡Establece una base segura!
+1,es,Spanish,4,Mal Comportamiento
+1,es,Spanish,5,Mantén la calma y maneja el estrés
+1,es,Spanish,6,Conversando acerca del COVID-19
+1,es,Spanish,7,Mantener Seguros a los Niños en Internet
+1,es,Spanish,8,Presupuesto Familiar en Tiempos de Estrés Financiero
+1,es,Spanish,9,Armonía familiar en el hogar
+1,es,Spanish,10,Aprendiendo a través del juego
+1,es,Spanish,11,Cuando nos Enojamos
+1,es,Spanish,12,Crianza de hijos en viviendas y comunidades sobrepobladas
+1,es,Spanish,13,"Consejos para niños, niñas y adolescentes con discapacidad"
+1,es,Spanish,14,Consejos para padres de adolescentes
+1,es,Spanish,15,¿Eres madre o padre de un nuevo bebé?
+1,es,Spanish,16,Educación y aprendizaje a distancia
 1,tsn,Setswana,1,Nako ya bana ka bonosi
 1,tsn,Setswana,2,Dira gore onne le bomolemo
 1,tsn,Setswana,3,Ithulaganye!
 1,tsn,Setswana,4,Maitshwaro a a sa siamang
-1,tsn,Setswana,5,Ritibatsa maikutlo o ພາສາລາວle kgatelelo maikutlo
+1,tsn,Setswana,5,Ritibatsa maikutlo o le kgatelelo maikutlo
 1,tsn,Setswana,6,Go bua ka COVID-19
 1,tsn,Setswana,7,Go babalela bana fa ba le mo maranyanong.
 1,tsn,Setswana,8,Tekanyetso kabo ya  madi ya malwapa mo dinakong tsa kgatelelo maikutlo ee bakwang ke madi
@@ -322,205 +346,205 @@ languageType,languageCode,languageName,tipSheetNumber,title
 1,tsn,Setswana,10,Go ithuta ka go tshameka
 1,tsn,Setswana,11,Fa re ga lefa.
 1,tsn,Setswana,12,Thuto le kgodiso ya ngwana kwa malwapeng a a leng mosuke.
-1,yo,Èdè Yorùbá,1,Ọkan-lori-kan akoko
-1,yo,Èdè Yorùbá,2,Mimu Ki o Wa Ni Rere
-1,yo,Èdè Yorùbá,3,Igbekalẹ!
-1,yo,Èdè Yorùbá,4,Ihuwasi buburu
-1,yo,Èdè Yorùbá,5,Jeki tunu wa ko si Ṣakoso wahala
-1,yo,Èdè Yorùbá,6,Sisọrọ nipa COVID-19
-1,cy,Cymraeg,1,Amser unigol
-1,cy,Cymraeg,2,Cadw’n Bositif
-1,cy,Cymraeg,3,Creu strwythur!
-1,cy,Cymraeg,4,Ymddygiad Drwg
-1,cy,Cymraeg,5,Cadw'n Dawel a Rheoli Straen
-1,cy,Cymraeg,6,Siarad am COVID-19
-1,cy,Cymraeg,7,Cadw Plant yn Ddiogel Ar-lein.
-1,cy,Cymraeg,8,Cyllidebu Teuluol mewn Cyfnodau o Straen Ariannol.
-1,cy,Cymraeg,9,Cytgord teuluol gartref.
-1,cy,Cymraeg,10,Dysgo drwy chwarane.
-1,cy,Cymraeg,11,Pan Fyddwn Ni'n Gwylltio
-1,cy,Cymraeg,12,Rhianta mewn Cartrefia Chymunedao gorlawn.
+1,yo,Yoruba,1,Ọkan-lori-kan akoko
+1,yo,Yoruba,2,Mimu Ki o Wa Ni Rere
+1,yo,Yoruba,3,Igbekalẹ!
+1,yo,Yoruba,4,Ihuwasi buburu
+1,yo,Yoruba,5,Jeki tunu wa ko si Ṣakoso wahala
+1,yo,Yoruba,6,Sisọrọ nipa COVID-19
+1,cy,Welsh,1,Amser unigol
+1,cy,Welsh,2,Cadw’n Bositif
+1,cy,Welsh,3,Creu strwythur!
+1,cy,Welsh,4,Ymddygiad Drwg
+1,cy,Welsh,5,Cadw'n Dawel a Rheoli Straen
+1,cy,Welsh,6,Siarad am COVID-19
+1,cy,Welsh,7,Cadw Plant yn Ddiogel Ar-lein.
+1,cy,Welsh,8,Cyllidebu Teuluol mewn Cyfnodau o Straen Ariannol.
+1,cy,Welsh,9,Cytgord teuluol gartref.
+1,cy,Welsh,10,Dysgo drwy chwarane.
+1,cy,Welsh,11,Pan Fyddwn Ni'n Gwylltio
+1,cy,Welsh,12,Rhianta mewn Cartrefia Chymunedao gorlawn.
 1,vu,Vanuatu,1,Yu mo pikinini
 1,vu,Vanuatu,2,Kipim wan atitud we i positiv
 1,vu,Vanuatu,3,Putumap wan strakja!
 1,vu,Vanuatu,4,Rabis fasin
 1,vu,Vanuatu,5,No Wari tumas mo Kontrolem yu
 1,vu,Vanuatu,6,Tokbaot COVID-19
-1,tr,Türkçe,1,Bire-Bir Zaman Geçirin
-1,tr,Türkçe,2,Pozitif Kalın
-1,tr,Türkçe,3,Destek Olun
-1,tr,Türkçe,4,Kötü Davranış
-1,tr,Türkçe,5,Sakin Olun ve Stresle Başa Çıkın
-1,tr,Türkçe,6,COVID-19 Hakkında Konuşmak
-1,tr,Türkçe,7,Çocukların Çevrimiçi Güvenliğini Sağlamak
-1,tr,Türkçe,8,Maddi Sıkıntıların Yaşandığı Dönemlerde Aile Bütçesini Planlamak
-1,tr,Türkçe,9,Evde aile uyumu
-1,tr,Türkçe,10,Oyunlaöğrenme
-1,tr,Türkçe,11,Kızdığımız Zaman Ne Yapmalıyız
-1,tr,Türkçe,12,Kalabalık evlerde ve topluluklarda ebeveynlik
-1,tr,Türkçe,13,Engeli olan Çocuklar İçin İpuçları
-1,tr,Türkçe,14,Ergenlere ebeveynlik için ipuçları
-1,tr,Türkçe,15,Yeni Doğan Bebeğinize Ebeveynlik Mi Yapıyorsunuz?
-1,tr,Türkçe,16,Eğitim ve uzaktan öğrenme
-2,tg,забо́ни тоҷикӣ́,4,Бехатарии кӯдакон дар интернет
-2,tg,забо́ни тоҷикӣ́,6,Буҷети оилавӣ дар замони душвории молиявӣ
-2,tg,забо́ни тоҷикӣ́,5,Созиши оилавӣ дар хона
-2,tg,забо́ни тоҷикӣ́,7,Омӯзиш тариқи бозӣ
-2,tg,забо́ни тоҷикӣ́,8,Вақте ки мо хашмгин мешавем
-2,tg,забо́ни тоҷикӣ́,9,Тарбия дар хонаҳо ва ҷомеаҳои серодам
-2,tg,забо́ни тоҷикӣ́,1,Вақти шахсӣ бо кӯдак
-2,tg,забо́ни тоҷикӣ́,2,Нигоҳ доштани эҳсоси мусбӣ
-2,tg,забо́ни тоҷикӣ́,3,Тарҳрезӣ кунед!
-2,tg,забо́ни тоҷикӣ́,4,Рафтори бад!
-2,tg,забо́ни тоҷикӣ́,5,Ором бошед ва изтироби худро идора намоед!
-2,tg,забо́ни тоҷикӣ́,6,Гуфтугӯ дар бораи COVID-19
+1,tr,Turkish,1,Bire-Bir Zaman Geçirin
+1,tr,Turkish,2,Pozitif Kalın
+1,tr,Turkish,3,Destek Olun
+1,tr,Turkish,4,Kötü Davranış
+1,tr,Turkish,5,Sakin Olun ve Stresle Başa Çıkın
+1,tr,Turkish,6,COVID-19 Hakkında Konuşmak
+1,tr,Turkish,7,Çocukların Çevrimiçi Güvenliğini Sağlamak
+1,tr,Turkish,8,Maddi Sıkıntıların Yaşandığı Dönemlerde Aile Bütçesini Planlamak
+1,tr,Turkish,9,Evde aile uyumu
+1,tr,Turkish,10,Oyunlaöğrenme
+1,tr,Turkish,11,Kızdığımız Zaman Ne Yapmalıyız
+1,tr,Turkish,12,Kalabalık evlerde ve topluluklarda ebeveynlik
+1,tr,Turkish,13,Engeli olan Çocuklar İçin İpuçları
+1,tr,Turkish,14,Ergenlere ebeveynlik için ipuçları
+1,tr,Turkish,15,Yeni Doğan Bebeğinize Ebeveynlik Mi Yapıyorsunuz?
+1,tr,Turkish,16,Eğitim ve uzaktan öğrenme
+1,tg,Tajik,4,Бехатарии кӯдакон дар интернет
+1,tg,Tajik,6,Буҷети оилавӣ дар замони душвории молиявӣ
+1,tg,Tajik,5,Созиши оилавӣ дар хона
+1,tg,Tajik,7,Омӯзиш тариқи бозӣ
+1,tg,Tajik,8,Вақте ки мо хашмгин мешавем
+1,tg,Tajik,9,Тарбия дар хонаҳо ва ҷомеаҳои серодам
+1,tg,Tajik,1,Вақти шахсӣ бо кӯдак
+1,tg,Tajik,2,Нигоҳ доштани эҳсоси мусбӣ
+1,tg,Tajik,3,Тарҳрезӣ кунед!
+1,tg,Tajik,4,Рафтори бад!
+1,tg,Tajik,5,Ором бошед ва изтироби худро идора намоед!
+1,tg,Tajik,6,Гуфтугӯ дар бораи COVID-19
 1,nyn,Runyankore,1,Omuntu ha muntu-omurundi gumwe
 1,nyn,Runyankore,2,Oguma nohura kurungi (Okwegaramu amaani)
 1,nyn,Runyankore,3,Tonguna Eniragiro
 1,nyn,Runyankore,4,Emichwe emiibi
 1,nyn,Runyankore,5,Oyikikane kandi ojezeho kwehara okwelaligirira
 1,nyn,Runyankore,6,Okugamba aha bulwire bwa COVID-19
-1,pl,Polski,1,Czas sam na sam
-1,pl,Polski,2,Myśl pozytywnie
-1,pl,Polski,3,Rutyna górą!
-1,pl,Polski,4,Złe zachowanie
-1,pl,Polski,5,Zachowaj spokój i poradź sobie ze stresem
-1,pl,Polski,6,Rozmowy o koronawirusie
-1,ro,Română,1,Timp Unu la Unu
-1,ro,Română,2,Mențineți lucrurile pozitive
-1,ro,Română,3,Mențineți o structură!
-1,ro,Română,4,Comportamente Problematice
-1,ro,Română,5,Păstrați-vă calmul și Gestionați stresul
-1,ro,Română,6,Vorbiți despre COVID-19
-2,ru,Русский,1,Личное время с ребенком
-2,ru,Русский,2,Поддерживайте Позитивный Настрой
-2,ru,Русский,3,Структурируйте
-2,ru,Русский,4,Плохое Поведение
-2,ru,Русский,5,Будьте Спокойны и Справляйтесь со Стрессом
-2,ru,Русский,6,Разговоры о COVID-19
-2,ru,Русский,7,Обучение через игру
-2,ru,Русский,8,Когда мы злимся
-2,ru,Русский,9,Воспитание в переполненных домах и общинах
-2,ru,Русский,10,Семейная гармония дома
-2,ru,Русский,11,Семейный бюджет во время финансового кризиса
-2,ru,Русский,12,Обеспечение безопасности детей в Интернете
-2,ru,Русский,13,Советы для воспитания детей-инвалидов
-2,ru,Русский,14,Советы по воспитанию подростков
-2,ru,Русский,15,У вас недавно родился ребенок?
-1,ss,siSwati,1,Kucitsa sikhatsi kanye kanye
-1,ss,siSwati,2,Kugcine Kukahle
-1,ss,siSwati,3,Yenta luhlelo lolufaka imisebenti nesikhatsi!
-1,ss,siSwati,4,Sento Lesibi
-1,ss,siSwati,5,Yehlisa umoya unciphise kukhatsateka
-1,ss,siSwati,6,Kukhuluma nge COVID-19
-1,sk,Slovenčina,1,Čas vyhradený jeden pre druhého
-1,sk,Slovenčina,2,Zvoľte pozitívny prístup
-1,sk,Slovenčina,3,Dajte dňom štruktúru!
-1,sk,Slovenčina,4,Zlé správanie
-1,sk,Slovenčina,5,Snažte sa zachovať pokoj a zvládnuť stres
-1,sk,Slovenčina,6,Rozprávajte sa o COVID-19
+1,pl,Polish,1,Czas sam na sam
+1,pl,Polish,2,Myśl pozytywnie
+1,pl,Polish,3,Rutyna górą!
+1,pl,Polish,4,Złe zachowanie
+1,pl,Polish,5,Zachowaj spokój i poradź sobie ze stresem
+1,pl,Polish,6,Rozmowy o koronawirusie
+1,ro,Romanian,1,Timp Unu la Unu
+1,ro,Romanian,2,Mențineți lucrurile pozitive
+1,ro,Romanian,3,Mențineți o structură!
+1,ro,Romanian,4,Comportamente Problematice
+1,ro,Romanian,5,Păstrați-vă calmul și Gestionați stresul
+1,ro,Romanian,6,Vorbiți despre COVID-19
+1,ru,Russian,1,Личное время с ребенком
+1,ru,Russian,2,Поддерживайте Позитивный Настрой
+1,ru,Russian,3,Структурируйте
+1,ru,Russian,4,Плохое Поведение
+1,ru,Russian,5,Будьте Спокойны и Справляйтесь со Стрессом
+1,ru,Russian,6,Разговоры о COVID-19
+1,ru,Russian,7,Обучение через игру
+1,ru,Russian,8,Когда мы злимся
+1,ru,Russian,9,Воспитание в переполненных домах и общинах
+1,ru,Russian,10,Семейная гармония дома
+1,ru,Russian,11,Семейный бюджет во время финансового кризиса
+1,ru,Russian,12,Обеспечение безопасности детей в Интернете
+1,ru,Russian,13,Советы для воспитания детей-инвалидов
+1,ru,Russian,14,Советы по воспитанию подростков
+1,ru,Russian,15,У вас недавно родился ребенок?
+1,ss,Swati,1,Kucitsa sikhatsi kanye kanye
+1,ss,Swati,2,Kugcine Kukahle
+1,ss,Swati,3,Yenta luhlelo lolufaka imisebenti nesikhatsi!
+1,ss,Swati,4,Sento Lesibi
+1,ss,Swati,5,Yehlisa umoya unciphise kukhatsateka
+1,ss,Swati,6,Kukhuluma nge COVID-19
+1,sk,Slovak,1,Čas vyhradený jeden pre druhého
+1,sk,Slovak,2,Zvoľte pozitívny prístup
+1,sk,Slovak,3,Dajte dňom štruktúru!
+1,sk,Slovak,4,Zlé správanie
+1,sk,Slovak,5,Snažte sa zachovať pokoj a zvládnuť stres
+1,sk,Slovak,6,Rozprávajte sa o COVID-19
 1,sw-ke,Kiswahili(Kenya),1,Wakati wa moja kwa moja
 1,sw-ke,Kiswahili(Kenya),2,Kuweka chanya
 1,sw-ke,Kiswahili(Kenya),3,Muundo juu!
 1,sw-ke,Kiswahili(Kenya),4,Tabia mbaya
 1,sw-ke,Kiswahili(Kenya),5,Tulia ili uwezane na msongo
 1,sw-ke,Kiswahili(Kenya),6,Mazungumzo kuhusu COVID-19
-1,sv,Svenska,1,En- till-en-tid
-1,sv,Svenska,2,Försök hålla uppe humöret
-1,sv,Svenska,3,Strukturera!
-1,sv,Svenska,4,Dåligt uppförande
-1,sv,Svenska,5,Att behålla lugnet och klara av oron
-1,sv,Svenska,6,Att prata om COVID-19
-1,so,Af-Soomaali,1,Xilli Gooni la lsla Yahay
-1,so,Af-Soomaali,2,Dhawrista Niyad Wanaaga
-1,so,Af-Soomaali,3,Qaabee
-1,so,Af-Soomaali,4,Xallinta Dhibaatooyinka
-1,so,Af-Soomaali,5,Isdeji oo maaree cidhiidhiga nafsadeed
-1,so,Af-Soomaali,6,Ka-hadalka COVID-19
-1,de,Deutsch,7,Online Kinderschutz
-1,de,Deutsch,8,Familien Budget
-1,de,Deutsch,9,Familienbeziehungen
-1,de,Deutsch,10,Lernen durch spielen
-1,de,Deutsch,11,Umgang mit Ärger
-1,de,Deutsch,12,Überfülltes Haus?
-1,de,Deutsch,1,Zeit zu Zweit
-1,de,Deutsch,2,Positiv bleiben
-1,de,Deutsch,3,Struktur ist wichtig!
-1,de,Deutsch,6,Schlechtes Benehmen
-1,de,Deutsch,5,Bleibe ruhig und lerne mit Stress umzugehen
-1,de,Deutsch,4,Reden über COVID-19
-2,ar,العربية,15,هل أنت والد لرضيع
-2,ar,العربية,14,نصائح لأهالي المراهقين
-2,ar,العربية,13,نصائح للأطفال ذوي الاحتياجات الخاصة 
-2,ar,العربية,3,التنظیم والترتیب
-2,ar,العربية,2,حافـِظ على   الإیجابیة
-2,ar,العربية,1,وقت  خاص واحد لو احد
-2,ar,العربية,4,   ك ن مستعداً للتحدث عن COVID-19
-2,ar,العربية,5,حافظ على ھدوءك وتعامل مع القلق والتوتر
-2,ar,العربية,6,سلوك/تصرف  سيء
-2,ar,العربية,9,إندماج الأسري في البیت
-2,ar,العربية,8,المیزانیة الأسریة في أوقات الأزمات
-2,ar,العربية,7,الحفاظ على أمان الأطفال في الشبكة
-2,ar,العربية,12,والدیة في بیوت ومجتمعات مزدحمة
-2,ar,العربية,11,عندما نغضب
-2,ar,العربية,10,التعلّم عن طریق اللعب
+1,sv,Swedish,1,En- till-en-tid
+1,sv,Swedish,2,Försök hålla uppe humöret
+1,sv,Swedish,3,Strukturera!
+1,sv,Swedish,4,Dåligt uppförande
+1,sv,Swedish,5,Att behålla lugnet och klara av oron
+1,sv,Swedish,6,Att prata om COVID-19
+1,so,Somali,1,Xilli Gooni la lsla Yahay
+1,so,Somali,2,Dhawrista Niyad Wanaaga
+1,so,Somali,3,Qaabee
+1,so,Somali,4,Xallinta Dhibaatooyinka
+1,so,Somali,5,Isdeji oo maaree cidhiidhiga nafsadeed
+1,so,Somali,6,Ka-hadalka COVID-19
+1,de,German,7,Online Kinderschutz
+1,de,German,8,Familien Budget
+1,de,German,9,Familienbeziehungen
+1,de,German,10,Lernen durch spielen
+1,de,German,11,Umgang mit Ärger
+1,de,German,12,Überfülltes Haus?
+1,de,German,1,Zeit zu Zweit
+1,de,German,2,Positiv bleiben
+1,de,German,3,Struktur ist wichtig!
+1,de,German,6,Schlechtes Benehmen
+1,de,German,5,Bleibe ruhig und lerne mit Stress umzugehen
+1,de,German,4,Reden über COVID-19
+1,ar,Arabic,15,هل أنت والد لرضيع
+1,ar,Arabic,14,نصائح لأهالي المراهقين
+1,ar,Arabic,13,نصائح للأطفال ذوي الاحتياجات الخاصة 
+1,ar,Arabic,3,التنظیم والترتیب
+1,ar,Arabic,2,حافـِظ على   الإیجابیة
+1,ar,Arabic,1,وقت  خاص واحد لو احد
+1,ar,Arabic,4,   ك ن مستعداً للتحدث عن COVID-19
+1,ar,Arabic,5,حافظ على ھدوءك وتعامل مع القلق والتوتر
+1,ar,Arabic,6,سلوك/تصرف  سيء
+1,ar,Arabic,9,إندماج الأسري في البیت
+1,ar,Arabic,8,المیزانیة الأسریة في أوقات الأزمات
+1,ar,Arabic,7,الحفاظ على أمان الأطفال في الشبكة
+1,ar,Arabic,12,والدیة في بیوت ومجتمعات مزدحمة
+1,ar,Arabic,11,عندما نغضب
+1,ar,Arabic,10,التعلّم عن طریق اللعب
 1,likhy,Likhy,1,"Sanu, capa laung laung nong hai vaeng nong aung saidi"
 1,likhy,Likhy,2,Akahawi nang nung naw/ dong vaw
 1,likhy,Likhy,3,Akatyi tei akahawi nang khai bau
 1,likhy,Likhy,6,COVID-19 phying thui vaw di
 1,likhy,Likhy,5,Alung tynhu nong khai. Alungkhe aha y saidi thung ying alawi heng sa bau
 1,likhy,Likhy,4,Akahawi y sa saidi
-2,hi,हिंदी,1,Tip Sheet Number 1
-2,hi,हिंदी,2,Tip Sheet Number 2
-2,hi,हिंदी,3,Tip Sheet Number 3
-2,hi,हिंदी,4,Tip Sheet Number 4
-2,hi,हिंदी,5,Tip Sheet Number 5
-2,hi,हिंदी,6,Tip Sheet Number 6
-2,hi,हिंदी,7,Tip Sheet Number 7
-2,hi,हिंदी,8,Tip Sheet Number 8
-2,hi,हिंदी,9,Tip Sheet Number 9
-2,hi,हिंदी,10,Tip Sheet Number 10
-2,hi,हिंदी,11,Tip Sheet Number 11
-2,hi,हिंदी,12,Tip Sheet Number 12
-1,mn,Монгол Хэл,1,Ганцаарчилсан уулзалт хий
-1,mn,Монгол Хэл,2,Эергээр хүлээн ав
-1,mn,Монгол Хэл,3,Зохион байгуул!
-1,mn,Монгол Хэл,4,Муухай ааш
-1,mn,Монгол Хэл,5,"Тайван байж, стрессээ хяна"
-1,mn,Монгол Хэл,6,COVID-19 өвчний талаар ярих
-2,am,ኣማርኛ,1,አንድ ለአንድ በግል የምንገናኝበት ጊዜ
-2,am,ኣማርኛ,2,አ ንድ ለአንድ በግል የምንገናኝ በት ጊዜ
-2,am,ኣማርኛ,3,መዋቅርን ማደራጀት
-2,am,ኣማርኛ,4,መጥፎ ባህሪይ
-2,am,ኣማርኛ,5,በመረጋጋት ጭንቀትን ተቆጣጠሩት
-2,am,ኣማርኛ,6,ስለ ኮቪድ-19 መነጋገር
-2,zh,中文（简体）,1,一对一时间
-2,zh,中文（简体）,2,保持正能量
-2,zh,中文（简体）,3,规律生活！
-2,zh,中文（简体）,4,不良行为
-2,zh,中文（简体）,5,保持冷静、管理压力
-2,zh,中文（简体）,6,谈论 2019 冠状病毒病
-2,zh,中文（简体）,7,确保孩子上网安全
-2,zh,中文（简体）,8,财务压力下的家庭预算
-2,zh,中文（简体）,9,和谐家庭
-2,zh,中文（简体）,10,寓教于乐
-2,zh,中文（简体）,11,当我们很生气时
-2,zh,中文（简体）,12,在拥挤的家和社区中进行家庭教育
-2,zh,中文（简体）,13,针对残疾儿童的家庭教育贴士
-2,zh,中文（简体）,14,针对青少年的家庭教育贴士
-2,zh,中文（简体）,15,家有新生儿
-1,pt-br,Português Brasileiro,1,Tempo de Qualidade
-1,pt-br,Português Brasileiro,2,Mantendo uma Atitude Positiva
-1,pt-br,Português Brasileiro,3,Estruturação Total!
-1,pt-br,Português Brasileiro,4,Mau Comportamento
-1,pt-br,Português Brasileiro,5,Mantenha a Calma e Gerencie o Estresse
-1,pt-br,Português Brasileiro,6,Conversando sobre a COVID-19
-1,pt-br,Português Brasileiro,7,Mantendo crianças e adolescentes seguros em casa
-1,pt-br,Português Brasileiro,8,Orçamento familiar em tempos de crise
-1,pt-br,Português Brasileiro,9,Harmonia familiar em casa
-1,pt-br,Português Brasileiro,10,Aprender brincando
-1,pt-br,Português Brasileiro,11,Quando ficamos bravos
-1,pt-br,Português Brasileiro,12,Casas ou Comunidades com muitos moradores
+1,hi,Hindi,1,Tip Sheet Number 1
+1,hi,Hindi,2,Tip Sheet Number 2
+1,hi,Hindi,3,Tip Sheet Number 3
+1,hi,Hindi,4,Tip Sheet Number 4
+1,hi,Hindi,5,Tip Sheet Number 5
+1,hi,Hindi,6,Tip Sheet Number 6
+1,hi,Hindi,7,Tip Sheet Number 7
+1,hi,Hindi,8,Tip Sheet Number 8
+1,hi,Hindi,9,Tip Sheet Number 9
+1,hi,Hindi,10,Tip Sheet Number 10
+1,hi,Hindi,11,Tip Sheet Number 11
+1,hi,Hindi,12,Tip Sheet Number 12
+1,mn,Mongolian,1,Ганцаарчилсан уулзалт хий
+1,mn,Mongolian,2,Эергээр хүлээн ав
+1,mn,Mongolian,3,Зохион байгуул!
+1,mn,Mongolian,4,Муухай ааш
+1,mn,Mongolian,5,"Тайван байж, стрессээ хяна"
+1,mn,Mongolian,6,COVID-19 өвчний талаар ярих
+1,am,Amharic,1,አንድ ለአንድ በግል የምንገናኝበት ጊዜ
+1,am,Amharic,2,አ ንድ ለአንድ በግል የምንገናኝ በት ጊዜ
+1,am,Amharic,3,መዋቅርን ማደራጀት
+1,am,Amharic,4,መጥፎ ባህሪይ
+1,am,Amharic,5,በመረጋጋት ጭንቀትን ተቆጣጠሩት
+1,am,Amharic,6,ስለ ኮቪድ-19 መነጋገር
+1,zh,Chinese Simplified,1,一对一时间
+1,zh,Chinese Simplified,2,保持正能量
+1,zh,Chinese Simplified,3,规律生活！
+1,zh,Chinese Simplified,4,不良行为
+1,zh,Chinese Simplified,5,保持冷静、管理压力
+1,zh,Chinese Simplified,6,谈论 2019 冠状病毒病
+1,zh,Chinese Simplified,7,确保孩子上网安全
+1,zh,Chinese Simplified,8,财务压力下的家庭预算
+1,zh,Chinese Simplified,9,和谐家庭
+1,zh,Chinese Simplified,10,寓教于乐
+1,zh,Chinese Simplified,11,当我们很生气时
+1,zh,Chinese Simplified,12,在拥挤的家和社区中进行家庭教育
+1,zh,Chinese Simplified,13,针对残疾儿童的家庭教育贴士
+1,zh,Chinese Simplified,14,针对青少年的家庭教育贴士
+1,zh,Chinese Simplified,15,家有新生儿
+1,pt-br,Portuguese Brazil,1,Tempo de Qualidade
+1,pt-br,Portuguese Brazil,2,Mantendo uma Atitude Positiva
+1,pt-br,Portuguese Brazil,3,Estruturação Total!
+1,pt-br,Portuguese Brazil,4,Mau Comportamento
+1,pt-br,Portuguese Brazil,5,Mantenha a Calma e Gerencie o Estresse
+1,pt-br,Portuguese Brazil,6,Conversando sobre a COVID-19
+1,pt-br,Portuguese Brazil,7,Mantendo crianças e adolescentes seguros em casa
+1,pt-br,Portuguese Brazil,8,Orçamento familiar em tempos de crise
+1,pt-br,Portuguese Brazil,9,Harmonia familiar em casa
+1,pt-br,Portuguese Brazil,10,Aprender brincando
+1,pt-br,Portuguese Brazil,11,Quando ficamos bravos
+1,pt-br,Portuguese Brazil,12,Casas ou Comunidades com muitos moradores
 1,ch,Chichewa,1,Nthawi ya nokha ndi ana anu
 1,ch,Chichewa,2,Kukhala Olimbikitsa
 1,ch,Chichewa,3,Ndondomeko
@@ -539,12 +563,12 @@ languageType,languageCode,languageName,tipSheetNumber,title
 1,maku,Markuy Htamathi Naga,4,Tip Sheet Number 4
 1,maku,Markuy Htamathi Naga,5,Tip Sheet Number 5
 1,maku,Markuy Htamathi Naga,6,Tip Sheet Number 6
-1,nl,Nederlands,1,Eén-op-Eén Tijd
-1,nl,Nederlands,2,Hou Het Positief
-1,nl,Nederlands,3,Creëer Structuur
-1,nl,Nederlands,4,Lastig Gedrag
-1,nl,Nederlands,5,Blijf Rustig en Hou Stress Onder Controle
-1,nl,Nederlands,6,Praten over COVID-19
+1,nl,Dutch,1,Eén-op-Eén Tijd
+1,nl,Dutch,2,Hou Het Positief
+1,nl,Dutch,3,Creëer Structuur
+1,nl,Dutch,4,Lastig Gedrag
+1,nl,Dutch,5,Blijf Rustig en Hou Stress Onder Controle
+1,nl,Dutch,6,Praten over COVID-19
 1,fil,Filipino,1,One-on-One Time
 1,fil,Filipino,2,Manatiling Positibo
 1,fil,Filipino,3,Pananatili ng Istruktura at Regular na Gawain
@@ -560,12 +584,12 @@ languageType,languageCode,languageName,tipSheetNumber,title
 1,fil,Filipino,13,Mga Tips para sa mga Batang may Kapansanan
 1,fil,Filipino,14,Mga Tip para sa Pagpapalaki ng Teenager
 1,fil,Filipino,15,Pagpapalaki ng Sanggol
-1,fi,Suomi,1,Yhteinen aika
-1,fi,Suomi,2,Pidä yllä positiivisuutta
-1,fi,Suomi,3,Luo rutiini!
-1,fi,Suomi,4,Huono käytös
-1,fi,Suomi,5,Pysy rauhallisena ja hallitse stressiä
-1,fi,Suomi,6,Pandemiasta keskusteleminen
+1,fi,Finnish,1,Yhteinen aika
+1,fi,Finnish,2,Pidä yllä positiivisuutta
+1,fi,Finnish,3,Luo rutiini!
+1,fi,Finnish,4,Huono käytös
+1,fi,Finnish,5,Pysy rauhallisena ja hallitse stressiä
+1,fi,Finnish,6,Pandemiasta keskusteleminen
 1,khong,Khong so chin,1,Kxp tahi tama si kham ning petjok mih
 1,khong,Khong so chin,2,Kijok hnai dei bah
 1,khong,Khong so chin,3,Ni hai kaham hnaipxng pyty bah
@@ -578,36 +602,36 @@ languageType,languageCode,languageName,tipSheetNumber,title
 1,luo,Dholuo,4,Tim Maracu
 1,luo,Dholuo,5,bed mot dok bene ma wii opye
 1,luo,Dholuo,6,Nyamo lok ikom KORONA-19
-1,da,Dansk,1,Tid sammen på tomandshånd
-1,da,Dansk,2,Hold det positivt
-1,da,Dansk,3,Skab struktur
-1,da,Dansk,4,Dårlig opførsel
-1,da,Dansk,5,Hold dig rolig og hold styr på din stress
-1,da,Dansk,6,Samtaler om COVID-19
-1,da,Dansk,7,Online sikkerhed for børn
-1,da,Dansk,8,Familiebudgetter
-1,da,Dansk,9,Familieforhold
-1,da,Dansk,10,Lær gennem leg
-1,da,Dansk,11,Klar vreden
-1,da,Dansk,12,Overfyldt hjem
-2,bg,български език,1,Лично време с детето
-2,bg,български език,2,Да бъдем позитивни
-2,bg,български език,3,Структурирайте нещата!
-2,bg,български език,4,Лошо поведение
-2,bg,български език,5,Запазете спокойствие и контролирайте стреса
-2,bg,български език,6,Да говорим за COVID-19
-2,bg,български език,7,Да пазим децата в безопасност онлайн
-2,bg,български език,8,Семейно планиране на финансите във времена на финансов стрес
-2,bg,български език,9,Семейна хармония у дома 
-2,bg,български език,10,Учене чрез игра
-2,bg,български език,11,Защо се разгневяваме
-2,bg,български език,12,Родителска грижа в пренаселени домове и общности
-1,isl,Íslenska,1,Samverustundir með börnum
-1,isl,Íslenska,2,Höldum í jákvaeðnina
-1,isl,Íslenska,3,Daglegt skipulag
-1,isl,Íslenska,4,Krefjandi hegðun
-1,isl,Íslenska,5,Að halda ró sinni og takast á við streitu
-1,isl,Íslenska,6,Að tala um COVID-19
+1,da,Danish,1,Tid sammen på tomandshånd
+1,da,Danish,2,Hold det positivt
+1,da,Danish,3,Skab struktur
+1,da,Danish,4,Dårlig opførsel
+1,da,Danish,5,Hold dig rolig og hold styr på din stress
+1,da,Danish,6,Samtaler om COVID-19
+1,da,Danish,7,Online sikkerhed for børn
+1,da,Danish,8,Familiebudgetter
+1,da,Danish,9,Familieforhold
+1,da,Danish,10,Lær gennem leg
+1,da,Danish,11,Klar vreden
+1,da,Danish,12,Overfyldt hjem
+1,bg,Bulgarian,1,Лично време с детето
+1,bg,Bulgarian,2,Да бъдем позитивни
+1,bg,Bulgarian,3,Структурирайте нещата!
+1,bg,Bulgarian,4,Лошо поведение
+1,bg,Bulgarian,5,Запазете спокойствие и контролирайте стреса
+1,bg,Bulgarian,6,Да говорим за COVID-19
+1,bg,Bulgarian,7,Да пазим децата в безопасност онлайн
+1,bg,Bulgarian,8,Семейно планиране на финансите във времена на финансов стрес
+1,bg,Bulgarian,9,Семейна хармония у дома 
+1,bg,Bulgarian,10,Учене чрез игра
+1,bg,Bulgarian,11,Защо се разгневяваме
+1,bg,Bulgarian,12,Родителска грижа в пренаселени домове и общности
+1,isl,Icelandic,1,Samverustundir með börnum
+1,isl,Icelandic,2,Höldum í jákvaeðnina
+1,isl,Icelandic,3,Daglegt skipulag
+1,isl,Icelandic,4,Krefjandi hegðun
+1,isl,Icelandic,5,Að halda ró sinni og takast á við streitu
+1,isl,Icelandic,6,Að tala um COVID-19
 1,teo,Ateso,1,Apak na idiope ka idiope
 1,teo,Ateso,2,Aidar koipone kalo ebeitor
 1,teo,Ateso,3,Eswamae!
@@ -620,217 +644,217 @@ languageType,languageCode,languageName,tipSheetNumber,title
 1,teo,Ateso,10,Aisisiaun kotoma abolia
 1,teo,Ateso,11,Ne ikadakina oni
 1,teo,Ateso,12,Eidare lo ekale kotoma oreria idunyudunya keda lu ipu itunga
-1,lit,Lietuvių,1,Laikas pabūti dviese
-1,lit,Lietuvių,2,Pozityvumo išsaugojimas
-1,lit,Lietuvių,3,Įdiekite struktūrą
-1,lit,Lietuvių,4,Netinkamas elgesys
-1,lit,Lietuvių,5,Išlikite ramūs ir suvaldykite stresą
-1,lit,Lietuvių,6,Kaip kalbėtis apie COVID-19
-1,lit,Lietuvių,7,Vaikų apsauga internete
-1,lit,Lietuvių,8,Šeimos biudžetas finansiškai sunkiais laikais
-1,lit,Lietuvių,9,Darni šeima namuose
-1,lit,Lietuvių,10,Mokymasis žaidžiant
-1,lit,Lietuvių,11,Kai supykstame
-1,lit,Lietuvių,12,Vaikų auginimas ankštuose namuose ir bendruomenėse
-2,arm,Հայերեն,1,Ժամանակ երկուսով
-2,arm,Հայերեն,2,Պահպանեք դրական տրամադրվածություն
-2,arm,Հայերեն,3,Կազմակերպեք
-2,arm,Հայերեն,4,Վատ վարք
-2,arm,Հայերեն,5,Պահպանեք հանգստություն ու կառավարեք սթրեսը
-2,arm,Հայերեն,6,Խոսել կորոնավիրուս-19-ի մասին
-2,bn,বাংলা,1,শিশুর সাথে একান্তে সময় কাটানো
-2,bn,বাংলা,2,ইতিবাচক থাকুন
-2,bn,বাংলা,3,রুটিন তৈরি করুন
-2,bn,বাংলা,4,মন্দ বা খারাপ আচরণ
-2,bn,বাংলা,5,শান্ত থাকুন এবং চাপ নিয়ন্ত্রণ করুন
-2,bn,বাংলা,6,কোভিড-১৯'এর কথা।
-2,bn,বাংলা,7,অনলাইনে শিশুদের নিরাপদ রাখুন!
-2,bn,বাংলা,8,আর্থিক সংকটকালীন সময়ে পরিবারের জন্য বাজেট তৈরি
-2,bn,বাংলা,9,পারিবারিক সম্প্রীতি
-2,bn,বাংলা,10,খেলার মাধ্যমে শেখা
-2,bn,বাংলা,11,যখন আমরা রাগ হই
-2,bn,বাংলা,12,জনাকীর্ণ বাড়ি বা কমিউনিটিতে শিশুদের পরিচর্যা বা যত্ন (প্যারেন্টিং)
-2,bn,বাংলা,13,বিশেষ চাহিদাসম্পন্ন শিশুদের পরিচর্যা বা যত্ন (প্যারেন্টিং)
-2,bn,বাংলা,14,কিশোর বয়সী ছেলেমেয়দের পরিচর্যা বা যত্ন (প্যারেন্টিং)
-2,bn,বাংলা,15,কোভিড-১৯ এর সময় পরিবারের নতুন শিশুর যত্ন
-2,zh-hant,中文（繁体）,1,親子時間
-2,zh-hant,中文（繁体）,2,保持正面
-2,zh-hant,中文（繁体）,3,規律生活！
-2,zh-hant,中文（繁体）,4,不良行為
-2,zh-hant,中文（繁体）,5,保持冷靜、管理壓力
-2,zh-hant,中文（繁体）,6,談論新型冠狀肺炎
-1,hr,Hrvatski,1,Zajedničko vrijeme jedan na jedan
-1,hr,Hrvatski,2,Ostanite pozitivni
-1,hr,Hrvatski,3,Napravite strukturu dana
-1,hr,Hrvatski,4,Nepoželjno ponašanje
-1,hr,Hrvatski,5,Ostanite smireni i uspješno se nosite sa stresom
-1,hr,Hrvatski,6,Razgovarati o COVID-19
-1,hr,Hrvatski,7,Zaštita djece na internetu
-1,hr,Hrvatski,8,Planiranje obiteljskog proračuna u vrijeme financijske nesigurnosti
-1,hr,Hrvatski,9,Obiteljski sklad u domu
-1,hr,Hrvatski,10,Učenje kroz igru
-1,hr,Hrvatski,11,Što kad se razljutimo?
-1,hr,Hrvatski,12,Roditeljstvo u obiteljima s mnogo članova i višečlanim zajednicama
-2,fa,فارسی,1,زمان‌های تک نفره
-2,fa,فارسی,2,مثبت‌ بمانید
-2,fa,فارسی,3,ساختار جدیدی بسازیم!
-2,fa,فارسی,4,رفتارهای بد
-2,fa,فارسی,5,آرامش خود را حفظ کنید و استرس خود را مدیریت کنید
-2,fa,فارسی,6,دربارة ویروس کرونا صحبت کنید
-2,kn,ಕನ್ನಡ,1,ಗುಣಮಟ್ಟದ ಸಮಯ
-2,kn,ಕನ್ನಡ,2,ಅದನ್ನು ಧನಾತ್ಮಕವಾಗಿರಿಸಿ
-2,kn,ಕನ್ನಡ,3,ವಿನ್ಯಾಸಗೊಳಿಸಿ!
-2,kn,ಕನ್ನಡ,4,ಕೆಟ್ಟ ನಡವಳಿಕೆ
-2,kn,ಕನ್ನಡ,5,ಶಾಂತವಾಗಿರಿ ಮತ್ತು ಒತ್ತಡವನ್ನು ನಿರ್ವಹಿಸಿ
-2,kn,ಕನ್ನಡ,6,ಕೊ ವಿಡ್-19 ಕುರಿತು ಮಾತನಾಡುತ್ತಿದ್ದಾರೆ
-2,kn,ಕನ್ನಡ,7,ಮಕ್ಕಳನ್ನು ಆನ್‌ಲೈನ್‌ನಲ್ಲಿ ಸುರಕ್ಷಿತವಾಗಿರಿಸುವುದು
-2,kn,ಕನ್ನಡ,8,ಟೈಮ್ಸ್ ಆಫ್ ಫೈನಾನ್ಷಿಯಲ್ ಸ್ಟ್ರೆಸ್‌ನಲ್ಲಿ ಕುಟುಂಬ ಬಜೆಟ್
-2,kn,ಕನ್ನಡ,9,ಮನೆಯಲ್ಲಿ ಕುಟುಂಬ ಸಾಮರಸ್ಯ
-2,kn,ಕನ್ನಡ,10,ಆಟದ ಮೂಲಕ ಕಲಿಕೆ
-2,kn,ಕನ್ನಡ,11,ನಾವು ಕೋಪಗೊಂಡಾಗ
-2,kn,ಕನ್ನಡ,12,ಜನತುಂಬಿರುವ ಮನೆಗಳು ಮತ್ತು ಸಮುದಾಯಗಳಲ್ಲಿ ಪಾಲನೆ
-2,km,ភាសាខ្មែរ,1,ការអប់រំកជាេពលេវលាមូនកំ ុ􀀂ងអ
-2,km,ភាសាខ្មែរ,2,រក􀀁ភាព􀀂ជ􀀃មាន
-2,km,ភាសាខ្មែរ,3,ផ􀀂ការអបល់ ់រំកូនកុ􀀃ក
-2,km,ភាសាខ្មែរ,4,ឥរ􀀁យាបទគួរែកលម􀀂រ
-2,km,ភាសាខ្មែរ,5,រក􀀅ភាពេស􀀆􀀇មសា􀀆 ត់ ន􀀈ង្រគប់្រគងភាពតាន􀀁ង
-2,km,ភាសាខ្មែរ,6,ការអបន􀀂យាយព􀀃ជ់រំកូនកួចុ􀀄ំ
-2,km,ភាសាខ្មែរ,7,Tip Sheet Number 7
-2,km,ភាសាខ្មែរ,8,Tip Sheet Number 8
-2,km,ភាសាខ្មែរ,9,Tip Sheet Number 9
-2,km,ភាសាខ្មែរ,10,Tip Sheet Number 10
-2,km,ភាសាខ្មែរ,11,Tip Sheet Number 11
-2,km,ភាសាខ្មែរ,12,Tip Sheet Number 12
-2,ko,조선말,1,아이와 둘만의 시간 갖기
-2,ko,조선말,2,긍정적으로 생각하기
-2,ko,조선말,3,규칙 만들기
-2,ko,조선말,4,말썽 부리는 자녀 대처하기
-2,ko,조선말,5,육아 스트레스 관리하기
-2,ko,조선말,6,COVID-19에 대해 자녀와 대회하기
-1,lhi,Ladhof,1,Tip Sheet Number 1
-1,lhi,Ladhof,2,Tip Sheet Number 2
-1,lhi,Ladhof,3,Tip Sheet Number 3
-1,lhi,Ladhof,4,Tip Sheet Number 4
-1,lhi,Ladhof,5,Tip Sheet Number 5
-1,lhi,Ladhof,6,Tip Sheet Number 6
-2,mr,मराठी,1,वन-ऑन-वन टाइम
-2,mr,मराठी,2,Tip Sheet Number 2
-2,mr,मराठी,3,Tip Sheet Number 3
-2,mr,मराठी,4,वाईट वत णूक
-2,mr,मराठी,5,Tip Sheet Number 5
-2,mr,मराठी,6,कोिवड -१. बोलत आहे ब ल बोलत आहे
-1,cnr,crnogorski,1,Vrijeme jedan na jedan
-1,cnr,crnogorski,2,Ostanite pozitivni.
-1,cnr,crnogorski,3,Strukturišite dan!
-1,cnr,crnogorski,4,Loše ponašanje
-1,cnr,crnogorski,5,Budite smireni i kontrolišite stres.
-1,cnr,crnogorski,6,Razgovor o COVID-u-19
-1,cnr,crnogorski,7,Bezbjednost djece na internetu
-1,cnr,crnogorski,8,Porodično budžetiranje u vrijeme pojačanog finansijskog pritiska
-1,cnr,crnogorski,9,Porodični sklad kod kuće
-1,cnr,crnogorski,10,Učenje kroz igru
-1,cnr,crnogorski,11,Kad se naljutimo
-1,cnr,crnogorski,12,Roditeljstvo u prepunom domu
-1,cnr,crnogorski,13,Savjeti za roditelje djece sa smetnjama u razvoju
-1,cnr,crnogorski,14,Savjeti za roditelje tinejdžera
-1,cnr,crnogorski,15,Stigla je beba - savjeti za roditelje
-1,tly,kam tai lue,1,Tip Sheet Number 1
-1,tly,kam tai lue,2,Tip Sheet Number 2
-1,tly,kam tai lue,3,Tip Sheet Number 3
-1,tly,kam tai lue,4,Tip Sheet Number 4
-1,tly,kam tai lue,5,Tip Sheet Number 5
-1,tly,kam tai lue,6,Tip Sheet Number 6
-2,ta,தமிழ்,1,xUtNuhnlhUtUf;fhd Neuk;
-2,ta,தமிழ்,2,Neu;kiwahf my;yJ cWjpahf
-2,ta,தமிழ்,3,fl;likg;Gf;Fs; nfhz;LthUq;fs;
-2,ta,தமிழ்,4,Ju; elj;ij
-2,ta,தமிழ்,5,mikjpahf
-2,ta,தமிழ்,6,COVID 19 gw;wpa Ngr;R
-2,te,తెలుగు,1,సమయాన్ని సద్విని యోగం చేసుకోండిసమయాన్ని చేసుకోండి
-2,te,తెలుగు,2,సానుకూలంగా ఉంచడంసానుకూలంగా ఉంచడం
-2,te,తెలుగు,3,నిర్మా ణాత్మకంగా రూపొందించుకోండి!
-2,te,తెలుగు,4,చెడు ప్రవర్తనచెడు ప్రవర్తన
-2,te,తెలుగు,5,ప్రశాంతంగా ఉంటూ ఒత్తి త్తిడిని జయిం చండిప్రశాంతంగా చండి
-2,te,తెలుగు,6,COVID-19 గురించి చర్చిం చడం
-2,th,ภาษาไทย,1,การใช้เวลาตามลำพังกับลูก
-2,th,ภาษาไทย,2,ทำสถานการณ์ให้เป็นเชิงบวกไว้เสมอ
-2,th,ภาษาไทย,3,สร้างตารางกจกรรม
-2,th,ภาษาไทย,4,เมื่อลูกงอแง
-2,th,ภาษาไทย,5,รักษาอารมณ์ให้สงบและจัดการกับความเครียด
-2,th,ภาษาไทย,6,คุยกับลูกเรื่อง โควิด 19
-2,th,ภาษาไทย,7,การปกป้ อง เด็ก ให้ปลอดภัยบนโลกออนไลน์
-2,th,ภาษาไทย,8,การวางแผนการใช้จ่ายในครอบครัวในสถานการณ์ ตึงเครียดทางการเงิน
-2,th,ภาษาไทย,9,ความกลม เกลียว ในครอบครัว
-2,th,ภาษาไทย,10,การเรียนรู้ผ่านการเล่น
-2,th,ภาษาไทย,11,Tip Sheet Number 11
-2,th,ภาษาไทย,12,Tip Sheet Number 12
-2,ur,اُردُو,1,
-2,ur,اُردُو,2,سوچ کو مثبت رکھیں
-2,ur,اُردُو,3,ﺑﺎﻗﺎﺋدﮔﯽ اﺧﺗﯾﺎر ﮐرﯾں
-2,ur,اُردُو,4,ﺑرا ر وﯾه
-2,ur,اُردُو,5,ﭘرﺳﮑون رﮨﯾں اور ذﮨﻧﯽ دﺑﺎؤ ﭘر ﻗﺎﺑو رﮐﮭﯾں
-2,ur,اُردُو,6,ﮐووﯾڈ-19 ﮐﮯ ﺑﺎرے ﻣﯾں ﮔﻔﺗﮕو ﮐرﯾں
-2,ur,اُردُو,7,بچوں کو آن لائن محفوظ رکھنا
-2,ur,اُردُو,8,معاشی تناؤ کے اوقات میں فیملی کا بجٹ
-2,ur,اُردُو,9,گھر میں خاندانی ہم آہنگی
-2,ur,اُردُو,10,کھیل کے ذریعے سیکھنا
-2,ur,اُردُو,11,جب ہم ناراض ہوجاتے ہیں
-2,ur,اُردُو,12,بھیڑ بھاڑ والے گھروں اور معاشروں میں والدین بننا
-1,zu,isiZulu,1,Isikhathi-esisodwa / ukuchitha isikhathi ndawonye (spending time together)
-1,zu,isiZulu,2,Ukugcina ingqondo enhle
-1,zu,isiZulu,3,Sakhiwo PheisiZulu!
-1,zu,isiZulu,4,Ukuziphatha Okubi
-1,zu,isiZulu,5,Gcina Ukuthula futhi uphathe ukuxineka
-1,zu,isiZulu,6,Ukukhuluma nge-COVID-19
-1,zu,isiZulu,14,Amathiphu abazali babantwana asebekhulile/intsha (amathineja)
-2,asm, অসমীয়া,1,Tip Sheet Number 1
-2,asm, অসমীয়া,2,Tip Sheet Number 2
-2,asm, অসমীয়া,3,Tip Sheet Number 3
-2,asm, অসমীয়া,4,Tip Sheet Number 4
-2,asm, অসমীয়া,5,Tip Sheet Number 5
-2,asm, অসমীয়া,6,Tip Sheet Number 6
-2,sin,සිංහල,1,ld
-2,sin,සිංහල,2,Okd;aulj isàu
-2,sin,සිංහල,3,iels<a
-2,sin,සිංහල,4,whym;a yeisÍu
-2,sin,සිංහල,5,ikaiqkaj isg wd;;sh l<ukdlrKh lr.kak
-2,sin,සිංහල,6,COVID - 19 .ek l:dny lsÍu
-2,bur,မြန်မာစာ မြန်မာစကား,1,တစ်ယောက်ချင်းစီ တွေ့တဲ့အချိန်
-2,bur,မြန်မာစာ မြန်မာစကား,2,အကောင်းမြင်စိတ်ရှိပါ။
-2,bur,မြန်မာစာ မြန်မာစကား,3,ဖြဲ.စည္းတည္ေဆာက္ပါ။
-2,bur,မြန်မာစာ မြန်မာစကား,4,ဆိုုး၀ါးေသာ အျပဳအမူ၊ အက်င့္
-2,bur,မြန်မာစာ မြန်မာစကား,5,စိတ်ကိုတည်ငြိမ်အောင်ထားပါ။ စိတ်ဖိစီးမှုကို ဖြေရှင်းဖို့ကြိုးစားပါ။
-2,bur,မြန်မာစာ မြန်မာစကား,6,ကိုဗစ်နိုင်တင်း အကြောင်းပြောဆိုဆွေးနွေးခြင်း
-2,bur,မြန်မာစာ မြန်မာစကား,7,Tip Sheet Number 7
-2,bur,မြန်မာစာ မြန်မာစကား,8,Tip Sheet Number 8
-2,bur,မြန်မာစာ မြန်မာစကား,9,Tip Sheet Number 9
-2,bur,မြန်မာစာ မြန်မာစကား,10,Tip Sheet Number 10
-2,bur,မြန်မာစာ မြန်မာစကား,11,Tip Sheet Number 11
-2,bur,မြန်မာစာ မြန်မာစကား,12,Tip Sheet Number 12
-2,el,Ελληνικά,1,Χρόνος Ένας-προς-Ένα
-2,el,Ελληνικά,2,Να είστε θετικοί
-2,el,Ελληνικά,3,Αποκτήστε καινούργιες συνήθειες!
-2,el,Ελληνικά,4,Κακή συμπεριφορά
-2,el,Ελληνικά,5,Να είστε Ήρεμοι και να Διαχειρίζεστε το άγχος
-2,el,Ελληνικά,6,Μιλώντας για τον κορωνοϊό
-2,el,Ελληνικά,7,Κρατήστε τα παιδιά ασφαλή στο διαδίκτυο
-2,el,Ελληνικά,8,Οικογενειακός προϋπολογισμούς σε καιρούς οικονομικών δυσκολιών
-2,el,Ελληνικά,9,Οικογενειακή αρμονία στο σπίτι
-2,el,Ελληνικά,10,Μαθαίνοντας μέσα από το παιχνίδι
-2,el,Ελληνικά,11,Όταν θυμώνουμε
-2,el,Ελληνικά,12,Γονείς που ζουν σε σπίτια ή κοινότητες με συνωστισμό
+1,lit,Lithuanian,1,Laikas pabūti dviese
+1,lit,Lithuanian,2,Pozityvumo išsaugojimas
+1,lit,Lithuanian,3,Įdiekite struktūrą
+1,lit,Lithuanian,4,Netinkamas elgesys
+1,lit,Lithuanian,5,Išlikite ramūs ir suvaldykite stresą
+1,lit,Lithuanian,6,Kaip kalbėtis apie COVID-19
+1,lit,Lithuanian,7,Vaikų apsauga internete
+1,lit,Lithuanian,8,Šeimos biudžetas finansiškai sunkiais laikais
+1,lit,Lithuanian,9,Darni šeima namuose
+1,lit,Lithuanian,10,Mokymasis žaidžiant
+1,lit,Lithuanian,11,Kai supykstame
+1,lit,Lithuanian,12,Vaikų auginimas ankštuose namuose ir bendruomenėse
+1,arm,Armenian,1,Ժամանակ երկուսով
+1,arm,Armenian,2,Պահպանեք դրական տրամադրվածություն
+1,arm,Armenian,3,Կազմակերպեք
+1,arm,Armenian,4,Վատ վարք
+1,arm,Armenian,5,Պահպանեք հանգստություն ու կառավարեք սթրեսը
+1,arm,Armenian,6,Խոսել կորոնավիրուս-19-ի մասին
+1,bn,Bengali,1,শিশুর সাথে একান্তে সময় কাটানো
+1,bn,Bengali,2,ইতিবাচক থাকুন
+1,bn,Bengali,3,রুটিন তৈরি করুন
+1,bn,Bengali,4,মন্দ বা খারাপ আচরণ
+1,bn,Bengali,5,শান্ত থাকুন এবং চাপ নিয়ন্ত্রণ করুন
+1,bn,Bengali,6,কোভিড-১৯'এর কথা।
+1,bn,Bengali,7,অনলাইনে শিশুদের নিরাপদ রাখুন!
+1,bn,Bengali,8,আর্থিক সংকটকালীন সময়ে পরিবারের জন্য বাজেট তৈরি
+1,bn,Bengali,9,পারিবারিক সম্প্রীতি
+1,bn,Bengali,10,খেলার মাধ্যমে শেখা
+1,bn,Bengali,11,যখন আমরা রাগ হই
+1,bn,Bengali,12,জনাকীর্ণ বাড়ি বা কমিউনিটিতে শিশুদের পরিচর্যা বা যত্ন (প্যারেন্টিং)
+1,bn,Bengali,13,বিশেষ চাহিদাসম্পন্ন শিশুদের পরিচর্যা বা যত্ন (প্যারেন্টিং)
+1,bn,Bengali,14,কিশোর বয়সী ছেলেমেয়দের পরিচর্যা বা যত্ন (প্যারেন্টিং)
+1,bn,Bengali,15,কোভিড-১৯ এর সময় পরিবারের নতুন শিশুর যত্ন
+1,zh-hant,Chinese (Traditional),1,親子時間
+1,zh-hant,Chinese (Traditional),2,保持正面
+1,zh-hant,Chinese (Traditional),3,規律生活！
+1,zh-hant,Chinese (Traditional),4,不良行為
+1,zh-hant,Chinese (Traditional),5,保持冷靜、管理壓力
+1,zh-hant,Chinese (Traditional),6,談論新型冠狀肺炎
+1,hr,Croatian,1,Zajedničko vrijeme jedan na jedan
+1,hr,Croatian,2,Ostanite pozitivni
+1,hr,Croatian,3,Napravite strukturu dana
+1,hr,Croatian,4,Nepoželjno ponašanje
+1,hr,Croatian,5,Ostanite smireni i uspješno se nosite sa stresom
+1,hr,Croatian,6,Razgovarati o COVID-19
+1,hr,Croatian,7,Zaštita djece na internetu
+1,hr,Croatian,8,Planiranje obiteljskog proračuna u vrijeme financijske nesigurnosti
+1,hr,Croatian,9,Obiteljski sklad u domu
+1,hr,Croatian,10,Učenje kroz igru
+1,hr,Croatian,11,Što kad se razljutimo?
+1,hr,Croatian,12,Roditeljstvo u obiteljima s mnogo članova i višečlanim zajednicama
+1,fa,Persian,1,زمان‌های تک نفره
+1,fa,Persian,2,مثبت‌ بمانید
+1,fa,Persian,3,ساختار جدیدی بسازیم!
+1,fa,Persian,4,رفتارهای بد
+1,fa,Persian,5,آرامش خود را حفظ کنید و استرس خود را مدیریت کنید
+1,fa,Persian,6,دربارة ویروس کرونا صحبت کنید
+1,kn,Kannada,1,ಗುಣಮಟ್ಟದ ಸಮಯ
+1,kn,Kannada,2,ಅದನ್ನು ಧನಾತ್ಮಕವಾಗಿರಿಸಿ
+1,kn,Kannada,3,ವಿನ್ಯಾಸಗೊಳಿಸಿ!
+1,kn,Kannada,4,ಕೆಟ್ಟ ನಡವಳಿಕೆ
+1,kn,Kannada,5,ಶಾಂತವಾಗಿರಿ ಮತ್ತು ಒತ್ತಡವನ್ನು ನಿರ್ವಹಿಸಿ
+1,kn,Kannada,6,ಕೊ ವಿಡ್-19 ಕುರಿತು ಮಾತನಾಡುತ್ತಿದ್ದಾರೆ
+1,kn,Kannada,7,ಮಕ್ಕಳನ್ನು ಆನ್‌ಲೈನ್‌ನಲ್ಲಿ ಸುರಕ್ಷಿತವಾಗಿರಿಸುವುದು
+1,kn,Kannada,8,ಟೈಮ್ಸ್ ಆಫ್ ಫೈನಾನ್ಷಿಯಲ್ ಸ್ಟ್ರೆಸ್‌ನಲ್ಲಿ ಕುಟುಂಬ ಬಜೆಟ್
+1,kn,Kannada,9,ಮನೆಯಲ್ಲಿ ಕುಟುಂಬ ಸಾಮರಸ್ಯ
+1,kn,Kannada,10,ಆಟದ ಮೂಲಕ ಕಲಿಕೆ
+1,kn,Kannada,11,ನಾವು ಕೋಪಗೊಂಡಾಗ
+1,kn,Kannada,12,ಜನತುಂಬಿರುವ ಮನೆಗಳು ಮತ್ತು ಸಮುದಾಯಗಳಲ್ಲಿ ಪಾಲನೆ
+1,km,Khmer Cambodia,1,ការអប់រំកជាេពលេវលាមូនកំ ុ􀀂ងអ
+1,km,Khmer Cambodia,2,រក􀀁ភាព􀀂ជ􀀃មាន
+1,km,Khmer Cambodia,3,ផ􀀂ការអបល់ ់រំកូនកុ􀀃ក
+1,km,Khmer Cambodia,4,ឥរ􀀁យាបទគួរែកលម􀀂រ
+1,km,Khmer Cambodia,5,រក􀀅ភាពេស􀀆􀀇មសា􀀆 ត់ ន􀀈ង្រគប់្រគងភាពតាន􀀁ង
+1,km,Khmer Cambodia,6,ការអបន􀀂យាយព􀀃ជ់រំកូនកួចុ􀀄ំ
+1,km,Khmer Cambodia,7,Tip Sheet Number 7
+1,km,Khmer Cambodia,8,Tip Sheet Number 8
+1,km,Khmer Cambodia,9,Tip Sheet Number 9
+1,km,Khmer Cambodia,10,Tip Sheet Number 10
+1,km,Khmer Cambodia,11,Tip Sheet Number 11
+1,km,Khmer Cambodia,12,Tip Sheet Number 12
+1,ko,Korean,1,아이와 둘만의 시간 갖기
+1,ko,Korean,2,긍정적으로 생각하기
+1,ko,Korean,3,규칙 만들기
+1,ko,Korean,4,말썽 부리는 자녀 대처하기
+1,ko,Korean,5,육아 스트레스 관리하기
+1,ko,Korean,6,COVID-19에 대해 자녀와 대회하기
+1,lhi,Lahu,1,Tip Sheet Number 1
+1,lhi,Lahu,2,Tip Sheet Number 2
+1,lhi,Lahu,3,Tip Sheet Number 3
+1,lhi,Lahu,4,Tip Sheet Number 4
+1,lhi,Lahu,5,Tip Sheet Number 5
+1,lhi,Lahu,6,Tip Sheet Number 6
+1,mr,Marathi,1,वन-ऑन-वन टाइम
+1,mr,Marathi,2,Tip Sheet Number 2
+1,mr,Marathi,3,Tip Sheet Number 3
+1,mr,Marathi,4,वाईट वत णूक
+1,mr,Marathi,5,Tip Sheet Number 5
+1,mr,Marathi,6,कोिवड -१. बोलत आहे ब ल बोलत आहे
+1,cnr,Montenegrin,1,Vrijeme jedan na jedan
+1,cnr,Montenegrin,2,Ostanite pozitivni.
+1,cnr,Montenegrin,3,Strukturišite dan!
+1,cnr,Montenegrin,4,Loše ponašanje
+1,cnr,Montenegrin,5,Budite smireni i kontrolišite stres.
+1,cnr,Montenegrin,6,Razgovor o COVID-u-19
+1,cnr,Montenegrin,7,Bezbjednost djece na internetu
+1,cnr,Montenegrin,8,Porodično budžetiranje u vrijeme pojačanog finansijskog pritiska
+1,cnr,Montenegrin,9,Porodični sklad kod kuće
+1,cnr,Montenegrin,10,Učenje kroz igru
+1,cnr,Montenegrin,11,Kad se naljutimo
+1,cnr,Montenegrin,12,Roditeljstvo u prepunom domu
+1,cnr,Montenegrin,13,Savjeti za roditelje djece sa smetnjama u razvoju
+1,cnr,Montenegrin,14,Savjeti za roditelje tinejdžera
+1,cnr,Montenegrin,15,Stigla je beba - savjeti za roditelje
+1,tly,Tai,1,Tip Sheet Number 1
+1,tly,Tai,2,Tip Sheet Number 2
+1,tly,Tai,3,Tip Sheet Number 3
+1,tly,Tai,4,Tip Sheet Number 4
+1,tly,Tai,5,Tip Sheet Number 5
+1,tly,Tai,6,Tip Sheet Number 6
+1,ta,Tamil,1,xUtNuhnlhUtUf;fhd Neuk;
+1,ta,Tamil,2,Neu;kiwahf my;yJ cWjpahf
+1,ta,Tamil,3,fl;likg;Gf;Fs; nfhz;LthUq;fs;
+1,ta,Tamil,4,Ju; elj;ij
+1,ta,Tamil,5,mikjpahf
+1,ta,Tamil,6,COVID 19 gw;wpa Ngr;R
+1,te,Telugu,1,సమయాన్ని సద్విని యోగం చేసుకోండిసమయాన్ని చేసుకోండి
+1,te,Telugu,2,సానుకూలంగా ఉంచడంసానుకూలంగా ఉంచడం
+1,te,Telugu,3,నిర్మా ణాత్మకంగా రూపొందించుకోండి!
+1,te,Telugu,4,చెడు ప్రవర్తనచెడు ప్రవర్తన
+1,te,Telugu,5,ప్రశాంతంగా ఉంటూ ఒత్తి త్తిడిని జయిం చండిప్రశాంతంగా చండి
+1,te,Telugu,6,COVID-19 గురించి చర్చిం చడం
+1,th,Thai,1,การใช้เวลาตามลำพังกับลูก
+1,th,Thai,2,ทำสถานการณ์ให้เป็นเชิงบวกไว้เสมอ
+1,th,Thai,3,สร้างตารางกจกรรม
+1,th,Thai,4,เมื่อลูกงอแง
+1,th,Thai,5,รักษาอารมณ์ให้สงบและจัดการกับความเครียด
+1,th,Thai,6,คุยกับลูกเรื่อง โควิด 19
+1,th,Thai,7,การปกป้ อง เด็ก ให้ปลอดภัยบนโลกออนไลน์
+1,th,Thai,8,การวางแผนการใช้จ่ายในครอบครัวในสถานการณ์ ตึงเครียดทางการเงิน
+1,th,Thai,9,ความกลม เกลียว ในครอบครัว
+1,th,Thai,10,การเรียนรู้ผ่านการเล่น
+1,th,Thai,11,Tip Sheet Number 11
+1,th,Thai,12,Tip Sheet Number 12
+1,ur,Urdu,1, Tipsheet 1
+1,ur,Urdu,2,سوچ کو مثبت رکھیں
+1,ur,Urdu,3,ﺑﺎﻗﺎﺋدﮔﯽ اﺧﺗﯾﺎر ﮐرﯾں
+1,ur,Urdu,4,ﺑرا ر وﯾه
+1,ur,Urdu,5,ﭘرﺳﮑون رﮨﯾں اور ذﮨﻧﯽ دﺑﺎؤ ﭘر ﻗﺎﺑو رﮐﮭﯾں
+1,ur,Urdu,6,ﮐووﯾڈ-19 ﮐﮯ ﺑﺎرے ﻣﯾں ﮔﻔﺗﮕو ﮐرﯾں
+1,ur,Urdu,7,بچوں کو آن لائن محفوظ رکھنا
+1,ur,Urdu,8,معاشی تناؤ کے اوقات میں فیملی کا بجٹ
+1,ur,Urdu,9,گھر میں خاندانی ہم آہنگی
+1,ur,Urdu,10,کھیل کے ذریعے سیکھنا
+1,ur,Urdu,11,جب ہم ناراض ہوجاتے ہیں
+1,ur,Urdu,12,بھیڑ بھاڑ والے گھروں اور معاشروں میں والدین بننا
+1,zu,Zulu,1,Isikhathi-esisodwa / ukuchitha isikhathi ndawonye (spending time together)
+1,zu,Zulu,2,Ukugcina ingqondo enhle
+1,zu,Zulu,3,Sakhiwo PheZulu!
+1,zu,Zulu,4,Ukuziphatha Okubi
+1,zu,Zulu,5,Gcina Ukuthula futhi uphathe ukuxineka
+1,zu,Zulu,6,Ukukhuluma nge-COVID-19
+1,zu,Zulu,14,Amathiphu abazali babantwana asebekhulile/intsha (amathineja)
+1,asm, Assamese,1,Tip Sheet Number 1
+1,asm, Assamese,2,Tip Sheet Number 2
+1,asm, Assamese,3,Tip Sheet Number 3
+1,asm, Assamese,4,Tip Sheet Number 4
+1,asm, Assamese,5,Tip Sheet Number 5
+1,asm, Assamese,6,Tip Sheet Number 6
+1,sin,Sinhala,1,ld
+1,sin,Sinhala,2,Okd;aulj isàu
+1,sin,Sinhala,3,iels<a
+1,sin,Sinhala,4,whym;a yeisÍu
+1,sin,Sinhala,5,ikaiqkaj isg wd;;sh l<ukdlrKh lr.kak
+1,sin,Sinhala,6,COVID - 19 .ek l:dny lsÍu
+1,bur,Burmese,1,တစ်ယောက်ချင်းစီ တွေ့တဲ့အချိန်
+1,bur,Burmese,2,အကောင်းမြင်စိတ်ရှိပါ။
+1,bur,Burmese,3,ဖြဲ.စည္းတည္ေဆာက္ပါ။
+1,bur,Burmese,4,ဆိုုး၀ါးေသာ အျပဳအမူ၊ အက်င့္
+1,bur,Burmese,5,စိတ်ကိုတည်ငြိမ်အောင်ထားပါ။ စိတ်ဖိစီးမှုကို ဖြေရှင်းဖို့ကြိုးစားပါ။
+1,bur,Burmese,6,ကိုဗစ်နိုင်တင်း အကြောင်းပြောဆိုဆွေးနွေးခြင်း
+1,bur,Burmese,7,Tip Sheet Number 7
+1,bur,Burmese,8,Tip Sheet Number 8
+1,bur,Burmese,9,Tip Sheet Number 9
+1,bur,Burmese,10,Tip Sheet Number 10
+1,bur,Burmese,11,Tip Sheet Number 11
+1,bur,Burmese,12,Tip Sheet Number 12
+1,el,Greek,1,Χρόνος Ένας-προς-Ένα
+1,el,Greek,2,Να είστε θετικοί
+1,el,Greek,3,Αποκτήστε καινούργιες συνήθειες!
+1,el,Greek,4,Κακή συμπεριφορά
+1,el,Greek,5,Να είστε Ήρεμοι και να Διαχειρίζεστε το άγχος
+1,el,Greek,6,Μιλώντας για τον κορωνοϊό
+1,el,Greek,7,Κρατήστε τα παιδιά ασφαλή στο διαδίκτυο
+1,el,Greek,8,Οικογενειακός προϋπολογισμούς σε καιρούς οικονομικών δυσκολιών
+1,el,Greek,9,Οικογενειακή αρμονία στο σπίτι
+1,el,Greek,10,Μαθαίνοντας μέσα από το παιχνίδι
+1,el,Greek,11,Όταν θυμώνουμε
+1,el,Greek,12,Γονείς που ζουν σε σπίτια ή κοινότητες με συνωστισμό
 1,ghe,Gheba,1,Tip Sheet Number 1
 1,ghe,Gheba,2,Tip Sheet Number 2
 1,ghe,Gheba,3,Tip Sheet Number 3
 1,ghe,Gheba,4,Tip Sheet Number 4
 1,ghe,Gheba,5,Tip Sheet Number 5
 1,ghe,Gheba,6,Tip Sheet Number 6
-1,ga,Gaeilge,1,Am ar leith le gach gasúr
-1,ga,Gaeilge,2,Coinnigh dearfach!
-1,ga,Gaeilge,3,Leag amach struchtúr!
-1,ga,Gaeilge,4,Nuair a bhíonn gasúir dána
-1,ga,Gaeilge,5,Tip Sheet Number 5
-1,ga,Gaeilge,6,Ag labhairt faoi Covid-19
+1,ga,Irish,1,Am ar leith le gach gasúr
+1,ga,Irish,2,Coinnigh dearfach!
+1,ga,Irish,3,Leag amach struchtúr!
+1,ga,Irish,4,Nuair a bhíonn gasúir dána
+1,ga,Irish,5,Tip Sheet Number 5
+1,ga,Irish,6,Ag labhairt faoi Covid-19
 1,lemi,Lemi,1,Nade qütä tähang kätü py pa
 1,lemi,Lemi,2,Hawi saite mi hai kheng pa
 1,lemi,Lemi,3,Käni qütä äly äly sa hethang aerü rüng
@@ -843,18 +867,18 @@ languageType,languageCode,languageName,tipSheetNumber,title
 1,lisu,Lisu,4,Tip Sheet Number 4
 1,lisu,Lisu,5,Tip Sheet Number 5
 1,lisu,Lisu,6,Tip Sheet Number 6
-2,nep,नेपाली,1,एक - मा - एक ( बालबालिका सँग प्रत्यक्ष ) बिताउने समय
-2,nep,नेपाली,2,सकारात्मक बनाउँदै
-2,nep,नेपाली,3,संरचना / तालिका मिलाउनु होस्
-2,nep,नेपाली,4,खराब बानी
-2,nep,नेपाली,5,शान्त (धैर्य) रहनु होस् र तनावलाई व्यवस्थापन गर्नुहोस् ।
-2,nep,नेपाली,6,COVID - 19 बारे जानकारी दिने
-2,nep,नेपाली,7,बालबालिकालाई अनलाइनमा सुरक्षित राख्नुहोस् ।
-2,nep,नेपाली,8,आर्थिक तनावको बेला पारिवारिक बजेट
-2,nep,नेपाली,9,घरमा पारिवारिक सहिष्णुता ( मेलमिलाप )
-2,nep,नेपाली,10,खेलबाट सिकाई
-2,nep,नेपाली,11,जब हामी क्रोधित हुन्छौँ
-2,nep,नेपाली,12,खचाखच घरहरू र समुदायहरू भएको बेला अभिभावकको जिम्मेवारी
+1,nep,Nepali,1,एक - मा - एक ( बालबालिका सँग प्रत्यक्ष ) बिताउने समय
+1,nep,Nepali,2,सकारात्मक बनाउँदै
+1,nep,Nepali,3,संरचना / तालिका मिलाउनु होस्
+1,nep,Nepali,4,खराब बानी
+1,nep,Nepali,5,शान्त (धैर्य) रहनु होस् र तनावलाई व्यवस्थापन गर्नुहोस् ।
+1,nep,Nepali,6,COVID - 19 बारे जानकारी दिने
+1,nep,Nepali,7,बालबालिकालाई अनलाइनमा सुरक्षित राख्नुहोस् ।
+1,nep,Nepali,8,आर्थिक तनावको बेला पारिवारिक बजेट
+1,nep,Nepali,9,घरमा पारिवारिक सहिष्णुता ( मेलमिलाप )
+1,nep,Nepali,10,खेलबाट सिकाई
+1,nep,Nepali,11,जब हामी क्रोधित हुन्छौँ
+1,nep,Nepali,12,खचाखच घरहरू र समुदायहरू भएको बेला अभिभावकको जिम्मेवारी
 1,nag,Naga,1,Tip Sheet Number 1
 1,nag,Naga,2,Tip Sheet Number 2
 1,nag,Naga,3,Tip Sheet Number 3
@@ -883,7 +907,7 @@ languageType,languageCode,languageName,tipSheetNumber,title
 1,sot,Sesotho,2,Ha re itlatseng ka matla
 1,sot,Sesotho,3,Tlhatlhamano ea lietsahala
 1,sot,Sesotho,4,Boitsoaro bo sa amoheleeng
-1,sot,Sesotho,5,Theola moea u ພາສາລາວle khathello ea maikutlo
+1,sot,Sesotho,5,Theola moea ule khathello ea maikutlo
 1,sot,Sesotho,6,Ho bua ka kokoana hloko ea corona
 1,sot,Sesotho,7,Ho Boloka Bana ba Bolokehile ho Marangrang
 1,sot,Sesotho,8,Bajete ya Lelapa Nakong ya Kgatello ya Ditjhelete
@@ -906,30 +930,30 @@ languageType,languageCode,languageName,tipSheetNumber,title
 1,bcl,Bikol Naga,13,Tips para sa mga Children with Disabilities
 1,bcl,Bikol Naga,14,Tips para sa pagiging magurang sa teenager
 1,bcl,Bikol Naga,15,Nag-aaling nin Umboy?
-2,ha,حَوْسَ,1,Ganawa mutum-da-mutum
-2,ha,حَوْسَ,2,Tabbatar da shi da kyau
-2,ha,حَوْسَ,3,Tsara
-2,ha,حَوْسَ,4,Idan yara suka yi laifi
-2,ha,حَوْسَ,5,Ka nutsu kuma ka sarrfa tsananin damuwa
-2,ha,حَوْسَ,6,Magana akan cutar MASHAKO
-2,ha,حَوْسَ,7,Kare lafiyar yara a kan intanet
-2,ha,حَوْسَ,8,Kasafin Kuɗi na Gida a Lokutan Matsalolin Kuɗiha
-2,ha,حَوْسَ,9,Zaman Lafiyan Iyali a Gida
-2,ha,حَوْسَ,10,Koyo ta Hanyar Wasa
-2,ha,حَوْسَ,11,Yayin da Muka Fusata
-2,ha,حَوْسَ,12,Kimtsa Iyali a Gidaje da Al’ummu Masu Cunkoso
-1,nso,Sesotho sa Laboa,1,Go Ipha Nako ya go ba le Ngwana
-1,nso,Sesotho sa Laboa,2,Eba le Pono e Botse
-1,nso,Sesotho sa Laboa,3,Ithute Mekgwa e Mefsa
-1,nso,Sesotho sa Laboa,4,Ge bana ba sa Itshware Botse…
-1,nso,Sesotho sa Laboa,5,Theoša Maswafo
-1,nso,Sesotho sa Laboa,6,Go Bolela ka COVID-19
-1,nso,Sesotho sa Laboa,7,Go Šireletša Bana Inthaneteng
-1,nso,Sesotho sa Laboa,8,Go Diriša Tšhelete Nakong ye e Boima
-1,nso,Sesotho sa Laboa,9,Khutšo ka Lapeng
-1,nso,Sesotho sa Laboa,10,Go Ruta Bana le Bapala
-1,nso,Sesotho sa Laboa,11,Ge re Galefa
-1,nso,Sesotho sa Laboa,12,Go Hlokomela Bana Malapeng le Metseng e Pitlaganego
+1,ha,Hausa,1,Ganawa mutum-da-mutum
+1,ha,Hausa,2,Tabbatar da shi da kyau
+1,ha,Hausa,3,Tsara
+1,ha,Hausa,4,Idan yara suka yi laifi
+1,ha,Hausa,5,Ka nutsu kuma ka sarrfa tsananin damuwa
+1,ha,Hausa,6,Magana akan cutar MASHAKO
+1,ha,Hausa,7,Kare lafiyar yara a kan intanet
+1,ha,Hausa,8,Kasafin Kuɗi na Gida a Lokutan Matsalolin Kuɗiha
+1,ha,Hausa,9,Zaman Lafiyan Iyali a Gida
+1,ha,Hausa,10,Koyo ta Hanyar Wasa
+1,ha,Hausa,11,Yayin da Muka Fusata
+1,ha,Hausa,12,Kimtsa Iyali a Gidaje da Al’ummu Masu Cunkoso
+1,nso,Sepedi,1,Go Ipha Nako ya go ba le Ngwana
+1,nso,Sepedi,2,Eba le Pono e Botse
+1,nso,Sepedi,3,Ithute Mekgwa e Mefsa
+1,nso,Sepedi,4,Ge bana ba sa Itshware Botse…
+1,nso,Sepedi,5,Theoša Maswafo
+1,nso,Sepedi,6,Go Bolela ka COVID-19
+1,nso,Sepedi,7,Go Šireletša Bana Inthaneteng
+1,nso,Sepedi,8,Go Diriša Tšhelete Nakong ye e Boima
+1,nso,Sepedi,9,Khutšo ka Lapeng
+1,nso,Sepedi,10,Go Ruta Bana le Bapala
+1,nso,Sepedi,11,Ge re Galefa
+1,nso,Sepedi,12,Go Hlokomela Bana Malapeng le Metseng e Pitlaganego
 1,cho,Cho,1,Tip Sheet Number 1
 1,cho,Cho,2,Tip Sheet Number 2
 1,cho,Cho,3,Tip Sheet Number 3
@@ -972,18 +996,18 @@ languageType,languageCode,languageName,tipSheetNumber,title
 1,hlt,Matupi,4,Tip Sheet Number 4
 1,hlt,Matupi,5,Tip Sheet Number 5
 1,hlt,Matupi,6,Tip Sheet Number 6
-2,kh,ភាសាខ្មែរ,1,Tip Sheet Number 1
-2,kh,ភាសាខ្មែរ,2,Tip Sheet Number 2
-2,kh,ភាសាខ្មែរ,3,Tip Sheet Number 3
-2,kh,ភាសាខ្មែរ,4,Tip Sheet Number 4
-2,kh,ភាសាខ្មែរ,5,Tip Sheet Number 5
-2,kh,ភាសាខ្មែរ,6,Tip Sheet Number 6
-2,kh,ភាសាខ្មែរ,7,Tip Sheet Number 7
-2,kh,ភាសាខ្មែរ,8,Tip Sheet Number 8
-2,kh,ភាសាខ្មែរ,9,Tip Sheet Number 9
-2,kh,ភាសាខ្មែរ,10,Tip Sheet Number 10
-2,kh,ភាសាខ្មែរ,11,Tip Sheet Number 11
-2,kh,ភាសាខ្មែរ,12,Tip Sheet Number 12
+1,kh,Khmer,1,Tip Sheet Number 1
+1,kh,Khmer,2,Tip Sheet Number 2
+1,kh,Khmer,3,Tip Sheet Number 3
+1,kh,Khmer,4,Tip Sheet Number 4
+1,kh,Khmer,5,Tip Sheet Number 5
+1,kh,Khmer,6,Tip Sheet Number 6
+1,kh,Khmer,7,Tip Sheet Number 7
+1,kh,Khmer,8,Tip Sheet Number 8
+1,kh,Khmer,9,Tip Sheet Number 9
+1,kh,Khmer,10,Tip Sheet Number 10
+1,kh,Khmer,11,Tip Sheet Number 11
+1,kh,Khmer,12,Tip Sheet Number 12
 1,sak,Sakaw Karen,1,Tip Sheet Number 1
 1,sak,Sakaw Karen,2,Tip Sheet Number 2
 1,sak,Sakaw Karen,3,Tip Sheet Number 3
@@ -1029,21 +1053,21 @@ languageType,languageCode,languageName,tipSheetNumber,title
 1,ceb,Bisaya,13,Mga tip alang sa mga bata nga adunay kakulangan
 1,ceb,Bisaya,14,Mga tips alang sa mga ginikanan og tin-edyer
 1,ceb,Bisaya,15,Gaatiman ka og bag-ong masuso?
-1,ilo,Pagsasao nga Ilokano,1,One-on-one Time
-1,ilo,Pagsasao nga Ilokano,2,Agtalinaed a Positibo
-1,ilo,Pagsasao nga Ilokano,3,Agplano
-1,ilo,Pagsasao nga Ilokano,4,Madi nga ugali
-1,ilo,Pagsasao nga Ilokano,5,Agtalinaed a Natalinaay ken Kayanen ti Stress
-1,ilo,Pagsasao nga Ilokano,6,Panagsarita panggep COVID-19
-1,ilo,Pagsasao nga Ilokano,7,Taginayunen iti kina-imeng dagiti ubbing iti online
-1,ilo,Pagsasao nga Ilokano,8,Ag-budget nga Kadua ti Pamilya ti Panawen ti Stress ti Kwarta
-1,ilo,Pagsasao nga Ilokano,9,Panagkaykaysa ti Pamilya ti Uneg Balay
-1,ilo,Pagsasao nga Ilokano,10,Panakaadal babaen iti panagay-ayam
-1,ilo,Pagsasao nga Ilokano,11,Nu Makapungtot Tayo
-1,ilo,Pagsasao nga Ilokano,12,Panagpadakkel iti annak nu agiyan ti natao nga balay ken komunidad
-1,ilo,Pagsasao nga Ilokano,13,Tips para kadagiti ubbing nga adda iti espesyal a kasapulan da(dagiti ubbing nga adda disabilidad na)
-1,ilo,Pagsasao nga Ilokano,14,Tips para iti panagpadakkel iti teenagers
-1,ilo,Pagsasao nga Ilokano,15,Panagpadakkel iti baro a tagibi?
+1,ilo,Ilokano,1,One-on-one Time
+1,ilo,Ilokano,2,Agtalinaed a Positibo
+1,ilo,Ilokano,3,Agplano
+1,ilo,Ilokano,4,Madi nga ugali
+1,ilo,Ilokano,5,Agtalinaed a Natalinaay ken Kayanen ti Stress
+1,ilo,Ilokano,6,Panagsarita panggep COVID-19
+1,ilo,Ilokano,7,Taginayunen iti kina-imeng dagiti ubbing iti online
+1,ilo,Ilokano,8,Ag-budget nga Kadua ti Pamilya ti Panawen ti Stress ti Kwarta
+1,ilo,Ilokano,9,Panagkaykaysa ti Pamilya ti Uneg Balay
+1,ilo,Ilokano,10,Panakaadal babaen iti panagay-ayam
+1,ilo,Ilokano,11,Nu Makapungtot Tayo
+1,ilo,Ilokano,12,Panagpadakkel iti annak nu agiyan ti natao nga balay ken komunidad
+1,ilo,Ilokano,13,Tips para kadagiti ubbing nga adda iti espesyal a kasapulan da(dagiti ubbing nga adda disabilidad na)
+1,ilo,Ilokano,14,Tips para iti panagpadakkel iti teenagers
+1,ilo,Ilokano,15,Panagpadakkel iti baro a tagibi?
 1,twi,Twi,1,Anim-ne-Anim Bere
 1,twi,Twi,2,Adwempa a Yebekura wɔ ho
 1,twi,Twi,3,Yɛ Nhyehyɛe
@@ -1131,18 +1155,18 @@ languageType,languageCode,languageName,tipSheetNumber,title
 1,mrw,Maranao,13,Gonanao ko mga wata a aduna bangun iyan
 1,mrw,Maranao,14,Mga okit para ko kambiyat a ko mga kangudaan
 1,mrw,Maranao,15,Kambiyat ko ikaririga?
-1,ckb,Soranî,1,1
-1,ckb,Soranî,2,2
-1,ckb,Soranî,3,3
-1,ckb,Soranî,4,4
-1,ckb,Soranî,5,5
-1,ckb,Soranî,6,6
-1,ckb,Soranî,7,7
-1,ckb,Soranî,8,8
-1,ckb,Soranî,9,9
-1,ckb,Soranî,10,10
-1,ckb,Soranî,11,11
-1,ckb,Soranî,12,12
+1,ckb,Kurdish,1,Tip Sheet Number 1
+1,ckb,Kurdish,2,Tip Sheet Number 2
+1,ckb,Kurdish,3,Tip Sheet Number 3
+1,ckb,Kurdish,4,Tip Sheet Number 4
+1,ckb,Kurdish,5,Tip Sheet Number 5
+1,ckb,Kurdish,6,Tip Sheet Number 6
+1,ckb,Kurdish,7,Tip Sheet Number 7
+1,ckb,Kurdish,8,Tip Sheet Number 8
+1,ckb,Kurdish,9,Tip Sheet Number 9
+1,ckb,Kurdish,10,Tip Sheet Number 10
+1,ckb,Kurdish,11,Tip Sheet Number 11
+1,ckb,Kurdish,12,Tip Sheet Number 12
 1,pag,Pangasinan,1,One-on-One Time
 1,pag,Pangasinan,2,Manpirmi ya Positibo
 1,pag,Pangasinan,3,Panpirmi ya Istruktura tan Regular ya Gawaen
