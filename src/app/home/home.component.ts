@@ -11,11 +11,14 @@ import { TipSheetService } from '../tip-sheets/tip-sheet.service';
 export class HomeComponent implements OnInit {
 
   title = 'Covid Parenting Website';
+  public totalRegionSummary: number = 600000;
+
 
   arrVisibleTipSheets: TipSheet[] = [];
 
   constructor(public webAnalyticsService: WebAnalyticsService, private tipSheetService: TipSheetService) {
     this.fetchTipsheets();
+
   }
 
   ngOnInit(): void { }
@@ -24,7 +27,7 @@ export class HomeComponent implements OnInit {
   public SendDownloadTipSheetsEvent() {
     this.webAnalyticsService.emitAnlayticsEvent("tipsheets_downloads", "downloads", "downloads");
   }
-
+  
 
   private fetchTipsheets() {
     this.tipSheetService.getTipSheetsForLanguage("en").subscribe((tipSheets) => {

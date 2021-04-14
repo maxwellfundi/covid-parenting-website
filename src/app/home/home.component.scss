@@ -127,3 +127,46 @@
   }
 
 }
+.impact{
+  border-style: solid;
+  margin-bottom: 20px;
+  padding: 10px;
+  height: 150px;
+
+}
+.impact p{
+  text-align: center;
+  margin: 0 auto;
+
+}
+.numbers-reach{
+  font-size: 30px;
+  color: chocolate;
+}
+
+@property --num {
+  syntax: "<integer>";
+  initial-value: 150721568;
+  inherits: false;
+}
+
+.numbers-reach {
+  animation: counter 7s infinite alternate ease-in-out;
+  animation-iteration-count: 1;
+ counter-reset: num var(--num);
+  font: 800 40px system-ui;
+  padding: 2rem;
+}
+
+.numbers-reach::after {
+  content: counter(num);
+}
+
+@keyframes counter {
+  from {
+    --num: 0;
+  }
+  to {
+    --num: 15072;
+  }
+}
