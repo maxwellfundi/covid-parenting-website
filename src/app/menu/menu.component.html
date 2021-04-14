@@ -1,14 +1,6 @@
 <nav class="navbar fixed-top">
   <div class="content header-contents">
       
-    <div class="google-controls">
-      <div class="google-translate-control">
-        <div id="google_translate_element"></div>
-      </div>
-      <!--
-      <div class="search-text" (click)="searchDropdownOpen = true">Search</div>
-      -->
-    </div>
 
     <div class="toolbar">
       <div class="website-title">
@@ -17,6 +9,7 @@
 
       <div class="desktop-menu">
         <div class="desktop-menu-items">
+      
           <div *ngFor="let item of menuItems" class="menu-item">
             <a [routerLink]="item.href"> {{ item.name }} </a>
             <div class="dropdown-content">
@@ -31,6 +24,17 @@
                   >{{ subItem.name }}</a
                 >
               </div>
+            </div>
+          </div>
+          <div class="menu-item"> 
+            <button class="btn"><i class="fa fa-globe"></i> Translate </button>
+            <div class="dropdown-content"> 
+            <div class="dropdown-item">
+              <div class="translate-box">
+                <p><span class="translate-terms">Use Google to translate the website. <br>We take no responsibility for the <br>accuracy of the translation</span></p>
+                <div id="google_translate_element"></div>
+              </div>
+            </div>
             </div>
           </div>
         </div>
