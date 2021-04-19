@@ -63,7 +63,10 @@ import { SearchComponent } from './search/search.component'
 //Search highlight pipe
 import { HighlightSearchPipe} from './pipes/highlight-search.pipe'
 
-import { FormsModule } from '@angular/forms'
+import { FormsModule } from '@angular/forms';
+import { StoriesMapComponent } from './map/stories-map/stories-map.component';
+import { MembersMapComponent } from './map/members-map/members-map.component';
+import { FundersMapComponent } from './map/funders-map/funders-map.component'
 @NgModule({
   declarations: [
     AppComponent,
@@ -113,7 +116,10 @@ import { FormsModule } from '@angular/forms'
     PublicationsComponent,
     PodcastsComponent,
     SearchComponent,
-    HighlightSearchPipe
+    HighlightSearchPipe,
+    StoriesMapComponent,
+    MembersMapComponent,
+    FundersMapComponent
   ],
   imports: [
     BrowserModule,

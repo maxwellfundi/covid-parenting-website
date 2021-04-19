@@ -1,6 +1,6 @@
 import { ViewportScroller } from '@angular/common';
-import { Component, OnInit } from '@angular/core';
-
+import { Component, OnInit, Renderer2, Inject } from '@angular/core';
+import { DOCUMENT } from '@angular/common';
 export interface MenuItem {
   name: string,
   href?: string,
@@ -94,11 +94,23 @@ export class MenuComponent implements OnInit {
   searchDropdownOpen: boolean = false;
   menuItems = MENU_ITEMS;
 
-  constructor(private viewportScroller: ViewportScroller) { }
+  constructor(private viewportScroller: ViewportScroller, private renderer2: Renderer2, @Inject(DOCUMENT) private _document) { }
 
   ngOnInit(): void {
+        const s = this.renderer2.createElement('script');
+        s.type = 'text/javascript'
+        s.src = 'https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit';
+        this.renderer2.appendChild(this._document.body, s);
+
+        const v = this.renderer2.createElement('script');
+        v.type = 'text/javascript';
+        v.text = "function googleTranslateElementInit() { new google.translate.TranslateElement({ pageLanguage: 'en' }, 'google_translate_element'); } ";
+        this.renderer2.appendChild(this._document.body, v);
   }
 
+translate(){
+      console.log("translated")
+    }
   mouseEnterMenuItem($event, item: MenuItem) {
     if (item.subMenuItems) {
       item.subMenuOpen = true;
