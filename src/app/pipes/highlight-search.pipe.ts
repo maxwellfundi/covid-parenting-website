@@ -28,7 +28,6 @@ export class HighlightSearchPipe implements PipeTransform {
 
 
         let count = (replacedValue.match(/highlight/g) || []).length;
-        //this.findHighlight()
         console.log("am counting",match.reduce((count, row) => count + row.length, 0));
 
         filterMetadata.count = count;       
@@ -38,12 +37,9 @@ export class HighlightSearchPipe implements PipeTransform {
       }
 
       spliceWords(words: string){
-        return words.split(" ").splice(0,35).join(" ");
+        return words.split(" ").splice(0,40).join(" ").concat("...........");
       }
 
-      findHighlight(){
-          let mat = document.getElementsByClassName("highlight")
-          console.log("dg", mat)
-      }
+     
      
 }
