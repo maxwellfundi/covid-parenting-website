@@ -34,7 +34,8 @@
   /*Resize the wrap to see the search bar change!*/
   .wrap{
     width: 75%;
-    position: fixed;
+    position: absolute;
+    //position: fixed
   //  top: 17%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -43,21 +44,34 @@
 
 
 
-  @media (min-width:320px){ 
+  @media (max-width:500px){ 
     .d-block{
       margin-top: 40%;
     }
     .wrap{
-      top: 20%
+      top: 2%;
+      margin-top: 50px;
+
+    }
+  }
+  @media (min-width:500px) and (max-width:768px){ 
+    .d-block{
+      margin-top: 40%;
+    }
+    .wrap{
+      top: 6%;
+      margin-top: 50px;
     }
   }
 
-  @media(min-width: 600px){
+  @media(min-width: 770px) and (max-width: 2000px){
     .d-block{
       margin-top: 17%;
     }
     .wrap{
-      top: 20%
+      //top: 20%
+      margin-top: 50px;
+      top:8%
     }
   }
 
@@ -83,5 +97,3 @@
     width: 1em;
     margin-left: -1em;
   }
-
- 
