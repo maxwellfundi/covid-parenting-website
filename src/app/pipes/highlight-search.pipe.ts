@@ -13,7 +13,7 @@ export class HighlightSearchPipe implements PipeTransform {
   
     transform( value: any, args: any, filterMetadata: any): any {
         if (!args) {
-          return value;
+          return this.spliceWords(value);
         }
         
         
@@ -21,20 +21,29 @@ export class HighlightSearchPipe implements PipeTransform {
         const match = value.match(regex);
        
         if (!match) {
-          return value;
+          return this.spliceWords(value);
         }
 
         const replacedValue = value.replace(regex, `<span class='highlight'>${match[0]}</span>`);
 
-        
-        const count = (replacedValue.match(/highlight/g) || []).length;
-        filterMetadata.count = count;
 
-       
+        let count = (replacedValue.match(/highlight/g) || []).length;
+        //this.findHighlight()
+        console.log("am counting",match.reduce((count, row) => count + row.length, 0));
+
+        filterMetadata.count = count;       
         
 
-        return this.sanitizer.bypassSecurityTrustHtml(replacedValue)
+        return this.sanitizer.bypassSecurityTrustHtml(this.spliceWords(replacedValue))
       }
 
+      spliceWords(words: string){
+        return words.split(" ").splice(0,35).join(" ");
+      }
+
+      findHighlight(){
+          let mat = document.getElementsByClassName("highlight")
+          console.log("dg", mat)
+      }
      
 }

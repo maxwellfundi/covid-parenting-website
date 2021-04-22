@@ -14,8 +14,11 @@
     <h5> Website</h5>
 
     <!--<div *ngIf="searchterm"> -->
-      <div>
+    <div>
+
+        <!--
         <span *ngIf="filterMetadata">{{filterMetadata.count}} <span>{{filterMetadata.count === 1 ? "Result": "Results"}}</span></span> 
+        -->
         <ul *ngFor="let webpage of contentList">
             <li>
                 <a class="none" [href]="webpage.url">
@@ -28,7 +31,6 @@
         
         </ul>
     </div>
-    
     
     <div *ngIf="contentList?.length < 1">
         <p> Sorry no results found</p>

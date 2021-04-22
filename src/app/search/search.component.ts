@@ -15,6 +15,7 @@ export class SearchComponent implements OnInit {
   filterMetadata = {count: 0}
   public contentList;
   public contentListBackup: any[];
+  count =0;
 
 
   // constructor(private afs: AngularFirestore) { }
@@ -36,7 +37,7 @@ export class SearchComponent implements OnInit {
   async filterList($event){
     this.contentList = this.contentListBackup;
     const searchTerm = $event.target.value;
-
+    console.log("search term", searchTerm)
     if(!searchTerm){
       return;
     }
@@ -48,5 +49,6 @@ export class SearchComponent implements OnInit {
     })
     
   }
+  
 
 }
