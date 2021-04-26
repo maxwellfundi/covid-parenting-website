@@ -27,6 +27,7 @@ import { PressComponent } from './press/press.component';
 import { PublicationsComponent } from './publications/publications.component';
 import { PodcastsComponent } from './podcasts/podcasts.component';
 import { SearchComponent } from './search/search.component'
+import { BrandingComponent } from './branding/branding.component';
 
 
 
@@ -58,6 +59,7 @@ const routes: Routes = [
   { path: "publications", component: PublicationsComponent },
   { path: "podcasts", component: PodcastsComponent },
   { path: "search", component: SearchComponent },
+  { path: "branding", component:BrandingComponent },
 
   {
     path: "blog",

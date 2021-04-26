@@ -34,6 +34,7 @@ const MENU_ITEMS: MenuItem[] = [
       { name: "Audiovisual Resources", href: "/audiovisuals" },
       { name: "Faith-Based Resources", href: "/faithleaders" },
       { name: "Social Media", href: "/socialmedia" },
+      { name: "Brand Guidelines", href: "/branding" },
       /*{
         name: "Radio Scripts",
         href: "/tips",
