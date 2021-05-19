@@ -67,7 +67,9 @@ import { FormsModule } from '@angular/forms';
 import { StoriesMapComponent } from './map/stories-map/stories-map.component';
 import { MembersMapComponent } from './map/members-map/members-map.component';
 import { FundersMapComponent } from './map/funders-map/funders-map.component';
-import { BrandingComponent } from './branding/branding.component'
+import { BrandingComponent } from './branding/branding.component';
+import { WhocampaignComponent } from './whocampaign/whocampaign.component';
+import { Socialmedia2Component } from './socialmedia2/socialmedia2.component'
 @NgModule({
   declarations: [
     AppComponent,
@@ -121,7 +123,9 @@ import { BrandingComponent } from './branding/branding.component'
     StoriesMapComponent,
     MembersMapComponent,
     FundersMapComponent,
-    BrandingComponent
+    BrandingComponent,
+    WhocampaignComponent,
+    Socialmedia2Component
   ],
   imports: [
     BrowserModule,

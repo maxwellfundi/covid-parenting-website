@@ -28,13 +28,16 @@ const MENU_ITEMS: MenuItem[] = [
     href: "/resources",
     subMenuItems: [
       { name: "Parenting Tips", href: "/tips" },
+      { name: "WHO x Unicef Social Media campaign", href: "/whocampaign" },
+      { name: "Social Media Kit #1", href: "/socialmedia" },
+      { name: "Social Media Kit #2", href: "/socialmedia2" },
       { name: "Tips For Caseworkers", href: "/caseworkers" },
       { name: "Public Service Announcements", href: "/psa" },
       { name: "Digital Parenting", href: "/digitalparenting" },
       { name: "Audiovisual Resources", href: "/audiovisuals" },
       { name: "Faith-Based Resources", href: "/faithleaders" },
-      { name: "Social Media", href: "/socialmedia" },
       { name: "Brand Guidelines", href: "/branding" },
+      
       /*{
         name: "Radio Scripts",
         href: "/tips",
