@@ -28,6 +28,8 @@ import { PublicationsComponent } from './publications/publications.component';
 import { PodcastsComponent } from './podcasts/podcasts.component';
 import { SearchComponent } from './search/search.component'
 import { BrandingComponent } from './branding/branding.component';
+import { WhocampaignComponent } from './whocampaign/whocampaign.component';
+import { Socialmedia2Component } from './socialmedia2/socialmedia2.component';
 
 
 
@@ -60,6 +62,8 @@ const routes: Routes = [
   { path: "podcasts", component: PodcastsComponent },
   { path: "search", component: SearchComponent },
   { path: "branding", component:BrandingComponent },
+  { path: "whocampaign", component: WhocampaignComponent },
+  { path: "socialmedia2", component: Socialmedia2Component },
 
   {
     path: "blog",
@@ -72,7 +76,6 @@ const routes: Routes = [
     pathMatch: "full"
   },
   {
-
     path: "",
     redirectTo: "home",
     pathMatch: "full",
