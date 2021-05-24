@@ -5,7 +5,18 @@
   .nav-card-item .nav-card-item-content h5 {
     color: #5dbcd2;
   }
+  .column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
   
+  /* Clear floats after image containers */
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
   
   .share-content {
     display: flex;
@@ -55,8 +66,7 @@
   }
   
   .buttons {
-    height: 40px;
-    width: 30%;
+    height: 30px;
     margin-left: 20px;
     margin-top: 10px;
     border-style: none;
@@ -93,4 +103,8 @@
       color: whitesmoke ;
   }
   }
-  
+  @media screen and (max-width: 500px) {
+    .column {
+      width: 100%;
+    }
+  }
