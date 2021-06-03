@@ -70,7 +70,8 @@ import { FundersMapComponent } from './map/funders-map/funders-map.component';
 import { BrandingComponent } from './branding/branding.component';
 import { WhocampaignComponent } from './whocampaign/whocampaign.component';
 import { Socialmedia2Component } from './socialmedia2/socialmedia2.component';
-import { GpicampaignComponent } from './gpicampaign/gpicampaign.component'
+import { GpicampaignComponent } from './gpicampaign/gpicampaign.component';
+import { FaqComponent } from './faq/faq.component'
 @NgModule({
   declarations: [
     AppComponent,
@@ -127,7 +128,8 @@ import { GpicampaignComponent } from './gpicampaign/gpicampaign.component'
     BrandingComponent,
     WhocampaignComponent,
     Socialmedia2Component,
-    GpicampaignComponent
+    GpicampaignComponent,
+    FaqComponent
   ],
   imports: [
     BrowserModule,
