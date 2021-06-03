@@ -417,6 +417,7 @@ languageType,languageCode,languageName,tipSheetNumber,title
 2,bn,বাংলা,13,বিশেষ চাহিদাসম্পন্ন শিশুদের পরিচর্যা বা যত্ন (প্যারেন্টিং)
 2,bn,বাংলা,14,কিশোর বয়সী ছেলেমেয়দের পরিচর্যা বা যত্ন (প্যারেন্টিং)
 2,bn,বাংলা,15,কোভিড-১৯ এর সময় পরিবারের নতুন শিশুর যত্ন
+2,bn,বাংলা,16,শিক্ষা এবং দূরবর্তী (রিমুট) 
 2,zh-hant,中文（繁体）,1,親子時間
 2,zh-hant,中文（繁体）,2,保持正面
 2,zh-hant,中文（繁体）,3,規律生活！
@@ -1752,4 +1753,22 @@ languageType,languageCode,languageName,tipSheetNumber,title
 1,pag,Pangasinan,13,Aray tip para ed Ogugaw ya Walay Kapansanan
 1,pag,Pangasinan,14,Aray tip parad panagpabaleg na teenager
 1,pag,Pangasinan,15,Manpapabaleg/mankukumis na balon anak ya ugaw?
+1,lv,Latvian,1,Divatā pavadītais laiks
+1,lv,Latvian,2,Pozitivitātes saglabāšana
+1,lv,Latvian,3,Izveidojiet kārtību
+1,lv,Latvian,4,Ja bērni slikti uzvedas…
+1,lv,Latvian,5,Saglabājiet mieru un pārvaldiet
+1,lv,Latvian,6,Kā runāt par Covid-19
+1,lv,Latvian,7,Bērnu aizsardzība tiešsaistē
+1,lv,Latvian,8,Ģimenes budžeta veidošana finansiālu grūtību laikā
+1,lv,Latvian,9,Ģimenes harmonija mājās
+1,lv,Latvian,10,Mācīšanās ar spēļu palīdzību
+1,lv,Latvian,11,Kad sadusmojamies
+1,lv,Latvian,12,Bērnu audzināšana pārpildītās mītnēs un
+1,lv,Latvian,13,Ieteikumi bērniem ar invaliditāti
+1,lv,Latvian,14,Ieteikumi pusaudžu vecākiem
+1,lv,Latvian,15,Jauna mazuļa audzināšana?
+1,lv,Latvian,16,Izglītība un attālinātā mācīšanās
+
+
 
