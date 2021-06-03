@@ -30,6 +30,7 @@ import { SearchComponent } from './search/search.component'
 import { BrandingComponent } from './branding/branding.component';
 import { WhocampaignComponent } from './whocampaign/whocampaign.component';
 import { Socialmedia2Component } from './socialmedia2/socialmedia2.component';
+import { GpicampaignComponent } from './gpicampaign/gpicampaign.component';
 
 
 
@@ -64,6 +65,7 @@ const routes: Routes = [
   { path: "branding", component:BrandingComponent },
   { path: "whocampaign", component: WhocampaignComponent },
   { path: "socialmedia2", component: Socialmedia2Component },
+  { path: "gpicampaign", component: GpicampaignComponent },
 
   {
     path: "blog",

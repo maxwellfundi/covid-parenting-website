@@ -69,7 +69,8 @@ import { MembersMapComponent } from './map/members-map/members-map.component';
 import { FundersMapComponent } from './map/funders-map/funders-map.component';
 import { BrandingComponent } from './branding/branding.component';
 import { WhocampaignComponent } from './whocampaign/whocampaign.component';
-import { Socialmedia2Component } from './socialmedia2/socialmedia2.component'
+import { Socialmedia2Component } from './socialmedia2/socialmedia2.component';
+import { GpicampaignComponent } from './gpicampaign/gpicampaign.component'
 @NgModule({
   declarations: [
     AppComponent,
@@ -125,7 +126,8 @@ import { Socialmedia2Component } from './socialmedia2/socialmedia2.component'
     FundersMapComponent,
     BrandingComponent,
     WhocampaignComponent,
-    Socialmedia2Component
+    Socialmedia2Component,
+    GpicampaignComponent
   ],
   imports: [
     BrowserModule,
