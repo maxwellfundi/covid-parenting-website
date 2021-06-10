@@ -1,46 +1,46 @@
 <app-banner></app-banner>
 <app-newletterribbon></app-newletterribbon>
 <div class="content page-container">
-  <div class="main-container nav-cards">
-    <div class="nav-card-item">
-      <h5 class="nav-card-item-header">CONTRIBUTORS</h5>
-      <div class="nav-card-item-content" data-aos="zoom-in" data-aos-duration="1000">
-        <p>
-          We wish to thank the following organisations and individuals for
-          translating and reviewing our materials. Thank you for your contribution!
-        </p>
-        
-          
-        
-        <p class="contributors-info">
-            Please send us a message at   <a href="mailto:publicity@covid19parenting.com">
+    <div class="main-container nav-cards">
+        <div class="nav-card-item">
+            <h5 class="nav-card-item-header">CONTRIBUTORS</h5>
+            <div class="nav-card-item-content" data-aos="zoom-in" data-aos-duration="1000">
+                <p>
+                    We wish to thank the following organisations and individuals for translating and reviewing our materials. Thank you for your contribution!
+                </p>
+
+
+
+                <p class="contributors-info">
+                    Please send us a message at <a href="mailto:publicity@covid19parenting.com">
               publicity@covid19parenting.com </a> if you wish to be acknowledged as a contributor.
-        </p>
-      </div>
-      <div class="nav-card-item-content" data-aos="zoom-in" data-aos-duration="1000">
-        <h5 class="language-header">Select range</h5>
-        <div class="lang-letter-ranges">
-          <a *ngFor="let range of letterRanges" (click)="onLetterRangeClick(range)"
-            [class]="range[0] === selectedRange[0] ? 'letter-range selected'  : 'letter-range'  " >
+                </p>
+            </div>
+            <div class="nav-card-item-content" data-aos="zoom-in" data-aos-duration="1000">
+                <h5 class="language-header">Select range</h5>
+                <div class="lang-letter-ranges">
+                    <a *ngFor="let range of letterRanges" (click)="onLetterRangeClick(range)" [class]="range[0] === selectedRange[0] ? 'letter-range selected'  : 'letter-range'  ">
             {{ range[0] }} - {{ range[1] }}
           </a>
-        </div>
-      </div>
-      <div class="nav-card-item-content" data-aos="zoom-in" data-aos-duration="1000">
-        <div class="contributors-list">
-          <div class="contributor" *ngFor="let contributor of visibleContributors">
-            <span class="contributor-name">{{ contributor.name }}</span> 
-            <span class="contributor-title" *ngIf="contributor.title" >{{ contributor.title }}</span>
-            <hr />
-          </div>   
-        </div>
+                </div>
+            </div>
+            <div class="nav-card-item-content" data-aos="zoom-in" data-aos-duration="1000">
+                <div class="contributors-list">
+                    <div class="contributor" *ngFor="let contributor of visibleContributors">
+                        <div>
+                            <span class="contributor-name">{{ contributor.name }}</span>
+                            <span class="contributor-title" *ngIf="contributor.title"> - {{ contributor.title }}</span>
+                        </div>
+                        <hr />
+                    </div>
+                </div>
 
-        <div  class="resource-view-more-text" (click)="viewMoreContributors()" *ngIf="bShowMoreButton" >
-          See more contributors
+                <div class="resource-view-more-text" (click)="viewMoreContributors()" *ngIf="bShowMoreButton">
+                    See more contributors
+                </div>
+            </div>
         </div>
-      </div>
     </div>
-  </div>
 
-  <app-sidebar class="side-bar-container"></app-sidebar>
+    <app-sidebar class="side-bar-container"></app-sidebar>
 </div>

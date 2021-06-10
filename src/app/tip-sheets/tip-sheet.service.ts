@@ -24,7 +24,7 @@ export class TipSheetService {
           this.languagesByCode = {};
           this.tipSheetsByLanguage = {};
           rows.forEach((row) => {
-            let langCode = row.languageCode ? row.languageCode.toLowerCase().trim() : null;
+            let langCode = row.languageCode ? (row.languageType + row.languageCode.toLowerCase().trim() )  : null; 
             if (langCode !== null) {
               if (!this.tipSheetsByLanguage[langCode]) {
                 this.tipSheetsByLanguage[langCode] = [];
@@ -50,7 +50,7 @@ export class TipSheetService {
           this.sortedLanguages = Object.keys(this.languagesByCode)
             .map((code) => this.languagesByCode[code])
             .sort((a, b) => a.name.toLowerCase().localeCompare(b.name.toLowerCase()));
-
+            
           return this.tipSheetsByLanguage;
         })
 
