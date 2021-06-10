@@ -52,7 +52,27 @@ import { ImpactComponent } from './impact/impact.component';
 import { ImpactChampionsComponent } from './impact-champions/impact-champions.component';
 import { TipsLangSelectComponent } from './tips-lang-select/tips-lang-select.component';
 import { MapComponent } from './map/map.component';
+import { ImpactbriefsComponent } from './impactbriefs/impactbriefs.component';
+import { PressComponent } from './press/press.component';
+import { PublicationsComponent } from './publications/publications.component';
+import { PodcastsComponent } from './podcasts/podcasts.component';
 
+
+import { SearchComponent } from './search/search.component'
+
+//Search highlight pipe
+import { HighlightSearchPipe} from './pipes/highlight-search.pipe'
+
+import { FormsModule } from '@angular/forms';
+import { StoriesMapComponent } from './map/stories-map/stories-map.component';
+import { MembersMapComponent } from './map/members-map/members-map.component';
+import { FundersMapComponent } from './map/funders-map/funders-map.component';
+import { BrandingComponent } from './branding/branding.component';
+import { WhocampaignComponent } from './whocampaign/whocampaign.component';
+import { Socialmedia2Component } from './socialmedia2/socialmedia2.component';
+import { GpicampaignComponent } from './gpicampaign/gpicampaign.component';
+import { FaqComponent } from './faq/faq.component';
+import { FavtipsComponent } from './favtips/favtips.component'
 @NgModule({
   declarations: [
     AppComponent,
@@ -96,7 +116,22 @@ import { MapComponent } from './map/map.component';
     ImpactComponent,
     ImpactChampionsComponent,
     TipsLangSelectComponent,
-    MapComponent
+    MapComponent,
+    ImpactbriefsComponent,
+    PressComponent,
+    PublicationsComponent,
+    PodcastsComponent,
+    SearchComponent,
+    HighlightSearchPipe,
+    StoriesMapComponent,
+    MembersMapComponent,
+    FundersMapComponent,
+    BrandingComponent,
+    WhocampaignComponent,
+    Socialmedia2Component,
+    GpicampaignComponent,
+    FaqComponent,
+    FavtipsComponent
   ],
   imports: [
     BrowserModule,
@@ -105,7 +140,8 @@ import { MapComponent } from './map/map.component';
     HttpClientModule,
     NgbModule,
     ScullyLibModule,
-    LeafletModule
+    LeafletModule,
+    FormsModule,
   ],
   providers: [
     SpreadsheetService,

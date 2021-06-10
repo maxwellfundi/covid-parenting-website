@@ -7,20 +7,20 @@
   flex: 65%;
 }
 
-.red-more-buttons{
-  width: 25%; 
-  min-height: 30px;  
-   border-style: none;
+.red-more-buttons{  
+  border-style: none;
   border-radius: 30px; 
-   background: #75c5ca;
+  background: #75c5ca;
+  width: fit-content;
+  cursor: pointer;
+ 
 }
 
 .more-buttons-tips{
-  width: 40%; 
   min-height: 30px;  
-   border-style: none;
+  border-style: none;
   border-radius: 30px; 
-   background: #75c5ca;
+  background: #75c5ca;
 }
 
 .about-image {
@@ -127,3 +127,46 @@
   }
 
 }
+.impact{
+    margin-bottom: 20px;
+  padding: 10px;
+  height: 150px;
+
+}
+.impact p{
+  text-align: center;
+  margin: 0 auto;
+
+}
+.numbers-reach{
+  font-size: 30px;
+ color: #13A1CE;
+}
+/*
+@property --num {
+  syntax: "<integer>";
+  initial-value: 150721568;
+  inherits: false;
+}
+
+.numbers-reach {
+  animation: counter 5s infinite alternate ease-in-out;
+  animation-iteration-count: 1;
+ counter-reset: num var(--num);
+  font: 800 40px system-ui;
+  padding: 2rem;
+}
+
+.numbers-reach::after {
+  content: counter(num);
+}
+
+@keyframes counter {
+  from {
+    --num: 0;
+  }
+  to {
+    --num: 15072;
+  }
+}
+*/
