@@ -52,8 +52,8 @@ export class TipsLangSelectComponent implements OnInit, OnChanges {
     });
 
     if (changeLang && this.dropdownLanguages.length > 0) {
-      this.currentLanguage = this.dropdownLanguages[0];
-      //this.onLanguageChange.emit(this.dropdownLanguages[0]);
+      this.currentLanguage = this.dropdownLanguages[0]; 
+      this.onLanguageChange.emit(this.currentLanguage);
     }
 
   }//end method
