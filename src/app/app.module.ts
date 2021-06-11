@@ -71,7 +71,8 @@ import { BrandingComponent } from './branding/branding.component';
 import { WhocampaignComponent } from './whocampaign/whocampaign.component';
 import { Socialmedia2Component } from './socialmedia2/socialmedia2.component';
 import { GpicampaignComponent } from './gpicampaign/gpicampaign.component';
-import { FaqComponent } from './faq/faq.component'
+import { FaqComponent } from './faq/faq.component';
+import { FavtipsComponent } from './favtips/favtips.component'
 @NgModule({
   declarations: [
     AppComponent,
@@ -129,7 +130,8 @@ import { FaqComponent } from './faq/faq.component'
     WhocampaignComponent,
     Socialmedia2Component,
     GpicampaignComponent,
-    FaqComponent
+    FaqComponent,
+    FavtipsComponent
   ],
   imports: [
     BrowserModule,
