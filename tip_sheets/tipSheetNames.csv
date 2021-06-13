@@ -195,7 +195,7 @@ languageType,languageCode,languageName,tipSheetNumber,title
 2,it,Italiano,10,Imparare attraverso il gioco
 2,it,Italiano,11,Quando ci arrabbiamo
 2,it,Italiano,12,Essere genitori in case e comunità affollate
-2,es,Español,1,Tiempo Uno-a-Uno
+2,es,Español/Spanish,1,Tiempo Uno-a-Uno
 2,es,Español,2,Manteniendo un ambiente positivo
 2,es,Español,3,¡Establece una base segura!
 2,es,Español,4,Mal Comportamiento
@@ -229,7 +229,7 @@ languageType,languageCode,languageName,tipSheetNumber,title
 2,cy,Cymraeg,10,Dysgo drwy chwarane.
 2,cy,Cymraeg,11,Pan Fyddwn Ni'n Gwylltio
 2,cy,Cymraeg,12,Rhianta mewn Cartrefia Chymunedao gorlawn.
-
+,,,,
 2,tr,Türkçe,1,Bire-Bir Zaman Geçirin
 2,tr,Türkçe,2,Pozitif Kalın
 2,tr,Türkçe,3,Destek Olun
@@ -889,7 +889,7 @@ languageType,languageCode,languageName,tipSheetNumber,title
 1,it,Italian,10,Imparare attraverso il gioco
 1,it,Italian,11,Quando ci arrabbiamo
 1,it,Italian,12,Essere genitori in case e comunità affollate
-1,es,Spanish,1,Tiempo Uno-a-Uno
+1,es,Spanish/Espaniol,1,Tiempo Uno-a-Uno
 1,es,Spanish,2,Manteniendo un ambiente positivo
 1,es,Spanish,3,¡Establece una base segura!
 1,es,Spanish,4,Mal Comportamiento
@@ -1769,6 +1769,3 @@ languageType,languageCode,languageName,tipSheetNumber,title
 1,lv,Latvian,14,Ieteikumi pusaudžu vecākiem
 1,lv,Latvian,15,Jauna mazuļa audzināšana?
 1,lv,Latvian,16,Izglītība un attālinātā mācīšanās
-
-
-

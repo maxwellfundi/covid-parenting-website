@@ -1,71 +1,60 @@
 .language-header {
-  color: #5dbcd2;
+    color: #5dbcd2;
 }
 
 .lang-letter-ranges {
-  display: flex;
+    display: flex;
 }
 
 .letter-range {
-  border: 1px solid grey;
-  margin: 5px;
-  border-radius: 10px;
-  padding: 4px;
-
-  &.selected {
-    background-color: #5dbcd2;
-  }
+    border: 1px solid grey;
+    margin: 5px;
+    border-radius: 10px;
+    padding: 4px;
+    &.selected {
+        background-color: #5dbcd2;
+    }
 }
 
 .nav-card-item-header {
-  background: #75c5ca;
+    background: #75c5ca;
 }
 
 .nav-card-item-content h5 {
-  color: #75c5ca;
+    color: #75c5ca;
 }
 
 hr {
-  border-color: #75c5ca;
-  margin-bottom: 20px;
+    border-color: #75c5ca;
+    margin-bottom: 20px;
 }
 
 .contributors-info a {
-  font-size: normal;
-  color: #75c5ca;
-  font-weight: 500;
-  font-size: 16px;
+    font-size: normal;
+    color: #75c5ca;
+    font-weight: 500;
+    font-size: 16px;
 }
 
 .contributors-list {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
 }
 
-.contributor {
-  flex: 25%;
-  margin-left: 20px;
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-end;
-}
 .contributor-name {
-  font-weight: 500;
-}
-.contributor-title {
-  margin-top: 5px;
+    font-weight: 500;
+
 }
 
 @media only screen and (max-width: 450px) {
-  .contributors-list {
-    display: flex;
-    flex-direction: column;
-    flex-wrap: nowrap;
-  }
-  
-  .contributor {
-    flex: 100%;
-    margin-left: 0px;
-  }
+    .contributors-list {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+    }
+    .contributor {
+        flex: 100%;
+        margin-left: 0px;
+    }
 }
