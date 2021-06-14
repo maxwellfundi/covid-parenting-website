@@ -40,12 +40,11 @@ export class TipSheetsComponent implements OnInit, OnChanges {
   }
 
   changeLanguage(language: Language) {
-    //console.log("Change language ", language);
     this.currentLanguage = language;
     if (this.tipSheetsSubscription) {
       this.tipSheetsSubscription.unsubscribe();
     }
-    this.tipSheetsSubscription = this.tipSheetService.getTipSheetsForLanguage(language.code).subscribe((sheets) => {
+    this.tipSheetsSubscription = this.tipSheetService.getTipSheetsByTypeAndCode(language.type + language.code).subscribe((sheets) => {
       this.tipSheets = sheets;
       //console.log("Tip sheets set", sheets);
       this.visibleTipSheets = [];
@@ -95,7 +94,7 @@ export class TipSheetsComponent implements OnInit, OnChanges {
   public objMergedTipsheet: TipSheet = null;
   public arrOtherResources: TipSheet[] = null;
 
-  public fetchAndOtherResources(langCode: string) {
+  private fetchAndOtherResources(langCode: string) {
 
     this.objMergedTipsheet = null; //reset
     this.arrOtherResources = null; //reset array
@@ -114,7 +113,7 @@ export class TipSheetsComponent implements OnInit, OnChanges {
         };
 
         if (strResourceType === "mergedtipsheet") {
-          objResourceSheet.pdfSrc = `assets/tip_sheets/${langCode}/${row.resourceFilePrefix}.pdf`;
+          objResourceSheet.pdfSrc = `assets/tip_sheets/${row.resourceLanguageCode}/${row.resourceFilePrefix}.pdf`;
           this.objMergedTipsheet = objResourceSheet;
           return;
         } else if (strResourceType === "caseworkers") {

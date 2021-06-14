@@ -54,7 +54,7 @@ export class HomeComponent extends AnimateHelper implements OnInit {
   
 
   private fetchTipsheets() {
-    this.tipSheetService.getTipSheetsForLanguage("en").subscribe((tipSheets) => {
+    this.tipSheetService.getTipSheetsByTypeAndCode("1en").subscribe((tipSheets) => {
       this.arrVisibleTipSheets = [];
       let index: number;
       for (index = 0; index < tipSheets.length; index++) {
