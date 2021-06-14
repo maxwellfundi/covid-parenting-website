@@ -1,147 +1,152 @@
 .about-container {
-  display: flex;
-  flex-direction: row;
+    display: flex;
+    flex-direction: row;
 }
 
 .about-text {
-  flex: 65%;
+    flex: 65%;
 }
 
-.red-more-buttons{  
-  border-style: none;
-  border-radius: 30px; 
-  background: #75c5ca;
-  width: fit-content;
-  cursor: pointer;
- 
+.red-more-buttons {
+    border-style: none;
+    border-radius: 30px;
+    background: #75c5ca;
+    width: fit-content;
+    cursor: pointer;
 }
 
-.more-buttons-tips{
-  min-height: 30px;  
-  border-style: none;
-  border-radius: 30px; 
-  background: #75c5ca;
+.more-buttons-tips {
+    min-height: 30px;
+    border-style: none;
+    border-radius: 30px;
+    background: #75c5ca;
 }
 
 .about-image {
-  flex: 35%;
+    flex: 35%;
+    display: flex;
+    align-items: flex-end;
 }
 
 .about-image img {
-  width: 100%;
+    width: 100%;
+    margin-left: 10px;
+    margin-bottom: 50px;
 }
 
 .about-text h3 {
-  font-weight: 300;
+    font-weight: 300;
 }
 
 .about-text h4 {
-  font-weight: 500;
+    font-weight: 500;
 }
 
 .about-text p {
-  font-weight: 300;
+    font-weight: 300;
 }
 
 .nav-home {
-  flex-direction: row;
-  justify-content: space-between;
+    flex-direction: row;
+    justify-content: space-between;
 }
 
 .nav-home .nav-card-item {
-  padding-right: 20px;
-  flex: 1;
+    padding-right: 20px;
+    flex: 1;
 }
 
-.nav-cards-img{
-  width: 100%;
-  display: flex;
-  justify-content: center;
+.nav-cards-img {
+    width: 100%;
+    display: flex;
+    justify-content: center;
 }
 
 .nav-home .nav-card-item .nav-card-item-header {
-  text-align: center;
+    text-align: center;
 }
 
 .nav-card-one .nav-card-item-icon {
-  background: #fecb79;
+    background: #fecb79;
 }
 
 .nav-card-one .nav-card-item-header {
-  background: #fecb79;
-  }
+    background: #fecb79;
+}
 
 .nav-card-one .nav-card-item-content h5 {
-  color: #fecb79;
-  }
+    color: #fecb79;
+}
 
 .nav-card-two .nav-card-item-icon {
-  background: #66738d;
+    background: #66738d;
 }
 
 .nav-card-two .nav-card-item-header {
-  background: #66738d;
+    background: #66738d;
 }
 
 .nav-card-two .nav-card-item-content h5 {
-  color: #66738d;
+    color: #66738d;
 }
 
 .nav-card-three .nav-card-item-icon {
-  background: #75c5ca;
+    background: #75c5ca;
 }
 
 .nav-card-three .nav-card-item-header {
-  background: #75c5ca;
+    background: #75c5ca;
 }
 
 .nav-card-three .nav-card-item-content h5 {
-  color: #75c5ca;
+    color: #75c5ca;
 }
 
 .tipsheets-item-content div a {
-  font-size: 18px;
+    font-size: 18px;
 }
 
 @media only screen and (max-width: 450px) {
-  .about-container {
-    flex-direction: column-reverse;
-  }
-
-  .about-text {
-    flex: 100%;
-    margin-top: 10px;
-  }
-
-  .about-image {
-    flex: 100%;
-  }
-
-  .nav-cards {
-    flex-direction: column;
-    justify-content: space-between;
-  }
-
-  .nav-card-item {
-    padding-right: 0px;
-  }
-
+    .about-container {
+        flex-direction: column-reverse;
+    }
+    .about-text {
+        flex: 100%;
+        margin-top: 10px;
+    }
+    .about-image {
+        flex: 100%;
+    }
+    .about-image img {
+        width: 100%;
+        margin: 0px;
+    }
+    .nav-cards {
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    .nav-card-item {
+        padding-right: 0px;
+    }
 }
-.impact{
+
+.impact {
     margin-bottom: 20px;
-  padding: 10px;
-  height: 150px;
+    padding: 10px;
+    height: 150px;
+}
 
+.impact p {
+    text-align: center;
+    margin: 0 auto;
 }
-.impact p{
-  text-align: center;
-  margin: 0 auto;
 
+.numbers-reach {
+    font-size: 30px;
+    color: #13A1CE;
 }
-.numbers-reach{
-  font-size: 30px;
- color: #13A1CE;
-}
+
+
 /*
 @property --num {
   syntax: "<integer>";
