@@ -27,32 +27,29 @@ export class TipsComponent {
     });
 
     this.route.params.subscribe((paramMap) => {
-      if (paramMap["langCode"]) {
-        this.tipSheetService.getLanguageByCode(paramMap["langCode"])
+      if (paramMap["langCode"]) { 
+        this.tipSheetService.getLanguageByTypeAndCode(paramMap["langCode"])
           .subscribe((lang) => {
             if (lang) {
               this.tipSheetLang = lang;
-            } else {
-              this.tipSheetLang = {
-                type: 1,
-                code: "en",
-                name: "English"
-              };
             }
           });
       }
     });
-    this.redirectUsingQueryParam();
+    //this.redirectUsingQueryParam();
   }
 
   onLanguageChange(lang: Language) {
-    this.router.navigateByUrl("/tips/" + lang.code, { state: { noScroll: true } });
+    this.tipSheetLang = lang;
+    //commented out because it is not necessary
+    //this.router.navigateByUrl("/tips/"  + lang.type + lang.code, { state: { noScroll: true } });
   }
 
+  //No longer used. left here for future refernce. not used because for now query parameters are not used
   private redirectUsingQueryParam() {
     this.route.queryParams.subscribe((paramMap) => {
       if (paramMap["langCode"]) {
-        this.tipSheetService.getLanguageByCode(paramMap["langCode"])
+        this.tipSheetService.getLanguageByTypeAndCode(paramMap["langCode"])
           .subscribe((lang) => {
             if (lang) {
               this.router.navigateByUrl("/tips/" + lang.code);

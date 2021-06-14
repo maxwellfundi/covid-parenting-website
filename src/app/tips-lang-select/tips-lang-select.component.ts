@@ -8,24 +8,31 @@ import { Language } from '../tip-sheets/tip-sheets.model';
 })
 export class TipsLangSelectComponent implements OnInit, OnChanges {
 
-  @Input() currentLanguage: Language;
   @Output() onLanguageChange: EventEmitter<Language> = new EventEmitter();
-
+  @Input() currentLanguage: Language= { type: 1, code: "en", name: "English" };
   @Input() languages: Language[] = [{ type: 1, code: "en", name: "English" }];
-  selectedRange: string[] = ["C", "F"];
+  selectedRange: string[] = null; //should always be contained in the letter ranges
   letterRanges: string[][] = [["A", "B"], ["C", "F"], ["G", "J"], ["K", "L"], ["M", "P"], ["R", "S"], ["T", "Z"], ["OTHERS", ""]];
   dropdownLanguages: Language[] = [];
 
   constructor() { }
 
   ngOnChanges(changes: SimpleChanges): void {
-    if (changes.languages) {
-      this.onLetterRangeClick(this.selectedRange, false);
-    }
+    //todo. commented out because this component input is designed to be passed when initialising the component only.
+    //if the code below is uncommented the output emitted by this component may cause the input  of this component be changed by other components that host this component e.g Tips component
+
+   // if (changes.languages) {
+      //this.onLetterRangeClick(this.selectedRange, false);
+    //}
   }
 
   ngOnInit(): void {
-    this.onLetterRangeClick(this.letterRanges[0], false);
+    if(this.selectedRange === null){
+      this.onLetterRangeClick(this.letterRanges[1], false);
+    }else{ 
+      this.onLetterRangeClick(this.selectedRange, true);
+    }
+   
   }
 
   onLetterRangeClick(range: string[], changeLang: boolean = true) {
@@ -33,7 +40,7 @@ export class TipsLangSelectComponent implements OnInit, OnChanges {
     let bType2: boolean = (range[0] === "OTHERS");
     let lowerLetter: string;
     let higherLetter: string;
-    this.selectedRange = range;
+    this.selectedRange = range; 
 
     if (!bType2) {
       lowerLetter = range[0].toLowerCase();
@@ -53,14 +60,14 @@ export class TipsLangSelectComponent implements OnInit, OnChanges {
 
     if (changeLang && this.dropdownLanguages.length > 0) {
       this.currentLanguage = this.dropdownLanguages[0]; 
-      this.onLanguageChange.emit(this.currentLanguage);
+      this.onLanguageChange.emit(this.currentLanguage); 
     }
 
   }//end method
 
   onLanguageClick(language: Language) {
-    this.currentLanguage = language;
-    this.onLanguageChange.emit(language);
+    this.currentLanguage = language; 
+    this.onLanguageChange.emit(language); 
   }
 
 
