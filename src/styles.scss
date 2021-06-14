@@ -323,17 +323,17 @@ body {
 }
 
 
-/* Add Animation */
+/* Add popup modal Animation */
 
 .popup-modal-content,
 .popup-modal-caption {
-    -webkit-animation-name: zoom;
+    -webkit-animation-name: popupmodalzoom;
     -webkit-animation-duration: 0.6s;
-    animation-name: zoom;
+    animation-name: popupmodalzoom;
     animation-duration: 0.6s;
 }
 
-@-webkit-keyframes zoom {
+@-webkit-keyframes popupmodalzoom {
     from {
         -webkit-transform: scale(0)
     }
@@ -342,7 +342,7 @@ body {
     }
 }
 
-@keyframes zoom {
+@keyframes popupmodalzoom {
     from {
         transform: scale(0)
     }
